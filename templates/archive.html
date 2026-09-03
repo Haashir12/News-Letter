@@ -6,7 +6,7 @@
   <ul class="archive-list">
     {% for w in weeks %}
     <li>
-      <span><a href="weeks/{{ w.week_id }}.html">{{ w.week_id }}</a> — {{ w.date_label }}</span>
+      <span><a href="days/{{ w.week_id }}.html">{{ w.week_id }}</a> — {{ w.date_label }}</span>
       <span class="archive-status">{{ w.status_label }}</span>
     </li>
     {% endfor %}
