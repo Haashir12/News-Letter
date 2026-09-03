@@ -1,0 +1,31 @@
+{% include "partials/head.html" %}
+{% include "partials/masthead.html" %}
+
+<main>
+  <p class="run-note">{{ run_note | safe }}</p>
+
+  {% for d in dispatches %}
+  <section class="dispatch" id="{{ d.anchor }}">
+    <div class="dateline">
+      <span class="lamp {{ '' if d.lit else 'lamp--dim' }}"></span>
+      <span class="dateline__place">{{ d.place }}</span>
+      <span class="dateline__date">{{ d.date_label }}</span>
+    </div>
+
+    {% if d.stories %}
+      {% for s in d.stories %}
+      <article class="story">
+        <h2 class="story__headline">{{ s.headline }}</h2>
+        {% if s.image_url %}<img class="story__media" src="{{ s.image_url }}" alt="" loading="lazy">{% endif %}
+        <p class="story__body">{{ s.summary }}</p>
+        <p class="story__source">{{ s.date_label }} · Source: <a href="{{ s.source_url }}" rel="noopener" target="_blank">{{ s.source }}</a></p>
+      </article>
+      {% endfor %}
+    {% else %}
+      <p class="empty-note">{{ d.empty_message }}</p>
+    {% endif %}
+  </section>
+  {% endfor %}
+</main>
+
+{% include "partials/foot.html" %}
