@@ -59,13 +59,17 @@ FEEDS = [
     {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
     {"name": "Wired", "url": "https://www.wired.com/feed/rss"},
     {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
-    {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
     {"name": "BBC Technology", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"},
     {"name": "The Register", "url": "https://www.theregister.com/headlines.atom"},
     {"name": "Rest of World", "url": "https://restofworld.org/feed/latest/"},
     {"name": "Tech in Asia", "url": "https://www.techinasia.com/feed"},
     {"name": "Inc42 (India)", "url": "https://inc42.com/feed/"},
     {"name": "Sifted (Europe)", "url": "https://sifted.eu/feed"},
+    {"name": "TechCabal (Africa)", "url": "https://techcabal.com/feed/"},
+    {"name": "e27 (Southeast Asia)", "url": "https://e27.co/feed/"},
+    {"name": "Wamda (Middle East)", "url": "https://www.wamda.com/feed"},
+    {"name": "Startup Daily (Australia)", "url": "https://www.startupdaily.net/feed/"},
+    {"name": "BetaKit (Canada)", "url": "https://betakit.com/feed/"},
     {"name": "CNBC Technology", "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html"},
 ]
 
@@ -166,7 +170,7 @@ def fetch_article_excerpt(url, max_chars=1200):
         return ""
 
 
-def collect_candidates(cutoff):
+def collect_candidates(cutoff, limit=MAX_CANDIDATES_PER_RUN):
     candidates = []
     seen_links = set()
     for feed in FEEDS:
@@ -198,7 +202,7 @@ def collect_candidates(cutoff):
 
     # Most recent first, then cap so the LLM budget stays predictable.
     candidates.sort(key=lambda c: c["published"] or "", reverse=True)
-    return candidates[:MAX_CANDIDATES_PER_RUN]
+    return candidates[:limit]
 
 
 # ---------------------------------------------------------------------------
@@ -387,12 +391,17 @@ def to_dispatches(day_data):
     """Builds the section list for a single day's own archive page."""
     dispatches = []
     for c in day_data["countries"]:
+        stories = []
+        for s in c["stories"]:
+            story = dict(s)
+            story["date_label"] = format_date_label(story.get("published") or day_data["run_timestamp"])
+            stories.append(story)
         dispatches.append({
             "anchor": slugify(c["name"]),
             "place": c["name"],
             "date_label": format_date_label(day_data["run_timestamp"]),
             "lit": True,
-            "stories": c["stories"],
+            "stories": stories,
             "empty_message": "",
         })
     if not dispatches:
@@ -408,19 +417,29 @@ def to_dispatches(day_data):
 
 
 def aggregate_recent(all_days, window_days=ROLLING_WINDOW_DAYS):
-    """Merges every day within the window into one country-grouped view,
-    so the homepage always has substance even when today was quiet."""
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=window_days)).strftime("%Y-%m-%d")
-    in_window = [d for d in all_days if d["date"] >= cutoff]
+    """Merges every story within the window into one country-grouped view,
+    so the homepage always has substance even when today was quiet. Ages
+    stories out by their own real publish date, not by which day's batch
+    they were fetched in — this matters for backfilled data, where many
+    stories with different real dates can land in a single day's file."""
+    cutoff_dt = datetime.now(timezone.utc) - timedelta(days=window_days)
+    days_in_window = set()
 
     by_country = {}
-    for d in in_window:
+    for d in all_days:
         for c in d["countries"]:
-            bucket = by_country.setdefault(c["name"], [])
             for s in c["stories"]:
+                pub_raw = s.get("published") or d["run_timestamp"]
+                try:
+                    pub_dt = datetime.fromisoformat(pub_raw)
+                except ValueError:
+                    continue
+                if pub_dt < cutoff_dt:
+                    continue
+                days_in_window.add(d["date"])
                 story = dict(s)
-                story["date_label"] = format_date_label(story.get("published") or d["run_timestamp"])
-                bucket.append(story)
+                story["date_label"] = format_date_label(pub_raw)
+                by_country.setdefault(c["name"], []).append(story)
 
     for name, items in by_country.items():
         # Most important first; recency breaks ties.
@@ -437,7 +456,7 @@ def aggregate_recent(all_days, window_days=ROLLING_WINDOW_DAYS):
         "countries": countries,
         "total_stories": sum(len(c["stories"]) for c in countries),
         "window_days": window_days,
-        "days_included": len(in_window),
+        "days_included": len(days_in_window),
     }
 
 
@@ -550,6 +569,7 @@ def render_site(all_days):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--mock", action="store_true", help="Build the site from fake sample data; no network or API key needed.")
+    parser.add_argument("--backfill-days", type=int, default=None, help="One-time wider lookback (e.g. 21) to pull in whatever older items the RSS feeds still carry. Use this once to seed real history; daily runs after that go back to normal incremental fetching.")
     args = parser.parse_args()
 
     run_dt = datetime.now(timezone.utc)
@@ -562,10 +582,16 @@ def main():
         if not api_key:
             print("[error] GEMINI_API_KEY environment variable is not set.")
             sys.exit(1)
-        state = load_state()
-        cutoff = get_cutoff(state)
-        print(f"[info] looking for articles published after {cutoff.isoformat()}")
-        candidates = collect_candidates(cutoff)
+        if args.backfill_days:
+            cutoff = run_dt - timedelta(days=args.backfill_days)
+            limit = max(MAX_CANDIDATES_PER_RUN, 200)
+            print(f"[info] BACKFILL MODE: looking back {args.backfill_days} days, up to {limit} articles")
+        else:
+            state = load_state()
+            cutoff = get_cutoff(state)
+            limit = MAX_CANDIDATES_PER_RUN
+            print(f"[info] looking for articles published after {cutoff.isoformat()}")
+        candidates = collect_candidates(cutoff, limit=limit)
         print(f"[info] {len(candidates)} candidate articles found across {len(FEEDS)} feeds")
         stories = summarize_candidates(candidates, api_key)
         print(f"[info] {len(stories)} stories judged relevant after tagging")
