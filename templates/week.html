@@ -18,7 +18,7 @@
         <h2 class="story__headline">{{ s.headline }}</h2>
         {% if s.image_url %}<img class="story__media" src="{{ s.image_url }}" alt="" loading="lazy">{% endif %}
         <p class="story__body">{{ s.summary }}</p>
-        <p class="story__source">Source: <a href="{{ s.source_url }}" rel="noopener" target="_blank">{{ s.source }}</a></p>
+        <p class="story__source">{{ s.date_label }} · Source: <a href="{{ s.source_url }}" rel="noopener" target="_blank">{{ s.source }}</a></p>
       </article>
       {% endfor %}
     {% else %}
