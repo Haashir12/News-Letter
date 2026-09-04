@@ -1,0 +1,6 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Global Signal logo">
+  <circle cx="18" cy="46" r="5.5" fill="#c6902e"/>
+  <path d="M 18 32 A 14 14 0 0 1 32 46" fill="none" stroke="#c6902e" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M 18 24 A 22 22 0 0 1 40 46" fill="none" stroke="#c6902e" stroke-width="3.4" stroke-linecap="round" opacity="0.72"/>
+  <path d="M 18 16 A 30 30 0 0 1 48 46" fill="none" stroke="#c6902e" stroke-width="3.4" stroke-linecap="round" opacity="0.46"/>
+</svg>
