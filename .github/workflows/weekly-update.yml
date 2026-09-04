@@ -1,12 +1,14 @@
-name: Weekly Tech Newsletter Update
+name: Daily Tech Newsletter Update
 
 on:
   schedule:
+    # Every day at 06:00 UTC. GitHub may delay scheduled runs by up to
+    # ~30 minutes during busy periods — that's normal, not a bug.
     - cron: "0 6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 permissions:
-  contents: write
+  contents: write   # needed so the workflow can commit the new data/site files
 
 jobs:
   update:
@@ -23,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Generate this week's newsletter
+      - name: Generate today's newsletter
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/generate_newsletter.py --backfill-days 21
@@ -33,5 +35,5 @@ jobs:
           git config user.name "global-signal-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data docs
-          git diff --cached --quiet && echo "Nothing changed, skipping commit" || git commit -m "Weekly update: $(date -u +'%Y-%m-%d')"
+          git diff --cached --quiet && echo "Nothing changed, skipping commit" || git commit -m "Daily update: $(date -u +'%Y-%m-%d')"
           git push
