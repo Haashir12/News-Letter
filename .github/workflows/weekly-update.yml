@@ -13,7 +13,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 20   # safety net: kill the job if anything ever hangs, instead of burning hours
+    timeout-minutes: 30   # safety net: kill the job if anything ever hangs, instead of burning hours
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -29,7 +29,7 @@ jobs:
       - name: Generate today's newsletter
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/generate_newsletter.py --backfill-days 21
+        run: python scripts/generate_newsletter.py --backfill-days 10
 
       - name: Commit and push updated data + site
         run: |
