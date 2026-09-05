@@ -13,6 +13,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20   # safety net: kill the job if anything ever hangs, instead of burning hours
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
