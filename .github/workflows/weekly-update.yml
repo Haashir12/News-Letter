@@ -4,7 +4,7 @@ on:
   schedule:
     # Every day at 06:00 UTC. GitHub may delay scheduled runs by up to
     # ~30 minutes during busy periods — that's normal, not a bug.
-    - cron: "0 6 * * *"
+    - cron: "0 2 * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 permissions:
