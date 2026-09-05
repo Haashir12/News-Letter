@@ -92,6 +92,7 @@ TEMPLATES_DIR = ROOT / "templates"
 STATE_FILE = DATA_DIR / "state.json"
 
 HEADERS = {"User-Agent": "GlobalSignalBot/1.0 (+weekly tech news digest; contact: repo owner)"}
+socket.setdefaulttimeout(FEED_TIMEOUT_SECONDS)
 
 
 # ---------------------------------------------------------------------------
