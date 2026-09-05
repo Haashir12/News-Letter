@@ -265,6 +265,12 @@ def call_gemini(api_key, title, source, text, retries=3):
                 print(f"[warn] rate limited by Gemini, waiting {wait}s...")
                 time.sleep(wait)
                 continue
+            if resp.status_code != 200:
+                # Print the real error body so a future failure (retired model,
+                # bad key, malformed schema, etc.) is visible directly in the
+                # Actions log instead of guesswork.
+                print(f"[warn] Gemini returned HTTP {resp.status_code}: {resp.text[:500]}")
+                resp.raise_for_status()
             resp.raise_for_status()
             payload = resp.json()
             text_out = payload["candidates"][0]["content"]["parts"][0]["text"]
