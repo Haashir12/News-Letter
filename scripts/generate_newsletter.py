@@ -73,7 +73,7 @@ FEEDS = [
     {"name": "CNBC Technology", "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html"},
 ]
 
-MODEL_NAME = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL_NAME = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL_NAME}:generateContent"
 
 MAX_CANDIDATES_PER_RUN = 60          # caps LLM calls so a run always fits the free tier
