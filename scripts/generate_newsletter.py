@@ -176,14 +176,18 @@ def collect_candidates(cutoff, limit=MAX_CANDIDATES_PER_RUN):
     candidates = []
     seen_links = set()
     for feed in FEEDS:
+        print(f"[info] fetching feed '{feed['name']}'...")
         try:
-            parsed = feedparser.parse(feed["url"], request_headers=HEADERS)
+            resp = requests.get(feed["url"], headers=HEADERS, timeout=FEED_TIMEOUT_SECONDS)
+            resp.raise_for_status()
+            parsed = feedparser.parse(resp.content)
             if parsed.bozo and not parsed.entries:
-                print(f"[warn] could not read feed '{feed['name']}': {parsed.bozo_exception}")
+                print(f"[warn] could not parse feed '{feed['name']}': {parsed.bozo_exception}")
                 continue
         except Exception as exc:  # noqa: BLE001 - a single bad feed must not kill the run
             print(f"[warn] error fetching feed '{feed['name']}': {exc}")
             continue
+        print(f"[info] '{feed['name']}' returned {len(parsed.entries)} entries")
 
         for entry in parsed.entries:
             link = entry.get("link")
