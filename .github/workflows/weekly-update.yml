@@ -2,8 +2,9 @@ name: Daily Tech Newsletter Update
 
 on:
   schedule:
-    # Every day at 06:00 UTC. GitHub may delay scheduled runs by up to
-    # ~30 minutes during busy periods — that's normal, not a bug.
+    # 02:00 UTC = 6:00 AM in UAE (UTC+4, no daylight saving). GitHub may
+    # delay scheduled runs by up to ~30 minutes during busy periods —
+    # that's normal, not a bug.
     - cron: "0 2 * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
@@ -13,7 +14,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30   # safety net: kill the job if anything ever hangs, instead of burning hours
+    timeout-minutes: 20   # safety net: kill the job if anything ever hangs, instead of burning hours
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -29,7 +30,7 @@ jobs:
       - name: Generate today's newsletter
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/generate_newsletter.py --backfill-days 10
+        run: python -u scripts/generate_newsletter.py --backfill-days 10
 
       - name: Commit and push updated data + site
         run: |
