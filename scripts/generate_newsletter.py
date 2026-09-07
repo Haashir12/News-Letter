@@ -84,6 +84,7 @@ ROLLING_WINDOW_DAYS = 30             # homepage always shows at least this much 
 FIRST_RUN_LOOKBACK_DAYS = 7          # if there's no prior state, only look back this far
 FEED_TIMEOUT_SECONDS = 12
 ARTICLE_FETCH_TIMEOUT_SECONDS = 8
+GEMINI_CALL_DELAY_SECONDS = 6.5       # free tier is ~10-15 requests/minute; this keeps us under that
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
@@ -266,9 +267,10 @@ def call_gemini(api_key, title, source, text, retries=3):
                 json=body,
                 timeout=30,
             )
-            if resp.status_code == 429:
-                wait = 2 ** attempt * 5
-                print(f"[warn] rate limited by Gemini, waiting {wait}s...")
+              if resp.status_code == 429:
+                wait = 15 * (attempt + 1)
+                print(f"[warn] rate limited by Gemini (attempt {attempt + 1}/{retries}): {resp.text[:300]}")
+                print(f"[warn] waiting {wait}s before retrying...")
                 time.sleep(wait)
                 continue
             if resp.status_code != 200:
@@ -307,8 +309,8 @@ def summarize_candidates(candidates, api_key):
             "image_url": image_url,
             "published": c["published"],
         })
-        # A small, polite pause keeps us comfortably inside free-tier RPM limits.
-        time.sleep(1.5)
+        # Paced to stay under the free tier's per-minute request limit.
+        time.sleep(GEMINI_CALL_DELAY_SECONDS)
     return results
 
 
@@ -582,6 +584,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--mock", action="store_true", help="Build the site from fake sample data; no network or API key needed.")
     parser.add_argument("--backfill-days", type=int, default=None, help="One-time wider lookback (e.g. 21) to pull in whatever older items the RSS feeds still carry. Use this once to seed real history; daily runs after that go back to normal incremental fetching.")
+    parser.add_argument("--max-articles", type=int, default=None, help="Hard cap on how many articles this run processes, regardless of other settings. Useful for a quick, low-risk test (e.g. --max-articles 5).")
     args = parser.parse_args()
 
     run_dt = datetime.now(timezone.utc)
@@ -603,6 +606,9 @@ def main():
             cutoff = get_cutoff(state)
             limit = MAX_CANDIDATES_PER_RUN
             print(f"[info] looking for articles published after {cutoff.isoformat()}")
+        if args.max_articles:
+            limit = args.max_articles
+            print(f"[info] --max-articles override: capping this run at {limit} articles")
         candidates = collect_candidates(cutoff, limit=limit)
         print(f"[info] {len(candidates)} candidate articles found across {len(FEEDS)} feeds")
         stories = summarize_candidates(candidates, api_key)
