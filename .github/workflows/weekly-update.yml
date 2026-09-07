@@ -30,7 +30,7 @@ jobs:
       - name: Generate today's newsletter
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python -u scripts/generate_newsletter.py --backfill-days 10 --max-articles 5
+        run: python -u scripts/generate_newsletter.py --backfill-days 10
 
       - name: Commit and push updated data + site
         run: |
