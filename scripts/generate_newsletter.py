@@ -93,6 +93,11 @@ TEMPLATES_DIR = ROOT / "templates"
 STATE_FILE = DATA_DIR / "state.json"
 
 HEADERS = {"User-Agent": "GlobalSignalBot/1.0 (+weekly tech news digest; contact: repo owner)"}
+
+# feedparser doesn't take a timeout argument directly - it uses whatever the
+# underlying socket library is set to, which defaults to "wait forever" if
+# unset. A single slow or dead feed server can otherwise hang the entire run
+# indefinitely. This caps every network read in the script.
 socket.setdefaulttimeout(FEED_TIMEOUT_SECONDS)
 
 
@@ -267,7 +272,7 @@ def call_gemini(api_key, title, source, text, retries=3):
                 json=body,
                 timeout=30,
             )
-              if resp.status_code == 429:
+            if resp.status_code == 429:
                 wait = 15 * (attempt + 1)
                 print(f"[warn] rate limited by Gemini (attempt {attempt + 1}/{retries}): {resp.text[:300]}")
                 print(f"[warn] waiting {wait}s before retrying...")
@@ -279,7 +284,6 @@ def call_gemini(api_key, title, source, text, retries=3):
                 # Actions log instead of guesswork.
                 print(f"[warn] Gemini returned HTTP {resp.status_code}: {resp.text[:500]}")
                 resp.raise_for_status()
-            resp.raise_for_status()
             payload = resp.json()
             text_out = payload["candidates"][0]["content"]["parts"][0]["text"]
             return json.loads(text_out)
@@ -599,7 +603,7 @@ def main():
             sys.exit(1)
         if args.backfill_days:
             cutoff = run_dt - timedelta(days=args.backfill_days)
-            limit = max(MAX_CANDIDATES_PER_RUN, 200)
+            limit = max(MAX_CANDIDATES_PER_RUN, 100)
             print(f"[info] BACKFILL MODE: looking back {args.backfill_days} days, up to {limit} articles")
         else:
             state = load_state()
