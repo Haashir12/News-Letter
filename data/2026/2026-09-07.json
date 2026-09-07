@@ -1,39 +1,8 @@
 {
   "date": "2026-09-07",
-  "run_timestamp": "2026-09-07T06:56:27.968485+00:00",
-  "status": "updated",
-  "message": null,
-  "total_stories": 2,
-  "countries": [
-    {
-      "name": "United Kingdom",
-      "stories": [
-        {
-          "headline": "Exclusive: DeepMind veteran Thore Graepel quits to pursue AI reasoning venture",
-          "summary": "Thore Graepel, a prominent veteran researcher at Google DeepMind, has left the company to launch a new startup focused on AI reasoning. Graepel, who played a key role in landmark projects like AlphaGo, joins a growing list of high-profile AI researchers departing major labs to build independent ventures.",
-          "country": "United Kingdom",
-          "importance": 6,
-          "source": "Sifted (Europe)",
-          "source_url": "https://sifted.eu/articles/thore-graepel-deepmind-reason/",
-          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1993,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/06190428/IMG-03338-1-e1788717930315.jpg",
-          "published": "2026-09-07T05:00:43+00:00"
-        }
-      ]
-    },
-    {
-      "name": "United States",
-      "stories": [
-        {
-          "headline": "Jensen's purchase of a new toy could reshape the entire AI industry",
-          "summary": "Nvidia has reportedly acquired Hugging Face, the leading open-source AI model repository, for $12.9 billion. The acquisition has sparked concerns among industry analysts about the potential fragmentation and siloing of AI development, despite assurances that the platform will remain open. This acquisition represents a major consolidation of AI software infrastructure under the dominant AI chipmaker.",
-          "country": "United States",
-          "importance": 9,
-          "source": "The Register",
-          "source_url": "https://www.theregister.com/ai-and-ml/2026/09/07/jensens-purchase-of-a-new-toy-could-reshape-the-entire-ai-industry/5294610",
-          "image_url": "https://image.theregister.com/?imageId=185340&width=800",
-          "published": "2026-09-07T05:30:00+00:00"
-        }
-      ]
-    }
-  ]
+  "run_timestamp": "2026-09-07T07:38:15.775000+00:00",
+  "status": "no_new_news",
+  "message": "Checked all sources today \u2014 nothing that cleared the relevance/importance bar.",
+  "total_stories": 0,
+  "countries": []
 }
