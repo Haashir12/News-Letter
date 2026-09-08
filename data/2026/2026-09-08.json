@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-08",
+  "run_timestamp": "2026-09-08T05:53:10.487313+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 4,
+  "countries": [
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "headline": "EVP launches 40x to support software startup founders looking to raise",
+          "summary": "Australian venture capital firm EVP has launched 40x, a new program designed to support early-stage software startup founders preparing to raise capital. The program will bring together up to 40 revenue-generating founders for peer networking, investor access, and practical advice from experienced entrepreneurs.",
+          "country": "Australia",
+          "importance": 3,
+          "source": "Startup Daily (Australia)",
+          "source_url": "https://www.startupdaily.net/advice/business-strategy/evp-launches-40x-to-support-software-startup-founders-looking-to-raise/",
+          "image_url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/03/1746180137840-copy.jpeg?quality=70&w=840",
+          "published": "2026-09-08T03:06:17+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "stories": [
+        {
+          "headline": "Exclusive: Legaltech Lexroom seals first two M&A deals four months after $50m Series B",
+          "summary": "Milan-based legal AI startup Lexroom has completed its first two acquisitions, occurring four months after securing a $50 million Series B funding round. These acquisitions are intended to support the company's ongoing expansion efforts across Europe.",
+          "country": "Italy",
+          "importance": 5,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/exclusive-legaltech-lexroom-seals-first-two-ma-deals-four-months-after-50m-series-b/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/05/18172708/Lexroom_SeriesB_founders.jpg",
+          "published": "2026-09-08T05:00:18+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "Southeast Asia\u2019s live commerce boom enters its harder second act",
+          "summary": "Southeast Asia's e-commerce sector is transitioning from traditional search-based shopping to content-driven commerce, driven by livestreams, short videos, and creator affiliate marketing. This shift is reshaping the online retail landscape for major regional platforms like Shopee and TikTok Shop as they navigate a more competitive and complex market environment.",
+          "country": "Singapore",
+          "importance": 6,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/Live_commerce.jpg",
+          "published": "2026-09-08T05:44:31+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Sweden",
+      "stories": [
+        {
+          "headline": "Am I a fake founder? What it\u2019s like joining a startup as a cofounder a year late",
+          "summary": "Gabriella Sahlman, co-founder of Swedish private credit firm Fuels Capital, shares insights on the unique challenges of joining a startup as a co-founder a year after its inception. The piece discusses how to navigate equity, integration, and team dynamics when entering an established early-stage company.",
+          "country": "Sweden",
+          "importance": 2,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/am-i-a-fake-founder-what-its-like-joining-a-startup-as-a-cofounder-a-year-late/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/07144921/gabriella-sahlmann.jpg",
+          "published": "2026-09-08T05:00:37+00:00"
+        }
+      ]
+    }
+  ]
+}
