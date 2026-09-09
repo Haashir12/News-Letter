@@ -1,0 +1,129 @@
+{
+  "date": "2026-09-09",
+  "run_timestamp": "2026-09-09T07:00:32.566793+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 9,
+  "countries": [
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "CCI Closes WinZO\u2019s Antitrust Case Against Google After Real Money Gaming Ban",
+          "summary": "The Competition Commission of India has closed an antitrust investigation into Google following a complaint by real money gaming platform WinZO. The case, which challenged Google's Play Store policies regarding real money games, was dismissed after Google updated its policies to allow such apps under certain conditions.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/cci-closes-winzos-antitrust-case-against-google-after-real-money-gaming-ban/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/01/winzo-ED-probe-featured.png",
+          "published": "2026-09-09T06:11:23+00:00"
+        },
+        {
+          "headline": "Indian Fintech Moves Beyond AI Demos",
+          "summary": "The Global Fintech Fest in Mumbai is highlighting how Indian fintech companies are transitioning from artificial intelligence demonstrations to practical, real-world product implementations. This shift underscores the maturing integration of AI technologies within India's financial technology sector.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/features/indian-fintech-moves-beyond-ai-demos/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/ftr-6.jpg",
+          "published": "2026-09-09T05:30:07+00:00"
+        },
+        {
+          "headline": "Fleet Management Startup Carrum Mobility Raises $10 Mn From Uber",
+          "summary": "Indian B2B fleet management startup Carrum Mobility has raised $10 million in a funding round from ride-hailing major Uber. The investment is expected to help the startup scale its fleet operations and strengthen its technology platform.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/fleet-management-startup-carrum-mobility-raises-10-mn-in-uber-led-round/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Untitled-design-2026-09-09T121043.175.png",
+          "published": "2026-09-09T06:46:40+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Apple\u2019s foldable \u2018iPhone Duo\u2019 will reportedly start at $2,000",
+          "summary": "Apple is reportedly preparing to launch its first foldable smartphone, rumored to be named the 'iPhone Duo' with a starting price of $2,000. The detail was reported by Bloomberg's Mark Gurman ahead of an upcoming Apple product event.",
+          "country": "United States",
+          "importance": 6,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published": "2026-09-09T05:26:53+00:00"
+        },
+        {
+          "headline": "Snap CBO Ajit Mohan To Step Down After Four-Year Stint",
+          "summary": "Ajit Mohan is stepping down from his role as the Chief Business Officer of Snap, the parent company of Snapchat. Mohan, who previously led Meta India and Hotstar, joined Snap to oversee its global business operations.",
+          "country": "United States",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/snap-cbo-ajit-mohan-to-step-down-after-four-year-stint/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/02/ajit-mohan-snap-featured.png",
+          "published": "2026-09-09T05:58:36+00:00"
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "stories": [
+        {
+          "headline": "Exclusive: Mistral robotics chief seeks \u20ac200m for new startup",
+          "summary": "The robotics chief of French AI startup Mistral is reportedly seeking to raise \u2001200 million for a new robotics AI startup. The new venture aims to develop AI models specifically for robotics, leveraging more comprehensive training data than current competitors.",
+          "country": "France",
+          "importance": 7,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/exclusive-mistral-robotics-chief-seeks-e200m-for-new-startup/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/08192855/Mistral-Icon-Gradient-RGB.jpg",
+          "published": "2026-09-09T05:00:27+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "stories": [
+        {
+          "headline": "DACH & CEE: the data behind the region's fastest-growing startups",
+          "summary": "Sifted has released its fifth leaderboard ranking the 100 fastest-growing startups by revenue growth across the DACH and CEE regions. The report provides data-driven insights into the top-performing technology companies and growth trends in Central and Eastern Europe, Germany, Austria, and Switzerland.",
+          "country": "Germany",
+          "importance": 3,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/dach-cee-the-data-behind-the-regions-fastest-growing-startups/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2025/07/29173257/team_press_3-scaled.jpg",
+          "published": "2026-09-09T05:00:39+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+          "summary": "Fusionality, a startup founded by former Google DeepMind researchers, is developing specialized control systems and simulation software to accelerate the development of fusion power. The company aims to fill a critical gap in the fusion industry by providing standardized software components that help fusion startups build and manage their experimental devices more efficiently.",
+          "country": "Global",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Fusionality_Founders_3.jpeg?resize=1200,800",
+          "published": "2026-09-09T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Thailand",
+      "stories": [
+        {
+          "headline": "Thailand\u2019s mobility future will be decided by data, not just vehicles",
+          "summary": "At the HERE Directions Bangkok 2026 event, industry discussions highlighted that Thailand's future mobility will rely heavily on data sharing and intelligence integration across vehicles, roads, and public agencies, rather than just electric vehicle adoption. This shift emphasizes the role of location technology and collaborative data ecosystems in making transportation safer and more efficient.",
+          "country": "Thailand",
+          "importance": 3,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/thailands-mobility-future-will-be-decided-by-data-not-just-vehicles-20260909/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/HERE_News.jpg",
+          "published": "2026-09-09T05:20:21+00:00"
+        }
+      ]
+    }
+  ]
+}
