@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-10",
+  "run_timestamp": "2026-09-10T06:56:58.828006+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 3,
+  "countries": [
+    {
+      "name": "France",
+      "stories": [
+        {
+          "headline": "Why did Samsung back Mistral?",
+          "summary": "French AI startup Mistral has confirmed a \u20133bn Series D funding round at a post-money valuation of over \u201321bn. The round, which reportedly includes backing from Samsung, represents one of the largest fundraises ever for a European technology company.",
+          "country": "France",
+          "importance": 8,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/why-did-samsung-back-mistral/",
+          "image_url": "https://content.sifted.eu/wp-content/uploads/2026/05/28111139/mistral-infra-1024x336.png",
+          "published": "2026-09-10T05:00:23+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "The most active growth equity investors in Europe",
+          "summary": "Sifted has highlighted the most active growth equity investors in Europe's diverse growth-stage market. Notably, the European Investment Fund (EIF) has launched a new \u201315 billion fund of funds designed to back 100 growth-stage venture capital firms across the region. This initiative aims to significantly boost late-stage funding availability for European technology startups.",
+          "country": "Global",
+          "importance": 6,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/the-most-active-growth-equity-investors-in-europe/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2022/07/11151642/Balderton-Capital-Series-A-1-e1657554874448.png",
+          "published": "2026-09-10T05:00:11+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Laptop-slinger Framework refunding customers who paid top dollar for RAM",
+          "summary": "Laptop manufacturer Framework is refunding customers who ordered its Laptop 13 Pro with 64GB of RAM after previously downgrading their orders to 32GB due to a massive spike in LPCAMM2 memory costs. The company has since secured a limited quantity of Micron 32GB and 64GB modules at a lower cost, allowing them to fulfill the original specifications and refund the price difference to affected buyers.",
+          "country": "United States",
+          "importance": 4,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/personal-tech/2026/09/10/laptop-slinger-framework-refunding-customers-who-paid-top-dollar-for-ram/5295439",
+          "image_url": "https://image.theregister.com/?imageId=5262109&width=800",
+          "published": "2026-09-10T06:23:12+00:00"
+        }
+      ]
+    }
+  ]
+}
