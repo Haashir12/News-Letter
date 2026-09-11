@@ -1,0 +1,89 @@
+{
+  "date": "2026-09-11",
+  "run_timestamp": "2026-09-11T06:56:55.772929+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 6,
+  "countries": [
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "The European founders who\u2019ve set up funds",
+          "summary": "A growing number of successful European tech founders are transitioning into venture capital by launching their own investment funds to back early-stage startups. In parallel, the European Investment Fund has introduced a \u20ac15 billion fund of funds designed to support 100 growth-stage venture capital firms across Europe.",
+          "country": "Global",
+          "importance": 4,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/european-founders-funds/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=2000,quality=75,fit=cover,format=auto/wp-content/uploads/2026/04/20103840/PR-headshot-landscape-nik-1-1.png",
+          "published": "2026-09-11T05:00:58+00:00"
+        },
+        {
+          "headline": "Meet the Sequoia venture scouts hunting for deals in Europe",
+          "summary": "Sequoia Capital is leveraging its venture scout program to identify and source early-stage tech investment opportunities across Europe. The program, which has previously helped the US-based venture capital firm back major successes like Stripe, relies on a network of local founders and insiders to find promising startups.",
+          "country": "Global",
+          "importance": 4,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/sequoia-scouts-2026/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1926,quality=75,fit=cover,format=auto/wp-content/uploads/2020/11/27114104/sequoia.png",
+          "published": "2026-09-11T05:00:27+00:00"
+        },
+        {
+          "headline": "Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto\u2019s macro trap",
+          "summary": "Bitcoin fell to US$76,796.54, leading a broader 1.74 percent decline in the total cryptocurrency market capitalization to US$2.62 trillion. The drop highlights a strong 91 percent correlation with the S&P 500, indicating that crypto assets remain heavily tied to traditional macroeconomic movements.",
+          "country": "Global",
+          "importance": 3,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/bitcoin-drops-to-us76796-54-as-91-sp-500-correlation-exposes-cryptos-macro-trap-20260911/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/e27-35.png",
+          "published": "2026-09-11T05:10:43+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "stories": [
+        {
+          "headline": "The 10 most capital-efficient startups in DACH and CEE",
+          "summary": "Sifted has released its latest \"Sifted 100: DACH & CEE\" leaderboard, which ranks the fastest-growing and most capital-efficient startups and scaleups across Germany, Austria, Switzerland, and Central and Eastern Europe. The ranking is based on revenue growth and highlights emerging tech companies navigating the current European venture capital landscape.",
+          "country": "Europe",
+          "importance": 4,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/the-10-most-capital-efficient-startups-in-dach-and-cee/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/10144439/1788782712-dach-cee2026.png",
+          "published": "2026-09-11T05:00:55+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "UPI MDR May Be Set At 40 Bps; Banks Could Get Largest Share: Report",
+          "summary": "The Indian government is reportedly planning to introduce a framework to levy a merchant discount rate of 40 basis points on select Unified Payments Interface transactions. Under the proposed structure, banks are expected to receive the largest share of the collected fees, which could significantly impact the revenue models of fintech companies and payment service providers in the country.",
+          "country": "India",
+          "importance": 6,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/upi-mdr-may-be-set-at-40-bps-banks-could-get-largest-share-report/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/UPI-monthly-ftr.jpg",
+          "published": "2026-09-11T06:01:48+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Microsoft annoints Rust as a 'Tier 1' internal language",
+          "summary": "Microsoft has officially designated the Rust programming language as a 'Tier 1' tool for its internal development, aiming to systematically eliminate memory safety vulnerabilities in Windows. This elevation ensures that Microsoft developers have the official support, training, and tooling required to write and integrate Rust code directly into core operating system components.",
+          "country": "United States",
+          "importance": 7,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/devops/2026/09/11/microsoft-annoints-rust-as-a-tier-1-internal-language/5295732",
+          "image_url": "https://image.theregister.com/?imageId=1682034&width=800",
+          "published": "2026-09-11T06:26:00+00:00"
+        }
+      ]
+    }
+  ]
+}
