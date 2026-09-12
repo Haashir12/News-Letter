@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-12",
+  "run_timestamp": "2026-09-12T06:48:04.058596+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 9,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion",
+          "summary": "Oracle reported a 30% revenue growth to $19.35 billion for its fiscal first quarter, driven by a 121% surge in cloud infrastructure revenue due to high demand for AI services. Despite beating estimates and booking over $30 billion in new AI cloud contracts, the company's stock closed lower as investors remain concerned about its $125 billion debt load accumulated to fund AI infrastructure.",
+          "country": "United States",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108348677-1786560865437-gettyimages-2289704306-US_STOCKS.jpeg?v=1786560938&w=1920&h=1080",
+          "published": "2026-09-11T22:11:10+00:00"
+        },
+        {
+          "headline": "Oracle's Larry Ellison adopts trading plan to sell up to $7.5 billion worth of stock",
+          "summary": "Oracle founder Larry Ellison has adopted a trading plan allowing him to sell up to 50 million shares of the software company, valued at approximately $7.5 billion. This marks an unusual move for Ellison, who has historically held onto his substantial stake in the company he co-founded in 1977.",
+          "country": "United States",
+          "importance": 6,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/09/11/larry-ellison-50-million-trading-plan.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108362127-1789175159742-gettyimages-1175129143-b76i6406_2019091665018538.jpeg?v=1789175206&w=1920&h=1080",
+          "published": "2026-09-12T01:36:02+00:00"
+        },
+        {
+          "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "summary": "Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots, is reportedly nearing a new funding round led by Sequoia Capital. The deal could value the two-year-old company at approximately $500 million, coming just months after it raised a $60 million Series A round.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+          "published": "2026-09-11T22:58:17+00:00"
+        },
+        {
+          "headline": "Why data centers could be the next big market for catastrophe bonds",
+          "summary": "The rapid expansion of hyperscale data centers is creating highly concentrated physical assets, prompting the insurance industry to consider catastrophe (CAT) bonds to manage risks from natural disasters. While no data center risk has officially entered the CAT bond market yet, experts estimate the first dedicated deals could emerge within 12 to 18 months as traditional insurers look to offload risk to capital markets.",
+          "country": "United States",
+          "importance": 5,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/09/12/ai-data-centers-catastrophe-bonds-insurance.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108343671-1785754847545-gettyimages-2288023365-03_20260802_0140.jpeg?v=1785754856&w=1920&h=1080",
+          "published": "2026-09-12T05:00:01+00:00"
+        },
+        {
+          "headline": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+          "summary": "Sony's Insomniac Games is releasing 'Marvel's Wolverine,' its biggest PlayStation 5 exclusive of the year. Unlike the studio's highly successful and family-friendly Spider-Man franchise, this title carries an 18-plus rating due to intense violence and gore, representing a significant commercial gamble for the platform holder.",
+          "country": "United States",
+          "importance": 4,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg",
+          "published": "2026-09-12T00:35:50+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "stories": [
+        {
+          "headline": "Some satellite companies still have an appetite for boutique launch services",
+          "summary": "Germany's Isar Aerospace has successfully reached orbit for the first time with its Spectrum rocket, launching a batch of CubeSats from Norway. This milestone highlights the ongoing demand for boutique, dedicated launch services as satellite operators seek alternatives to SpaceX amid capacity constraints.",
+          "country": "Germany",
+          "importance": 6,
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-1152x648.jpg",
+          "published": "2026-09-11T23:34:45+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "AI more likely to kill animals if it saves fuel or money",
+          "summary": "A study highlights that machine learning models used in autonomous systems may prioritize fuel efficiency or cost savings over avoiding collisions with animals. This research underscores the ongoing ethical challenges in programming AI to value non-human life when making split-second operational decisions.",
+          "country": "Global",
+          "importance": 4,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
+          "image_url": "https://image.theregister.com/?imageId=5296007&width=800",
+          "published": "2026-09-11T21:49:59+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "From Pixxel To Swish \u2014 Indian Startups Raised Over $321.9 Mn This Week",
+          "summary": "Indian startups raised over $321.9 million in funding during the second week of September, marking a sharp rebound in investment activity. Key startups securing capital during this period included space-tech company Pixxel and quick-commerce startup Swish.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/from-pixxel-to-swish-indian-startups-raised-over-321-9-mn-this-week/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Ftr-100-4.jpg",
+          "published": "2026-09-12T03:29:46+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Tech Now",
+          "summary": "BBC's Tech Now program features a trial of a new assisted birth innovation being tested by hospital staff and mothers. The episode also highlights a company developing electric vehicle technology that operates without the use of rare earth elements.",
+          "country": "United Kingdom",
+          "importance": 4,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0p93vjy.jpg",
+          "published": "2026-09-12T01:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}
