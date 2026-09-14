@@ -30,7 +30,13 @@ jobs:
       - name: Generate today's newsletter
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python -u scripts/generate_newsletter.py --backfill-days 10 --max-articles 10
+        run: python -u scripts/generate_newsletter.py --backfill-days 10
+
+      - name: Send daily email
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ secrets.BREVO_LIST_ID }}
+        run: python -u scripts/send_email.py
 
       - name: Commit and push updated data + site
         run: |
