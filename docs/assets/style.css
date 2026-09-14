@@ -175,6 +175,21 @@ main { max-width: var(--measure); margin: 0 auto; padding: 8px 24px 80px; }
 footer.site-footer { max-width: 900px; margin: 0 auto; padding: 20px 24px 60px; font-size: 13px; color: var(--ink-soft); }
 footer.site-footer a { color: var(--ink-soft); }
 
+/* ---------- Subscribe ---------- */
+
+.subscribe { border-top: 1px solid var(--paper-line); border-bottom: 1px solid var(--paper-line); padding: 36px 0; margin: 8px 0 28px; }
+.subscribe__title { font-family: var(--font-display); font-weight: 600; font-size: 1.6rem; margin: 0 0 6px; }
+.subscribe__tagline { color: var(--ink-soft); font-size: 15px; margin: 0 0 22px; max-width: 52ch; }
+.plans { display: flex; flex-wrap: wrap; gap: 14px; }
+.plan { border: 1px solid var(--paper-line); border-radius: 6px; padding: 20px 22px; flex: 1 1 220px; background: var(--paper); }
+.plan--yearly { border-color: var(--gold); }
+.plan__badge { display: inline-block; font-family: var(--font-mono); font-size: 11px; color: var(--gold-dim); background: rgba(198,144,46,0.12); padding: 2px 8px; border-radius: 999px; margin-bottom: 10px; }
+.plan__price { font-family: var(--font-display); font-weight: 600; font-size: 1.9rem; margin: 0; }
+.plan__price span { font-family: var(--font-body); font-size: 14px; color: var(--ink-soft); font-weight: 400; }
+.plan__note { font-size: 13px; color: var(--ink-soft); margin: 4px 0 16px; }
+.plan__cta { display: inline-block; text-decoration: none; background: var(--ink); color: var(--paper); font-family: var(--font-body); font-weight: 600; font-size: 14px; padding: 10px 18px; border-radius: 4px; }
+.plan__cta:hover { background: var(--ink-soft); }
+
 @media (max-width: 480px) {
   .story__headline { font-size: 1.28rem; }
   body { font-size: 16px; }
