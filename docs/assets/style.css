@@ -103,7 +103,10 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--teal); outline-
   white-space: nowrap;
 }
 .country-nav a:hover { border-color: var(--gold); color: var(--gold-dim); }
+.country-nav a.is-active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.country-nav a.is-active .count { color: var(--paper-dim); }
 .country-nav .count { color: var(--gold-dim); font-family: var(--font-mono); font-size: 12px; margin-left: 5px; }
+.country-nav__all { font-weight: 700; border-color: var(--ink) !important; }
 
 /* ---------- Main column ---------- */
 
@@ -142,7 +145,7 @@ main { max-width: var(--measure); margin: 0 auto; padding: 8px 24px 80px; }
 }
 .dateline__date { font-size: 13px; color: var(--ink-soft); }
 
-.story { margin: 0 0 30px; }
+.story { margin: 0 0 68px; }
 .story:last-child { margin-bottom: 0; }
 .story__headline {
   font-family: var(--font-display);
