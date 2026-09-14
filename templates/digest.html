@@ -1,8 +1,27 @@
 {% include "partials/head.html" %}
 {% include "partials/masthead.html" %}
 
-<main>
+<main id="top">
   <p class="run-note">{{ run_note | safe }}</p>
+
+  <section class="subscribe">
+    <h2 class="subscribe__title">Get it in your inbox</h2>
+    <p class="subscribe__tagline">The site is free to read, always. Subscribe to get today's stories delivered by email every morning instead of checking back.</p>
+    <div class="plans">
+      <div class="plan">
+        <span class="plan__badge">MONTHLY</span>
+        <p class="plan__price">$3.99<span> / month</span></p>
+        <p class="plan__note">Cancel anytime</p>
+        <a class="plan__cta" href="STRIPE_MONTHLY_LINK_HERE" target="_blank" rel="noopener">Subscribe monthly</a>
+      </div>
+      <div class="plan plan--yearly">
+        <span class="plan__badge">YEARLY · SAVE 37%</span>
+        <p class="plan__price">$29.99<span> / year</span></p>
+        <p class="plan__note">Works out to $2.50/month</p>
+        <a class="plan__cta" href="STRIPE_YEARLY_LINK_HERE" target="_blank" rel="noopener">Subscribe yearly</a>
+      </div>
+    </div>
+  </section>
 
   {% for d in dispatches %}
   <section class="dispatch" id="{{ d.anchor }}">
