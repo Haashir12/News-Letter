@@ -121,7 +121,7 @@ main { max-width: var(--measure); margin: 0 auto; padding: 8px 24px 80px; }
 
 /* ---------- Dispatch (one country block) ---------- */
 
-.dispatch { padding: 40px 0; }
+.dispatch { padding: 48px 0; }
 .dispatch + .dispatch { border-top: 1px solid var(--paper-line); }
 
 .dateline { display: flex; align-items: baseline; gap: 10px; margin-bottom: 18px; }
