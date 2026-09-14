@@ -17,9 +17,10 @@
   </div>
 </div>
 {% if countries %}
-<nav class="country-nav" aria-label="Countries covered this week">
+<nav class="country-nav" aria-label="Filter by country">
+  <a href="#top" class="country-nav__all is-active" data-filter="all">All</a>
   {% for c in countries %}
-  <a href="#{{ c.anchor }}">{{ c.name }}<span class="count">{{ c.count }}</span></a>
+  <a href="#{{ c.anchor }}" data-filter="{{ c.anchor }}">{{ c.name }}<span class="count">{{ c.count }}</span></a>
   {% endfor %}
 </nav>
 {% endif %}
