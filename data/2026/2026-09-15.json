@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-15",
+  "run_timestamp": "2026-09-15T03:18:42.712251+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 2,
+  "countries": [
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "What Southeast Asia\u2019s edutech startups can learn from AI\u2019s limits in education",
+          "summary": "This article explores the integration of generative artificial intelligence within Southeast Asia's educational technology sector, highlighting benefits like personalized learning and automated administrative tasks. It cautions edutech startups to understand the limitations of AI in education, advising them to focus on human-centric design rather than relying solely on technology.",
+          "country": "Global",
+          "importance": 4,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
+          "image_url": null,
+          "published": "2026-09-15T01:30:20+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Jensen Huang took a call from Trump, and showed off something else, too",
+          "summary": "During the All-In conference in Los Angeles, Nvidia CEO Jensen Huang took a live phone call from Donald Trump using an unreleased Apple foldable phone, which is not scheduled for release for another five weeks. Once connected, the conversation turned to AI safety, with Trump characterizing fears surrounding AI technology as a hoax.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+          "published": "2026-09-15T01:50:48+00:00"
+        }
+      ]
+    }
+  ]
+}

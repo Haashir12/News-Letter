@@ -15,9 +15,9 @@
 <div class="masthead">
   <div class="ticker">
     <div class="ticker__track">
-      <span>LAST CHECK: September 13, 2026 · 10 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
-      <span>LAST CHECK: September 13, 2026 · 10 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
-      <span>LAST CHECK: September 13, 2026 · 10 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+      <span>LAST CHECK: September 15, 2026 · 2 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+      <span>LAST CHECK: September 15, 2026 · 2 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+      <span>LAST CHECK: September 15, 2026 · 2 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
     </div>
   </div>
   <div class="masthead__inner">
@@ -35,6 +35,11 @@
 <main>
   <p class="run-note">Every weekly check-in, going back to the first one. A dim lamp means the agent ran and found nothing notable that week — it's not a missed update.</p>
   <ul class="archive-list">
+    
+    <li>
+      <span><a href="days/2026-09-15.html">2026-09-15</a> — September 15, 2026</span>
+      <span class="archive-status">2 stories</span>
+    </li>
     
     <li>
       <span><a href="days/2026-09-13.html">2026-09-13</a> — September 13, 2026</span>
@@ -95,7 +100,31 @@
 </main>
 
 <footer class="site-footer">
-  <p>Global Signal is generated automatically by a daily script. The homepage shows a rolling 30 days of coverage that reads public tech-news feeds and summarizes them. It can make mistakes — check the linked source before relying on anything here. · <a href="archive.html">Archive</a> · <a href="index.html">Latest</a></p>
+  <p>Global Signal is generated automatically by a daily script that reads public tech-news feeds and summarizes them. The homepage shows a rolling 30 days of coverage. It can make mistakes — check the linked source before relying on anything here. · <a href="archive.html">Archive</a> · <a href="index.html">Latest</a></p>
 </footer>
+<script>
+(function () {
+  var pills = document.querySelectorAll('.country-nav a[data-filter]');
+  var sections = document.querySelectorAll('.dispatch');
+  if (!pills.length || !sections.length) return;
+
+  pills.forEach(function (pill) {
+    pill.addEventListener('click', function (e) {
+      e.preventDefault();
+      var target = pill.getAttribute('data-filter');
+
+      pills.forEach(function (p) { p.classList.remove('is-active'); });
+      pill.classList.add('is-active');
+
+      sections.forEach(function (sec) {
+        sec.style.display = (target === 'all' || sec.id === target) ? '' : 'none';
+      });
+
+      var top = document.getElementById('top');
+      if (top) top.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+})();
+</script>
 </body>
 </html>

@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-09-15 — Global Signal</title>
+<meta name="description" content="A weekly dispatch of the world's most notable tech developments, organized by country.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..700&family=Archivo:wght@400;500;600;700&family=Space+Mono&display=swap" rel="stylesheet">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<div class="masthead">
+  <div class="ticker">
+    <div class="ticker__track">
+      <span>LAST CHECK: September 15, 2026 · 2 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+      <span>LAST CHECK: September 15, 2026 · 2 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+      <span>LAST CHECK: September 15, 2026 · 2 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+    </div>
+  </div>
+  <div class="masthead__inner">
+    <p class="masthead__mark">
+      <a href="../index.html" class="masthead__lockup">
+        <img src="../assets/logo-mark.svg" alt="" class="masthead__logo" width="40" height="40">
+        Global Signal
+      </a>
+    </p>
+    <p class="masthead__tagline">Tech developments from around the world, by dateline — checked automatically, every day.</p>
+  </div>
+</div>
+
+<nav class="country-nav" aria-label="Filter by country">
+  <a href="#top" class="country-nav__all is-active" data-filter="all">All</a>
+  
+  <a href="#global" data-filter="global">Global<span class="count">1</span></a>
+  
+  <a href="#united-states" data-filter="united-states">United States<span class="count">1</span></a>
+  
+</nav>
+
+
+<main>
+  <p class="run-note"><strong>Checked September 15, 2026</strong> — 2 stories across 2 countries.</p>
+
+  
+  <section class="dispatch" id="global">
+    <div class="dateline">
+      <span class="lamp "></span>
+      <span class="dateline__place">Global</span>
+      <span class="dateline__date">September 15, 2026</span>
+    </div>
+
+    
+      
+      <article class="story">
+        <h2 class="story__headline">What Southeast Asia’s edutech startups can learn from AI’s limits in education</h2>
+        
+        <p class="story__body">This article explores the integration of generative artificial intelligence within Southeast Asia's educational technology sector, highlighting benefits like personalized learning and automated administrative tasks. It cautions edutech startups to understand the limitations of AI in education, advising them to focus on human-centric design rather than relying solely on technology.</p>
+        <p class="story__source">September 15, 2026 · Source: <a href="https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/" rel="noopener" target="_blank">e27 (Southeast Asia)</a></p>
+      </article>
+      
+    
+  </section>
+  
+  <section class="dispatch" id="united-states">
+    <div class="dateline">
+      <span class="lamp "></span>
+      <span class="dateline__place">United States</span>
+      <span class="dateline__date">September 15, 2026</span>
+    </div>
+
+    
+      
+      <article class="story">
+        <h2 class="story__headline">Jensen Huang took a call from Trump, and showed off something else, too</h2>
+        <img class="story__media" src="https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800" alt="" loading="lazy">
+        <p class="story__body">During the All-In conference in Los Angeles, Nvidia CEO Jensen Huang took a live phone call from Donald Trump using an unreleased Apple foldable phone, which is not scheduled for release for another five weeks. Once connected, the conversation turned to AI safety, with Trump characterizing fears surrounding AI technology as a hoax.</p>
+        <p class="story__source">September 15, 2026 · Source: <a href="https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/" rel="noopener" target="_blank">TechCrunch</a></p>
+      </article>
+      
+    
+  </section>
+  
+</main>
+
+<footer class="site-footer">
+  <p>Global Signal is generated automatically by a daily script that reads public tech-news feeds and summarizes them. The homepage shows a rolling 30 days of coverage. It can make mistakes — check the linked source before relying on anything here. · <a href="../archive.html">Archive</a> · <a href="../index.html">Latest</a></p>
+</footer>
+<script>
+(function () {
+  var pills = document.querySelectorAll('.country-nav a[data-filter]');
+  var sections = document.querySelectorAll('.dispatch');
+  if (!pills.length || !sections.length) return;
+
+  pills.forEach(function (pill) {
+    pill.addEventListener('click', function (e) {
+      e.preventDefault();
+      var target = pill.getAttribute('data-filter');
+
+      pills.forEach(function (p) { p.classList.remove('is-active'); });
+      pill.classList.add('is-active');
+
+      sections.forEach(function (sec) {
+        sec.style.display = (target === 'all' || sec.id === target) ? '' : 'none';
+      });
+
+      var top = document.getElementById('top');
+      if (top) top.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+})();
+</script>
+</body>
+</html>
