@@ -30,9 +30,10 @@ jobs:
       - name: Generate today's newsletter
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python -u scripts/generate_newsletter.py --backfill-days 10
+        run: python -u scripts/generate_newsletter.py
 
       - name: Send daily email
+        continue-on-error: true   # if Brevo isn't set up yet (or ever hiccups), this must never block the site commit below
         env:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
           BREVO_LIST_ID: ${{ secrets.BREVO_LIST_ID }}
