@@ -580,6 +580,14 @@ def render_site(all_days):
     )
     (DOCS_DIR / "archive.html").write_text(archive_html)
 
+    subscribe_html = subscribe_tpl.render(
+        page_title="Subscribe",
+        asset_prefix="",
+        ticker_text=ticker_text_for_day(all_days[0]) if all_days else "NO RUNS RECORDED YET",
+        countries=[],
+    )
+    (DOCS_DIR / "subscribe.html").write_text(subscribe_html)
+
 
 # ---------------------------------------------------------------------------
 # Entry point
