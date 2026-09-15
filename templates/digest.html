@@ -4,24 +4,10 @@
 <main id="top">
   <p class="run-note">{{ run_note | safe }}</p>
 
-  <section class="subscribe">
-    <h2 class="subscribe__title">Get it in your inbox</h2>
-    <p class="subscribe__tagline">The site is free to read, always. Subscribe to get today's stories delivered by email every morning instead of checking back.</p>
-    <div class="plans">
-      <div class="plan">
-        <span class="plan__badge">MONTHLY</span>
-        <p class="plan__price">$4.99<span> / month</span></p>
-        <p class="plan__note">Cancel anytime</p>
-        <a class="plan__cta" href="STRIPE_MONTHLY_LINK_HERE" target="_blank" rel="noopener">Subscribe monthly</a>
-      </div>
-      <div class="plan plan--yearly">
-        <span class="plan__badge">YEARLY · SAVE 17%</span>
-        <p class="plan__price">$49.99<span> / year</span></p>
-        <p class="plan__note">Works out to $4.16/month</p>
-        <a class="plan__cta" href="STRIPE_YEARLY_LINK_HERE" target="_blank" rel="noopener">Subscribe yearly</a>
-      </div>
-    </div>
-  </section>
+  <div class="subscribe-cta">
+    <span class="subscribe-cta__text">The site is free to read, always.</span>
+    <a href="{{ asset_prefix }}subscribe.html" class="subscribe-cta__button">Get it by email — from $4.99/mo</a>
+  </div>
 
   {% for d in dispatches %}
   <section class="dispatch" id="{{ d.anchor }}">
