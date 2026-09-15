@@ -1,37 +1,167 @@
 {
   "date": "2026-09-15",
-  "run_timestamp": "2026-09-15T03:18:42.712251+00:00",
+  "run_timestamp": "2026-09-15T07:06:50.290419+00:00",
   "status": "updated",
   "message": null,
-  "total_stories": 2,
+  "total_stories": 11,
   "countries": [
-    {
-      "name": "Global",
-      "stories": [
-        {
-          "headline": "What Southeast Asia\u2019s edutech startups can learn from AI\u2019s limits in education",
-          "summary": "This article explores the integration of generative artificial intelligence within Southeast Asia's educational technology sector, highlighting benefits like personalized learning and automated administrative tasks. It cautions edutech startups to understand the limitations of AI in education, advising them to focus on human-centric design rather than relying solely on technology.",
-          "country": "Global",
-          "importance": 4,
-          "source": "e27 (Southeast Asia)",
-          "source_url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
-          "image_url": null,
-          "published": "2026-09-15T01:30:20+00:00"
-        }
-      ]
-    },
     {
       "name": "United States",
       "stories": [
         {
-          "headline": "Jensen Huang took a call from Trump, and showed off something else, too",
-          "summary": "During the All-In conference in Los Angeles, Nvidia CEO Jensen Huang took a live phone call from Donald Trump using an unreleased Apple foldable phone, which is not scheduled for release for another five weeks. Once connected, the conversation turned to AI safety, with Trump characterizing fears surrounding AI technology as a hoax.",
+          "headline": "Apple iPhone Duo makes developers think in folds",
+          "summary": "Apple's upcoming iPhone Duo foldable smartphone, scheduled to ship on October 23, requires developers to adapt their apps for its dual-screen form factor. The device features a 5.4-inch outer display and a 7.6-inch inner display running iOS 27.1, meaning developers must manage state transitions smoothly as the device folds and unfolds.",
+          "country": "United States",
+          "importance": 7,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/devops/2026/09/15/apple-iphone-duo-makes-developers-think-in-folds/5296415",
+          "image_url": "https://image.theregister.com/?imageId=5296422&width=800",
+          "published": "2026-09-15T05:55:00+00:00"
+        },
+        {
+          "headline": "The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T",
+          "summary": "The upcoming vote on the CLARITY Act in the United States is poised to significantly impact the global cryptocurrency market, potentially driving its total valuation to $2.73 trillion or causing a drop to $2.6 trillion. The legislative decision is being closely watched by investors alongside broader macroeconomic pressures, such as rising US Treasury yields and a sell-off in semiconductor stocks.",
           "country": "United States",
           "importance": 6,
-          "source": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
-          "published": "2026-09-15T01:50:48+00:00"
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/e27-2.png",
+          "published": "2026-09-15T05:25:20+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "headline": "The Coalition will kill off Innovation Victoria\u2019s VC fund and sell its 100 investments if they win the state election",
+          "summary": "The Victorian Opposition Coalition has pledged to abolish the state's venture capital fund, Innovation Victoria, and sell off its portfolio of 100 investments if they win the next state election. The opposition claims the move will save taxpayers 1.27 billion AUD over a decade, citing poor investment returns and a failure to meet job creation targets.",
+          "country": "Australia",
+          "importance": 4,
+          "source": "Startup Daily (Australia)",
+          "source_url": "https://www.startupdaily.net/topic/politics-news-analysis/the-coalition-will-kill-off-innovation-victorias-vc-fund-and-sell-its-100-investments-if-they-win-the-state-election/",
+          "image_url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/02/AdobeStock_1878709692_Editorial_Use_Only.jpeg?quality=70&w=840",
+          "published": "2026-09-15T06:20:55+00:00"
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "stories": [
+        {
+          "headline": "The latest AI doomsayer is China\u2019s intelligence boss",
+          "summary": "China's Minister of State Security, Chen Yixin, has warned of the national security risks posed by artificial intelligence, urging the country to firmly grasp technological sovereignty. In response, Beijing is expected to tighten regulations and increase state control over AI development to mitigate these perceived threats.",
+          "country": "China",
+          "importance": 7,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451",
+          "image_url": "https://image.theregister.com/?imageId=260439&width=800",
+          "published": "2026-09-15T04:56:09+00:00"
+        }
+      ]
+    },
+    {
+      "name": "European Union",
+      "stories": [
+        {
+          "headline": "AI agents are moving faster than Europe can regulate",
+          "summary": "AI executives and researchers are warning that the rapid advancement of AI agent technology is outpacing the European Union's regulatory frameworks. This development raises concerns about whether governments are prepared to manage the next wave of autonomous AI capabilities.",
+          "country": "European Union",
+          "importance": 6,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/ai-agents-anthropic-openai-eu-uk-laws/",
+          "image_url": "https://content.sifted.eu/wp-content/uploads/2026/09/14214728/eu-ai-agents--1024x336.png",
+          "published": "2026-09-15T05:00:14+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Finland",
+      "stories": [
+        {
+          "headline": "Exclusive: Lovable, Supercell, Langdock founders back Zero in $10.3m seed round",
+          "summary": "Helsinki-based startup Zero has raised a $10.3 million seed round led by New York-based Primary Venture Partners. The company is developing AI tools designed to replace traditional customer relationship management (CRM) systems.",
+          "country": "Finland",
+          "importance": 4,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/exclusive-zero-10-3m-seed-round/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/14141251/Zero_Team_01-scaled-e1789391612780.jpg",
+          "published": "2026-09-15T05:00:13+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "The top 10 investors across DACH & CEE",
+          "summary": "Sifted has released its third annual leaderboard highlighting the top investors and fastest-growing startups across the DACH and CEE regions. The rankings, which are based on revenue growth over the past three years, showcase key venture capital players and emerging business trends in these European markets.",
+          "country": "Global",
+          "importance": 4,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/the-top-10-investors-across-dach-cee/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/10144439/1788782712-dach-cee2026.png",
+          "published": "2026-09-15T05:00:20+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Meta Agrees To Report CSAM Cases To Indian Authorities Amid Govt Scrutiny",
+          "summary": "Meta has agreed to report instances of child sexual abuse material (CSAM) directly to Indian law enforcement agencies following regulatory pressure. This move comes as India continues to tighten its compliance requirements for global social media platforms operating within the country.",
+          "country": "India",
+          "importance": 6,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/meta-agrees-to-report-csam-cases-to-indian-authorities-amid-govt-scrutiny/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/10/Meta-USIBC-featured.jpg",
+          "published": "2026-09-15T04:50:24+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "stories": [
+        {
+          "headline": "The 90-second pitch that helps foreign founders crack Tokyo\u2019s networking scene",
+          "summary": "A new guide from Blackbox JP highlights the importance of a 90-second Japanese pitch for foreign startup founders looking to navigate Tokyo's networking scene. While English-friendly tech events are becoming more common, initiating conversations in Japanese remains crucial for opening doors in Japan's startup community.",
+          "country": "Japan",
+          "importance": 3,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/Japan_article_3.jpg",
+          "published": "2026-09-15T04:36:53+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "OpenAI hires former Elastic and Snowflake exec Sanjay Deshmukh to lead Asia Pacific sales",
+          "summary": "OpenAI has appointed Sanjay Deshmukh as its first Vice President of Asia Pacific sales to lead its commercial expansion in the region. Based in Singapore, Deshmukh will focus on building the company's enterprise sales operations, bringing experience from previous executive roles at Elastic and Snowflake.",
+          "country": "Singapore",
+          "importance": 6,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/openai-hires-former-elastic-and-snowflake-exec-sanjay-deshmukh-to-lead-asia-pacific-sales-20260915/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/Sanjay_OpenAI.jpg",
+          "published": "2026-09-15T05:30:16+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Revolut faces questions over \u2018deeply concerning\u2019 data breach",
+          "summary": "Revolut is facing scrutiny over its security controls following a data breach where fraudsters obtained highly sensitive customer information. The incident comes as the fintech giant accelerates its global expansion plans, including its pursuit of a US banking license.",
+          "country": "United Kingdom",
+          "importance": 7,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/revolut-data-breach-leak-extort-report/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/14213130/revolut-hack-scaled.png",
+          "published": "2026-09-15T05:00:46+00:00"
         }
       ]
     }
