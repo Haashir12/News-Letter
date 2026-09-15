@@ -528,9 +528,10 @@ def ticker_text_for_day(day_data):
 
 def render_site(all_days):
     env = Environment(loader=FileSystemLoader(str(TEMPLATES_DIR)), autoescape=False)
-    day_tpl = env.get_template("week.html")       # single-day dispatch page
+        day_tpl = env.get_template("week.html")       # single-day dispatch page
     digest_tpl = env.get_template("digest.html")  # rolling homepage
     archive_tpl = env.get_template("archive.html")
+    subscribe_tpl = env.get_template("subscribe.html")
 
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
     (DOCS_DIR / "days").mkdir(parents=True, exist_ok=True)
