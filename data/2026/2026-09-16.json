@@ -1,8 +1,64 @@
 {
   "date": "2026-09-16",
-  "run_timestamp": "2026-09-16T04:12:07.689753+00:00",
-  "status": "no_new_news",
-  "message": "Checked all sources today \u2014 nothing that cleared the relevance/importance bar.",
-  "total_stories": 0,
-  "countries": []
+  "run_timestamp": "2026-09-16T07:07:36.671205+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 4,
+  "countries": [
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "headline": "Why Apple, Google and other global tech giants will hate the ATO\u2019s latest\u00a0ruling on cross-border payments",
+          "summary": "The Australian Taxation Office (ATO) has issued a new ruling that treats offshore software payments made by multinational tech giants, including Apple, Google, Microsoft, and Amazon, as taxable royalties. This regulatory shift is designed to prevent these companies from shifting profits earned from Australian consumers to low-tax offshore jurisdictions. The decision could significantly increase the tax liabilities of these tech giants in Australia and potentially spark a tax dispute with the United States.",
+          "country": "Australia",
+          "importance": 6,
+          "source": "Startup Daily (Australia)",
+          "source_url": "https://www.startupdaily.net/topic/global-tech/why-apple-google-and-other-global-tech-giants-will-hate-the-atos-latest-ruling-on-cross-border-payments/",
+          "image_url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/09/big_tech_1680x945.jpg?quality=70&w=840",
+          "published": "2026-09-16T06:58:50+00:00"
+        },
+        {
+          "headline": "Australia\u2019s intelligence boss warns government\u2019s antiquated tech stack is a massive AI cyber risk",
+          "summary": "Abigail Bradshaw, the head of the Australian Signals Directorate, has warned that Australia's estimated $13 billion legacy technology debt poses a severe cybersecurity risk, particularly from AI-assisted attacks. She urged organizations and government bodies to establish legacy technology reduction targets and decommission end-of-life systems rather than seeking support extensions. According to Bradshaw, outdated systems will likely be the first targets compromised in major AI-enabled cyber offensives.",
+          "country": "Australia",
+          "importance": 6,
+          "source": "Startup Daily (Australia)",
+          "source_url": "https://www.startupdaily.net/topic/cyber-security/australias-intelligence-boss-warns-governments-antiquated-tech-stack-is-a-massive-ai-cyber-risk/",
+          "image_url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/09/Abigail-Bradshaw-ASD.jpg?quality=70&w=840",
+          "published": "2026-09-16T06:53:05+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "The Latest Payments Battle Point: AI Agents For Merchants",
+          "summary": "At the Global Fintech Fest 2026, major Indian payments companies showcased a new focus on AI agents designed for merchants. These AI-driven tools aim to help merchants automate customer interactions, manage transactions, and streamline business operations.",
+          "country": "India",
+          "importance": 6,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/features/the-latest-payments-battle-point-ai-agents-for-merchants/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/FTR-8.jpg",
+          "published": "2026-09-16T05:30:29+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+          "summary": "OpenAI CEO Sam Altman stated at a conference in San Francisco that the public is justified in fearing the rapid progression of artificial intelligence, but urged trust in AI developers to act responsibly. Meanwhile, US political figures including Senator Bernie Sanders have called for stricter governance and regulation of the technology.",
+          "country": "United States",
+          "importance": 5,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg",
+          "published": "2026-09-16T06:57:32+00:00"
+        }
+      ]
+    }
+  ]
 }
