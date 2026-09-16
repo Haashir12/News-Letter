@@ -180,6 +180,9 @@ footer.site-footer a { color: var(--ink-soft); }
 
 /* ---------- Subscribe ---------- */
 
+.back-link { margin: 24px 0 0; }
+.back-link a { font-size: 14px; color: var(--ink-soft); text-decoration-color: var(--paper-line); }
+
 .subscribe-cta {
   display: flex;
   align-items: center;
