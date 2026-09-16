@@ -239,9 +239,22 @@ Source: {source}
 Article text (may be partial): {text}
 
 Decide:
-- is_relevant: true only if this is genuinely about technology / IT / software / hardware / the tech industry
-  (product launches, AI, chips, telecom, cybersecurity, tech policy, tech company business news, etc).
-  False for unrelated news that merely mentions a tech company in passing.
+- is_relevant: true ONLY if this is genuinely about a technology, product, or technical development
+  itself — new products, software/hardware releases, AI models and research, chips and semiconductors,
+  telecom infrastructure, cybersecurity incidents or research, significant tech company business news
+  (major product strategy, executive changes, mergers), or regulation/policy that specifically targets
+  a tech product or platform (e.g. an antitrust case against a tech company, a new data-privacy law
+  affecting an app).
+  Mark false for:
+    - lists, rankings, or profiles of investors, VCs, or funds (e.g. "top investors in Europe",
+      "most active growth equity firms", "founders who've launched funds") - this is finance/investor
+      journalism, not technology news, even when the investors focus on tech startups
+    - startup funding round roundups where the story is about the money or the investors rather than
+      the actual product or technology being built
+    - banking, payments, or fintech regulatory/fee stories (e.g. merchant discount rates, interchange
+      fees, UPI transaction fee policy) unless the story is centered on an actual new technology, not
+      just financial policy or fee structures
+    - general business, economic, or political news that merely mentions a tech company in passing
 - country: the single country this story is mainly ABOUT (where the news is happening / who it most affects),
   using a plain English country name (e.g. "United States", "South Korea", "United Arab Emirates").
   Use "Global" only if it genuinely has no single-country focus (e.g. an open-source project release, an
