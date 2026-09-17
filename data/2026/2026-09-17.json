@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-17",
+  "run_timestamp": "2026-09-17T07:05:59.326450+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 3,
+  "countries": [
+    {
+      "name": "Iceland",
+      "stories": [
+        {
+          "headline": "Iceland-based Treble raises $18 million for its voice simulation platform",
+          "summary": "Iceland-based startup Treble has raised $18 million to expand its voice simulation platform. The technology is used by voice AI developers, robotics companies, and AI wearable makers to test and improve voice interaction systems.",
+          "country": "Iceland",
+          "importance": 4,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
+          "published": "2026-09-17T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "Databricks doubles down on Singapore with US$350M AI investment plan",
+          "summary": "Databricks has announced plans to invest more than US$350 million in Singapore over the next three years to support businesses transitioning from AI experimentation to core operations. As part of this expansion, the US-based data and AI company will establish a new 32,000-square-foot regional headquarters in the country.",
+          "country": "Singapore",
+          "importance": 6,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/DataBricks_news.jpg",
+          "published": "2026-09-17T05:25:11+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+          "summary": "Mustafa Suleyman, the head of Microsoft AI, has warned that treating artificial intelligence as if it is human or conscious is \"misguided\" and could lead to an uncontrollable \"silicon species.\" Speaking to the BBC, Suleyman criticized rival firm Anthropic's approach and called for urgent guardrails to prevent AI models from setting their own objectives, earning money, or owning assets.",
+          "country": "United States",
+          "importance": 6,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d3/live/116815e0-b25e-11f1-81c2-17e97ccb67a1.jpg",
+          "published": "2026-09-17T06:38:43+00:00"
+        }
+      ]
+    }
+  ]
+}
