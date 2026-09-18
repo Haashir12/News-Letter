@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-18",
+  "run_timestamp": "2026-09-18T06:59:03.906471+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 3,
+  "countries": [
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "GSMA says smartphone costs could deepen the coming AI divide",
+          "summary": "The GSMA's State of Mobile Internet Connectivity Report warns that the rising cost of smartphones, driven partly by the global rush to integrate AI, could worsen the digital divide. This trend threatens to make basic internet access unaffordable for low-income populations, potentially excluding them from emerging AI technologies.",
+          "country": "Global",
+          "importance": 4,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/GSMA_report.jpg",
+          "published": "2026-09-18T06:00:04+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "How we use AI to turn one article into audience-specific versions",
+          "summary": "Southeast Asian tech media platform e27 has detailed its workflow for using generative AI to automatically repurpose a single article into multiple versions tailored to different professional audiences. The system reframes the core content of an article to highlight specific angles\u2014such as business arguments for founders or campaign strategies for marketers\u2014depending on the target reader's role.",
+          "country": "Singapore",
+          "importance": 2,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/how-we-use-ai-to-turn-one-article-into-audience-specific-versions-20260918/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/08/e27-5-4.png",
+          "published": "2026-09-18T06:00:58+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "AI risks make some insurers wary of corporate liability",
+          "summary": "A new report by the RAND Corporation highlights that insurance companies are becoming increasingly wary of covering corporate liabilities associated with AI deployment, such as deepfakes, privacy violations, and intellectual property disputes. This mismatch between rapid enterprise AI adoption and the fragmented insurance market could force companies to delay AI projects or moderate their ambitions due to uninsurable risks.",
+          "country": "United States",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/09/18/ai-risks-make-some-insurers-wary-of-corporate-liability/5297347",
+          "image_url": "https://image.theregister.com/?imageId=5297353&width=800",
+          "published": "2026-09-18T05:33:00+00:00"
+        }
+      ]
+    }
+  ]
+}
