@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-21",
+  "run_timestamp": "2026-09-21T07:33:42.782438+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 7,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "VMware has quietly walked its SmartNIC ambitions",
+          "summary": "VMware has quietly stopped selling its NSX distributed firewalls designed for SmartNICs, also known as data processing units (DPUs). This move represents a retreat from VMware's previous strategy of encouraging private cloud customers to adopt hyperscale-style hardware architectures to offload networking and security tasks. While the company had adapted its hypervisor to run on DPUs, the offering ultimately failed to generate sufficient customer interest.",
+          "country": "United States",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/virtualization/2026/09/21/vmware-has-quietly-walked-its-smartnic-ambitions/5297654",
+          "image_url": "https://image.theregister.com/?imageId=247020&width=800",
+          "published": "2026-09-21T07:02:00+00:00"
+        },
+        {
+          "headline": "Failed networking vendor Cambium set to turn off its cloudy management portal",
+          "summary": "Networking hardware vendor Cambium Networks has entered administration and warned customers that its cloud management services will likely be shut down soon. The company has ceased production of its Wi-Fi access points, NSE firewalls, and cnMatrix switches, and has laid off over half of its workforce. Customers are advised to transition to on-premises management software as soon as possible.",
+          "country": "United States",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/networks/2026/09/21/failed-networking-vendor-cambium-set-to-turn-off-its-cloudy-management-portal/5297647",
+          "image_url": "https://image.theregister.com/?imageId=236480&width=800",
+          "published": "2026-09-21T05:17:02+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "headline": "She\u2019s Apples for Albo on US trip to talk social media, algorithms and AI",
+          "summary": "Australian Prime Minister Anthony Albanese met with Apple CEO Tim Cook in California to discuss artificial intelligence regulations, algorithm opt-outs, and child safety features. The discussions follow Australia's legislative push for a social media ban for children under 16 and its efforts to establish international AI guardrails.",
+          "country": "Australia",
+          "importance": 4,
+          "source": "Startup Daily (Australia)",
+          "source_url": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/shes-apples-for-albo-on-us-trip-to-talk-social-media-algorithms-and-ai/",
+          "image_url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/09/Albanese-Apple-AAP.jpg?quality=70&w=840",
+          "published": "2026-09-21T05:57:09+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Moneyview Sets \u20b932-\u20b934 Price Band For \u20b91,092 Cr IPO",
+          "summary": "Indian fintech startup Moneyview has set the price band for its upcoming \u20b91,092 crore initial public offering at \u20b932 to \u20b934 per equity share. The Accel-backed digital lending platform is among a growing number of Indian tech startups preparing to list on the public markets.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/moneyview-sets-%e2%82%b932-%e2%82%b934-price-band-for-%e2%82%b91092-cr-ipo/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/11/Moneyview-ftr-1.jpg",
+          "published": "2026-09-21T05:19:53+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "stories": [
+        {
+          "headline": "VinFast\u2019s ride-hailing arm Green SM takes on Jakarta\u2019s ojek economy with e-scooters",
+          "summary": "Green SM, the ride-hailing arm of Vietnamese EV manufacturer VinFast, has launched an electric motorbike service in Jakarta, Indonesia. This marks the company's first two-wheeled mobility expansion outside of Vietnam, positioning it as a direct competitor to regional ride-hailing giants Grab and Gojek.",
+          "country": "Indonesia",
+          "importance": 6,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/vinfasts-ride-hailing-arm-green-sm-takes-on-jakartas-ojek-economy-with-e-scooters-20260921/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/Green_SM_news.jpeg",
+          "published": "2026-09-21T05:30:38+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "Ant International Launches Industry\u2019s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses",
+          "summary": "Ant International has launched a suite of AI-native solutions designed for global businesses, covering payments, accounts, FX, treasury, and growth operations. The product suite is built on a two-layered security architecture and utilizes two proprietary foundation models, including the Antom 3-in-1 Transformer.",
+          "country": "Singapore",
+          "importance": 7,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/ant-international-launches-industrys-first-full-stack-ai-native-solutions-for-payment-account-fx-treasury-and-growth-operations-for-global-businesses-20260921/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/YPVoyage-scaled.jpg",
+          "published": "2026-09-21T06:48:28+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "stories": [
+        {
+          "headline": "ITM Semiconductor\u2019s Vietnam unit hit by fraud and widening losses",
+          "summary": "ITM Semiconductor's Vietnamese subsidiary is facing widening financial losses alongside an ongoing employee embezzlement investigation. The South Korean battery components manufacturer disclosed that it has recovered approximately US$2.47 million of the embezzled funds, though the unit's overall financial performance has sharply deteriorated.",
+          "country": "Vietnam",
+          "importance": 3,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/semiconductor_fraud.jpeg",
+          "published": "2026-09-21T04:26:25+00:00"
+        }
+      ]
+    }
+  ]
+}
