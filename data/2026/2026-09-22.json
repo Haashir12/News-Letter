@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-22",
+  "run_timestamp": "2026-09-22T07:13:10.027807+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 1,
+  "countries": [
+    {
+      "name": "China",
+      "stories": [
+        {
+          "headline": "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them",
+          "summary": "Alibaba Cloud has announced plans to expand its datacenter capacity to 20 gigawatts over the next six years. Alongside this infrastructure expansion, the company revealed a new custom chip designed to power these facilities. CEO Eddie Wu emphasized the long-term potential of AI, comparing its current state to the early days of electricity and predicting that machine cognition will eventually drive the vast majority of intellectual work.",
+          "country": "China",
+          "importance": 7,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062",
+          "image_url": "https://image.theregister.com/?imageId=5298067&width=800",
+          "published": "2026-09-22T05:42:32+00:00"
+        }
+      ]
+    }
+  ]
+}
