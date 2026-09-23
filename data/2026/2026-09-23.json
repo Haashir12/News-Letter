@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-23",
+  "run_timestamp": "2026-09-23T07:14:46.508067+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 6,
+  "countries": [
+    {
+      "name": "Germany",
+      "stories": [
+        {
+          "headline": "Qdrant\u2019s next chapter: From vector search into physical AI",
+          "summary": "Vector search database provider Qdrant is expanding its product strategy to target 'physical AI' applications, such as robotics and spatial computing. The shift marks a new phase for the company as it adapts its vector search technology to handle real-world physical data and environments.",
+          "country": "Germany",
+          "importance": 6,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/qdrants-next-chapter-from-vector-search-into-physical-ai/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/10144439/1788782712-dach-cee2026.png",
+          "published": "2026-09-23T05:00:02+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Gupshup\u2019s AI Rebuild: Can It Stay Ahead Of The Platforms It Runs On?",
+          "summary": "Indian conversational engagement platform Gupshup is undergoing an AI-driven rebuild to enhance its enterprise messaging capabilities. The company is integrating advanced AI models to provide more sophisticated automation and conversational tools, aiming to stay competitive against the underlying communication platforms it operates on, such as WhatsApp.",
+          "country": "India",
+          "importance": 6,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/features/gupshup-ai-rebuild-can-it-stay-ahead-of-the-platforms-it-runs-on/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/ftr-25.jpg",
+          "published": "2026-09-23T05:40:17+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
+          "summary": "Meta, in collaboration with the Singapore Police Force, has disrupted approximately 3.7 million scam-linked assets across Facebook and Instagram. The joint operation targeted fraudulent accounts, pages, and advertisements promoting fake investments, e-commerce scams, and impersonation schemes.",
+          "country": "Singapore",
+          "importance": 5,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/Facebook_SG_Police.jpeg",
+          "published": "2026-09-23T05:30:29+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Sweden",
+      "stories": [
+        {
+          "headline": "From one of Europe\u2019s biggest fintech exits to bootstrapping an AI startup: \u2018There\u2019s no limitation\u2019",
+          "summary": "The founders of Swedish open banking platform Tink, which was acquired by Visa in 2021, have emerged from stealth to launch a new bootstrapped AI-native compliance startup. The new venture aims to utilize artificial intelligence to automate and streamline compliance processes for financial institutions.",
+          "country": "Sweden",
+          "importance": 4,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/tink-founders-launch-freda/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1365,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/22150818/Freda-team--scaled.jpg",
+          "published": "2026-09-23T05:00:02+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Exclusive: VSquared and East X lead \u00a310m seed for rare materials startup",
+          "summary": "London-based startup StandardX has secured \u00a310 million in seed funding to develop infrastructure for manufacturing rare medical materials. The investment round was co-led by venture capital firms Vsquared and East X.",
+          "country": "United Kingdom",
+          "importance": 3,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/standardx-seed-10m/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/22100114/Ross_Allen_L_Richard_Pearson_R_StandardX_1_2_80-scaled.jpg",
+          "published": "2026-09-23T05:00:14+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Anthropic Launches Claude Opus 5.5, Touts 40% Lower Running Costs",
+          "summary": "Anthropic has launched Claude Opus 5.5, its latest flagship AI model. The updated model delivers stronger performance, faster output speeds, and a 40% reduction in running costs compared to its predecessor.",
+          "country": "United States",
+          "importance": 8,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/anthropic-launches-claude-opus-5-5-touts-40-lower-running-costs/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Untitled-design-27.png",
+          "published": "2026-09-23T06:13:40+00:00"
+        }
+      ]
+    }
+  ]
+}
