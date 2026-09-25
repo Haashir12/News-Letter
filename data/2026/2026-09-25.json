@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-25",
+  "run_timestamp": "2026-09-25T07:03:27.066085+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 2,
+  "countries": [
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Govt Mulls \u20b920,000 Cr Fund To Power Frontier AI, Compute Ecosystem: Report",
+          "summary": "The Indian government is considering an anchor investment of \u201915,000 crore to \u201920,000 crore in a proposed fund dedicated to supporting frontier AI and the compute ecosystem. This initiative aims to build sovereign AI capabilities and strengthen the country's technology infrastructure.",
+          "country": "India",
+          "importance": 7,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/govt-mulls-%e2%82%b920000-cr-fund-to-power-frontier-ai-compute-ecosystem-report/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/AI-Agents-ftr.jpg",
+          "published": "2026-09-25T06:08:06+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "stories": [
+        {
+          "headline": "Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore",
+          "summary": "Jakarta-based fintech startup Matchmade.io is expanding its automated financial reconciliation software into Singapore. The platform helps corporate finance departments automatically reconcile discrepancies between point-of-sale records and bank statements.",
+          "country": "Indonesia",
+          "importance": 3,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-20260925/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/Matchmade_interview.jpeg",
+          "published": "2026-09-25T05:03:30+00:00"
+        }
+      ]
+    }
+  ]
+}
