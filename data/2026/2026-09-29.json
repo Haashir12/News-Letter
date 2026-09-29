@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-29",
+  "run_timestamp": "2026-09-29T07:49:00.408797+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 2,
+  "countries": [
+    {
+      "name": "Ghana",
+      "stories": [
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 Ghana courts a Leo",
+          "summary": "Ghana is in early-stage discussions with Amazon to potentially deploy its Project Kuiper low Earth orbit (LEO) satellite broadband service in the country. The initiative aims to boost high-speed internet connectivity and expand coverage to underserved and rural areas across Ghana.",
+          "country": "Ghana",
+          "importance": 4,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/09/29/techcabal-daily-ghana-courts-a-leo/",
+          "image_url": null,
+          "published": "2026-09-29T06:00:47+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "stories": [
+        {
+          "headline": "Vietnam gains from Samsung Electro-Mechanics\u2019s US$4.9B AI substrate expansion plan",
+          "summary": "Samsung Electro-Mechanics is investing US$4.9 billion to expand its production of chip-packaging substrates in South Korea and Vietnam. Driven by the global artificial intelligence boom, this represents the company's largest single-product investment to date and aims to strengthen the semiconductor supply chain.",
+          "country": "Vietnam",
+          "importance": 7,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/09/Samsung_chip.jpeg",
+          "published": "2026-09-29T06:22:38+00:00"
+        }
+      ]
+    }
+  ]
+}
