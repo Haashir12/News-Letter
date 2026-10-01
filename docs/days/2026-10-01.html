@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-10-01 — Global Signal</title>
+<meta name="description" content="A weekly dispatch of the world's most notable tech developments, organized by country.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..700&family=Archivo:wght@400;500;600;700&family=Space+Mono&display=swap" rel="stylesheet">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<div class="masthead">
+  <div class="ticker">
+    <div class="ticker__track">
+      <span>LAST CHECK: October 1, 2026 · 2 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+      <span>LAST CHECK: October 1, 2026 · 2 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+      <span>LAST CHECK: October 1, 2026 · 2 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+    </div>
+  </div>
+  <div class="masthead__inner">
+    <p class="masthead__mark">
+      <a href="../index.html" class="masthead__lockup">
+        <img src="../assets/logo-mark.svg" alt="" class="masthead__logo" width="40" height="40">
+        Global Signal
+      </a>
+    </p>
+    <p class="masthead__tagline">Tech developments from around the world, by dateline — checked automatically, every day.</p>
+  </div>
+</div>
+
+<nav class="country-nav" aria-label="Filter by country">
+  <a href="#top" class="country-nav__all is-active" data-filter="all">All</a>
+  
+  <a href="#singapore" data-filter="singapore">Singapore<span class="count">1</span></a>
+  
+  <a href="#united-states" data-filter="united-states">United States<span class="count">1</span></a>
+  
+</nav>
+
+
+<main>
+  <p class="run-note"><strong>Checked October 1, 2026</strong> — 2 stories across 2 countries.</p>
+
+  
+  <section class="dispatch" id="singapore">
+    <div class="dateline">
+      <span class="lamp "></span>
+      <span class="dateline__place">Singapore</span>
+      <span class="dateline__date">October 1, 2026</span>
+    </div>
+
+    
+      
+      <article class="story">
+        <h2 class="story__headline">Zeya Health buys ConnectLah to build AI booking rails for clinics</h2>
+        <img class="story__media" src="https://e27.co/wp-content/uploads/2026/10/Zeya_health.jpeg" alt="" loading="lazy">
+        <p class="story__body">Singapore-based digital health startup Zeya Health has acquired clinic booking platform ConnectLah to build AI-powered booking infrastructure for healthcare providers. The integration aims to automate complex scheduling workflows, such as managing specific doctor availabilities, procedures, and referral requirements, which are traditionally handled manually via phone or messaging apps.</p>
+        <p class="story__source">October 1, 2026 · Source: <a href="https://e27.co/zeya-health-buys-connectlah-to-build-ai-booking-rails-for-clinics-20261001/" rel="noopener" target="_blank">e27 (Southeast Asia)</a></p>
+      </article>
+      
+    
+  </section>
+  
+  <section class="dispatch" id="united-states">
+    <div class="dateline">
+      <span class="lamp "></span>
+      <span class="dateline__place">United States</span>
+      <span class="dateline__date">October 1, 2026</span>
+    </div>
+
+    
+      
+      <article class="story">
+        <h2 class="story__headline">The tech industry is hot for shopping bots, but they're years away</h2>
+        <img class="story__media" src="https://image.theregister.com/?imageId=5300329&width=800" alt="" loading="lazy">
+        <p class="story__body">The tech and financial industries are increasingly focused on "agentic commerce," where AI agents make online purchases on behalf of consumers, though practical implementation remains years away. Major e-commerce platforms like Amazon have resisted the trend, recently blocking Meta's Muse bot and Perplexity's AI bot from accessing their services. Conversely, payment processors like Mastercard are encouraging the development, releasing a report on the infrastructure needed to support automated AI transactions.</p>
+        <p class="story__source">October 1, 2026 · Source: <a href="https://www.theregister.com/ai-and-ml/2026/10/01/the-tech-industry-is-hot-for-shopping-bots-but-theyre-years-away/5300325" rel="noopener" target="_blank">The Register</a></p>
+      </article>
+      
+    
+  </section>
+  
+</main>
+
+<footer class="site-footer">
+  <p>Global Signal is generated automatically by a daily script that reads public tech-news feeds and summarizes them. The homepage shows a rolling 30 days of coverage. It can make mistakes — check the linked source before relying on anything here. · <a href="../archive.html">Archive</a> · <a href="../subscribe.html">Subscribe</a> · <a href="../index.html">Latest</a></p>
+</footer>
+<script>
+(function () {
+  var pills = document.querySelectorAll('.country-nav a[data-filter]');
+  var sections = document.querySelectorAll('.dispatch');
+  if (!pills.length || !sections.length) return;
+
+  pills.forEach(function (pill) {
+    pill.addEventListener('click', function (e) {
+      e.preventDefault();
+      var target = pill.getAttribute('data-filter');
+
+      pills.forEach(function (p) { p.classList.remove('is-active'); });
+      pill.classList.add('is-active');
+
+      sections.forEach(function (sec) {
+        sec.style.display = (target === 'all' || sec.id === target) ? '' : 'none';
+      });
+
+      var top = document.getElementById('top');
+      if (top) top.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+})();
+</script>
+</body>
+</html>

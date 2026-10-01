@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-01",
+  "run_timestamp": "2026-10-01T08:13:38.503018+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 2,
+  "countries": [
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "Zeya Health buys ConnectLah to build AI booking rails for clinics",
+          "summary": "Singapore-based digital health startup Zeya Health has acquired clinic booking platform ConnectLah to build AI-powered booking infrastructure for healthcare providers. The integration aims to automate complex scheduling workflows, such as managing specific doctor availabilities, procedures, and referral requirements, which are traditionally handled manually via phone or messaging apps.",
+          "country": "Singapore",
+          "importance": 3,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/zeya-health-buys-connectlah-to-build-ai-booking-rails-for-clinics-20261001/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/10/Zeya_health.jpeg",
+          "published": "2026-10-01T05:30:19+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "The tech industry is hot for shopping bots, but they're years away",
+          "summary": "The tech and financial industries are increasingly focused on \"agentic commerce,\" where AI agents make online purchases on behalf of consumers, though practical implementation remains years away. Major e-commerce platforms like Amazon have resisted the trend, recently blocking Meta's Muse bot and Perplexity's AI bot from accessing their services. Conversely, payment processors like Mastercard are encouraging the development, releasing a report on the infrastructure needed to support automated AI transactions.",
+          "country": "United States",
+          "importance": 5,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/10/01/the-tech-industry-is-hot-for-shopping-bots-but-theyre-years-away/5300325",
+          "image_url": "https://image.theregister.com/?imageId=5300329&width=800",
+          "published": "2026-10-01T07:30:00+00:00"
+        }
+      ]
+    }
+  ]
+}
