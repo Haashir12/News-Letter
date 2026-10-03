@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-03",
+  "run_timestamp": "2026-10-03T07:30:28.511455+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 6,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "summary": "Apple is updating its macOS privacy settings to prevent third-party applications from abusing full-disk access permissions to read user message histories. The change follows an incident where Meta's AI assistant, Muse, accessed a user's Apple Messages after being granted full-disk access for other purposes. Apple's update aims to restrict how AI agents and other apps can leverage broad system-level permissions to access sensitive personal data.",
+          "country": "United States",
+          "importance": 7,
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+          "published": "2026-10-02T23:03:16+00:00"
+        },
+        {
+          "headline": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+          "summary": "Cerebras Systems' stock fell nearly 20% to a post-IPO low following reports that OpenAI will use Nvidia GPUs instead of Cerebras hardware to power its upcoming \"Ultrafast\" mode for GPT-6.1 Sol. Although OpenAI CEO Sam Altman clarified on social media that Cerebras remains a close partner, the stock was also pressured by the expiration of post-IPO insider lockup restrictions. The decline marks a significant drop from the company's peak valuation of $95 billion on its first day of trading in May.",
+          "country": "United States",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108307043-1778771977693-gettyimages-2275640099-CEREBRAS_IPO.jpeg?v=1778771994&w=1920&h=1080",
+          "published": "2026-10-02T22:38:49+00:00"
+        },
+        {
+          "headline": "Meta wants your next gadget to be Muse-infused",
+          "summary": "Meta has launched Muse Gadgets, an open-source project that allows developers to build hardware that integrates with its Muse AI agent. The release includes open-source firmware and a Linux software development kit (SDK) to help hobbyists and developers connect physical devices to the AI assistant.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+          "published": "2026-10-03T00:45:39+00:00"
+        },
+        {
+          "headline": "Sanders introduces bill to ban the federal government from using Flock",
+          "summary": "US Senator Bernie Sanders has introduced the Ban Flock Act, which aims to prohibit federal agencies from using automatic license plate readers (ALPRs). The proposed legislation would also prevent federal agencies from accessing ALPR data collected by local police departments and private companies like Flock Safety. While the bill's title references Flock, the legislative text applies broadly to all ALPR systems, with only limited exceptions.",
+          "country": "United States",
+          "importance": 4,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
+          "published": "2026-10-03T00:21:57+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "America\u2019s data center fight is a preview of what's to come for the rest of the world",
+          "summary": "Public backlash against data center construction is spreading from the United States to Europe and Asia, driven by concerns over high electricity prices, land use, and proximity to residential areas. This opposition has already delayed or canceled approximately $42 billion in data center investments in Europe and $77 billion in the U.S., posing risks to the infrastructure supporting the AI boom.",
+          "country": "Global",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108370042-1790751830198-gettyimages-2294231098-AFP_C8339AY.jpeg?v=1790751844&w=1920&h=1080",
+          "published": "2026-10-03T05:00:01+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "AceVector IPO: SoftBank Pockets \u20b988 Cr, Most Selling Shareholders Book Losses",
+          "summary": "AceVector, the parent company of Indian e-commerce platform Snapdeal, has launched its initial public offering (IPO). The public listing provided an exit route for several early investors and promoters, with SoftBank securing \u20b988 crore while most other selling shareholders booked losses.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/acevector-ipo-softbank-to-pocket-%e2%82%b988-cr-individual-investors-book-up-to-5-4x-return/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/ftr-23.jpg",
+          "published": "2026-10-03T06:19:44+00:00"
+        }
+      ]
+    }
+  ]
+}
