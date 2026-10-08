@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-08",
+  "run_timestamp": "2026-10-08T08:21:07.907270+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 12,
+  "countries": [
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "CoreWeave Enters India, Partners AdaniConneX For 240 MW Data Centre Capacity",
+          "summary": "US-based AI cloud infrastructure provider CoreWeave has announced its entry into India through a partnership with AdaniConneX. Under the agreement, CoreWeave plans to deploy 240 megawatts of data center capacity to support the growing demand for AI workloads in the region.",
+          "country": "India",
+          "importance": 7,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/coreweave-enters-india-partners-adaniconnex-for-240-mw-data-centre-capacity/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Coreweave.png",
+          "published": "2026-10-08T06:50:26+00:00"
+        },
+        {
+          "headline": "India rejects Elon Musk\u2019s claim of discrimination over Starlink launch",
+          "summary": "India has rejected Elon Musk's claims that Starlink is facing unfair discrimination and regulatory roadblocks to prevent its launch in the country. Musk had accused unnamed \"oligarchs\" of blocking the satellite internet service to maintain a monopoly. Starlink is currently awaiting security clearance from Indian authorities before it can obtain the necessary spectrum to begin commercial operations.",
+          "country": "India",
+          "importance": 7,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+          "published": "2026-10-08T06:14:11+00:00"
+        },
+        {
+          "headline": "Centre Rejects Elon Musk\u2019s Claim On Starlink, Says Satcom Rules Non-Discriminatory",
+          "summary": "The Indian government has rejected SpaceX CEO Elon Musk's claims that unnamed oligarchs are blocking Starlink's launch in the country. Officials stated that India's satellite communication licensing rules are non-discriminatory and apply equally to all players. Starlink has been seeking a license to operate its satellite broadband services in India, but has faced regulatory hurdles regarding data localization and security requirements.",
+          "country": "India",
+          "importance": 6,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/centre-rejects-elon-musks-claim-on-starlink-says-satcom-rules-non-discriminatory/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/04/Elon-Musk-web-2.jpg",
+          "published": "2026-10-08T05:51:22+00:00"
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "stories": [
+        {
+          "headline": "Huawei doubles down on smartphones as EV sales slow",
+          "summary": "Huawei is shifting its consumer business focus back to smartphones powered by its own homegrown chips, starting with the release of the Mate 90 series featuring a \"LogicFolding\" chip. The company aims to recover its overseas market share, which fell drastically after U.S. sanctions in 2019, and plans to expand its HarmonyOS operating system globally over the next one to three years.",
+          "country": "China",
+          "importance": 8,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108373724-1791337280533-gettyimages-2298063603-Huawei_Mate_90_Smartphone.jpeg?v=1791337305&w=1920&h=1080",
+          "published": "2026-10-08T08:04:11+00:00"
+        },
+        {
+          "headline": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+          "summary": "Chinese AI agent startup Manus has raised over $500 million in a funding round led by Boyu Capital and IDG Capital, with participation from Tencent, HSG, and ZhenFund. This is the company's first funding round since Beijing regulators forced Meta to abandon its attempted $2 billion acquisition of the startup. The new capital reportedly values Manus at up to $4 billion, establishing it as China's most valuable AI agent developer.",
+          "country": "China",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108375190-1791437632622-gettyimages-2254446954-CHINA_MANUS.jpeg?v=1791437646&w=1920&h=1080",
+          "published": "2026-10-08T06:59:59+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "headline": "US defence invests $73 million in Diraq with another $357m on the table",
+          "summary": "Sydney-based quantum computing startup Diraq has secured an initial US$51 million from the US defense research agency DARPA, with potential funding of up to US$300 million. The capital will support technical demonstrations and research infrastructure over the next 12 months to prove the scalability of its silicon-based quantum computer.",
+          "country": "Australia",
+          "importance": 7,
+          "source": "Startup Daily (Australia)",
+          "source_url": "https://www.startupdaily.net/topic/funding/us-defence-invests-73-million-in-diraq-with-another-357m-on-the-table/",
+          "image_url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/02/Diraq_Andrew-Dzurak_CEO-and-Founder.jpg?quality=70&w=840",
+          "published": "2026-10-08T06:23:30+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Egypt",
+      "stories": [
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 Worth a MNT",
+          "summary": "Egyptian fintech unicorn MNT-Halan is preparing for an initial public offering. Additionally, South Africa's telecom regulator has stalled updates to its end-user subscriber rules, while Ghana is advancing plans to establish its own space agency.",
+          "country": "Egypt",
+          "importance": 6,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/10/08/techcabal-daily-worth-a-mnt/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2021/09/halen-1024x724.jpg",
+          "published": "2026-10-08T06:17:54+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "ICANN reveals bids for new top-level domains",
+          "summary": "ICANN has released the list of 1,615 applications for new generic top-level domains (GTLDs), marking only the second time the organization has opened applications. High-profile bids include OpenAI seeking 15 domains such as .chatgpt, .agi, and .mcp, with Google and other entities also competing for highly contested strings like .agi and .mcp.",
+          "country": "Global",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/networks/2026/10/08/icann-reveals-bids-for-new-top-level-domains/5301857",
+          "image_url": "https://image.theregister.com/?imageId=242423&width=800",
+          "published": "2026-10-08T05:56:30+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Russia",
+      "stories": [
+        {
+          "headline": "Russia's internet giant Yandex halts operations at major data center after drone attack",
+          "summary": "Russian internet giant Yandex has suspended operations at a major data center in Sasovo, Ryazan, following a drone strike that caused a fire. The outage has affected the company's infrastructure, potentially disrupting services such as its search engine and generative AI model, YandexGPT.",
+          "country": "Russia",
+          "importance": 6,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/105991984-1561660505680rts245tx.jpg?v=1691671775&w=1920&h=1080",
+          "published": "2026-10-08T08:17:47+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "It's a bird, it's a plane...well, more of a spinning parachute, but really it's a droppable robot boat",
+          "summary": "Researchers at the Singapore University of Technology and Design have developed ALBATROSS, a hybrid robotic sailboat drone designed to be deployed from the air. The drone uses a bio-inspired autorotating design to spin like a maple leaf seed during descent, which slows its fall and minimizes water impact without requiring complex landing gear. Once in the water, the system's rigid wingsails allow it to function as an autonomous sailboat.",
+          "country": "Singapore",
+          "importance": 4,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/offbeat/2026/10/08/its-a-bird-its-a-planewell-more-of-a-spinning-parachute-but-really-its-a-droppable-robot-boat/5301788",
+          "image_url": "https://image.theregister.com/?imageId=5301792&width=800",
+          "published": "2026-10-08T07:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "stories": [
+        {
+          "headline": "TSMC\u2019s September sales surge year-over-year as AI drives chip demand",
+          "summary": "Taiwan Semiconductor Manufacturing Co (TSMC) reported September revenue of 511.86 billion New Taiwan dollars (approximately $16.03 billion), representing a 54.6% increase year-over-year driven by surging demand for AI chips. The company's total third-quarter revenue reached approximately NT$1.49 trillion. Additionally, TSMC committed in September to adopting ASML's High NA extreme ultraviolet lithography machines, a critical technology for manufacturing next-generation, more advanced chips.",
+          "country": "Taiwan",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108373707-1791333068896-gettyimages-2296986094-logos.jpeg?v=1791333111&w=1920&h=1080",
+          "published": "2026-10-08T06:50:42+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
+          "summary": "A cybersecurity consultant shared an anecdote of a small construction company that rejected professional security services, believing they were too small to be targeted by hackers. The company was subsequently hit by a ransomware attack and went out of business a few months later, illustrating the severe consequences of neglecting IT security.",
+          "country": "United States",
+          "importance": 2,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757",
+          "image_url": "https://image.theregister.com/?imageId=5301760&width=800",
+          "published": "2026-10-08T08:15:00+00:00"
+        }
+      ]
+    }
+  ]
+}
