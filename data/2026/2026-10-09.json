@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-09",
+  "run_timestamp": "2026-10-09T08:24:02.152172+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 8,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
+          "summary": "OpenAI has defended its decision to fire three safety researchers, Jasmine Wang, Tomek Korbak, and Mikita Balesni, stating the dismissals were due to a \"significant breach of trust\" rather than their raising of safety concerns. The researchers had previously published a letter calling on the company to pause the development of models that reduce the ability to monitor AI. This incident highlights ongoing tensions within major AI labs regarding safety protocols and governance.",
+          "country": "United States",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108377590-1791480338571-gettyimages-2297785644-_04a8884_zmdnebzw.jpeg?v=1791480361&w=1920&h=1080",
+          "published": "2026-10-09T07:57:46+00:00"
+        },
+        {
+          "headline": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+          "summary": "Microsoft is updating its Microsoft 365 Family and Premium subscriptions to allow primary account holders to share Copilot and other AI features with other members of their plan. Previously, these AI benefits were restricted solely to the primary subscriber, despite other family members having access to standard Office apps and OneDrive storage.",
+          "country": "United States",
+          "importance": 5,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published": "2026-10-09T07:14:32+00:00"
+        },
+        {
+          "headline": "'Careless use of AI is the real threat - not the ghost stories'",
+          "summary": "Meredith Whittaker, president of the Signal Foundation, has warned that the immediate threat of AI lies in its careless deployment rather than existential doom scenarios. She cited a reported incident where an AI chatbot generated false intelligence about a Chinese vessel, nearly prompting a U.S. military response, to highlight the dangers of relying on faulty automated systems.",
+          "country": "United States",
+          "importance": 4,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/208feab0-bc0f-11f1-a430-4d16ee157c41.jpg",
+          "published": "2026-10-09T07:05:01+00:00"
+        },
+        {
+          "headline": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+          "summary": "Nasdaq CEO Adena Friedman stated that tokenizing financial assets like Treasurys, equities, and money market funds on blockchain networks could free up tens of billions of dollars in trapped collateral by making capital flows more fluid. Friedman noted that institutional interest in tokenization is growing, driven in part by regulatory developments such as the U.S. Genius Act for stablecoins.",
+          "country": "United States",
+          "importance": 4,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108378717-1791499513422-gettyimages-2298530288-SINGAPORE_TOKEN2049.jpeg?v=1791499529&w=1920&h=1080",
+          "published": "2026-10-09T06:30:01+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "headline": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+          "summary": "Australian AI data centre operator Firmus has cancelled its plans for an initial public offering (IPO) that would have valued the company at over $30 billion. The Nvidia-backed firm, which builds liquid-cooled \"AI factories\" for clients like OpenAI and Meta, cited market volatility and valuation concerns for the decision. Firmus will now seek capital from private markets instead.",
+          "country": "Australia",
+          "importance": 7,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg",
+          "published": "2026-10-09T07:14:30+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "AI chats are becoming the new starting point for online shopping",
+          "summary": "A new report by Salesforce indicates that online shoppers are increasingly starting their product searches using AI chat assistants rather than traditional search engines or brand websites. This shift represents a significant change in the digital retail landscape, forcing brands to adapt their e-commerce strategies to accommodate conversational AI interfaces.",
+          "country": "Global",
+          "importance": 4,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/10/Salesforce_study.jpeg",
+          "published": "2026-10-09T06:05:35+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "stories": [
+        {
+          "headline": "Why Moove is leaving the Nigerian market it was built in",
+          "summary": "Mobility fintech startup Moove is exiting Nigeria, its founding market, and handing over vehicles worth approximately $26.3 million (\u20a635 billion) to eligible drivers and employees with no further payments due. This exit comes five weeks after Uber, Moove's investor and sole ride-hailing partner in Nigeria, also pulled out of the country.",
+          "country": "Nigeria",
+          "importance": 6,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/10/09/moove-exits-nigeria-after-uber/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2024/09/moove.jpg",
+          "published": "2026-10-09T06:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Russia",
+      "stories": [
+        {
+          "headline": "Russia's internet giant Yandex halts operations at major data center after drone attack",
+          "summary": "Russian internet giant Yandex has suspended operations at its key data center in Sasovo, Ryazan, following a drone strike that caused a fire. The company is currently assessing the damage to determine if the equipment can be restored, warning that some Yandex services may experience disruptions.",
+          "country": "Russia",
+          "importance": 6,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/105991984-1561660505680rts245tx.jpg?v=1691671775&w=1920&h=1080",
+          "published": "2026-10-09T06:24:08+00:00"
+        }
+      ]
+    }
+  ]
+}
