@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-11",
+  "run_timestamp": "2026-10-11T08:13:14.587415+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 10,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
+          "summary": "Microsoft CEO Satya Nadella outlined a new perspective on AI security, arguing that organizations should assume advanced AI models are inherently compromised rather than treating them as trusted black boxes. He emphasized the necessity of applying zero-trust principles, verification protocols, and robust security frameworks to safely manage AI deployments.",
+          "country": "United States",
+          "importance": 7,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+          "published": "2026-10-10T22:10:17+00:00"
+        },
+        {
+          "headline": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+          "summary": "Microsoft CEO Satya Nadella published a post emphasizing the need to re-evaluate the trust architecture surrounding AI safety. He advocated for separating AI models from the software harnesses that orchestrate their actions and implementing control mechanisms such as an emergency brake for superintelligent systems.",
+          "country": "United States",
+          "importance": 7,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+          "published": "2026-10-10T21:47:51+00:00"
+        },
+        {
+          "headline": "Microsoft's Nadella says AI needs an \u2018emergency brake\u2019 that humans control",
+          "summary": "Microsoft CEO Satya Nadella has called for advanced artificial intelligence systems to feature containment mechanisms, independent controls, and an emergency brake that allows humans to pause or shut down models mid-task. Nadella advocated for surrounding non-deterministic AI models with deterministic system designs and treating frontier models like insider risks. His comments reflect mounting concerns across the industry regarding AI safety protocols and the rapid pace of development.",
+          "country": "United States",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108374357-1791402676921-gettyimages-2298479109-MICROSOFT_NVIDIA.jpeg?v=1791402727&w=1920&h=1080",
+          "published": "2026-10-10T20:59:28+00:00"
+        },
+        {
+          "headline": "Cloudflare acquires Deno to improve its Workers programming model",
+          "summary": "Cloudflare has announced the acquisition of Deno, the startup behind the open-source JavaScript and TypeScript runtime created by Node.js co-founder Ryan Dahl. Cloudflare plans to use Deno's technology to improve its Workers edge computing platform and programming model.",
+          "country": "United States",
+          "importance": 7,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
+          "published": "2026-10-10T16:25:42+00:00"
+        },
+        {
+          "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "summary": "Apple has reached a reverse acqui-hire agreement to hire key personnel and license technology from personalized audio startup Huxe AI. According to regulatory filings disclosed to the European Commission, Apple will offer employment to select Huxe AI staff and acquire a non-exclusive license to the startup's intellectual property.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
+          "published": "2026-10-10T19:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "stories": [
+        {
+          "headline": "Ledger wallet tampering suspected after reports of crypto thefts",
+          "summary": "Ledger has requested that distributor CryptoBillis pause all sales of its hardware crypto wallets following reports that users' accounts were drained. Ledger launched an investigation after confirming that at least one impacted user's device had been physically tampered with.",
+          "country": "France",
+          "importance": 6,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published": "2026-10-10T16:36:44+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Swiggy, Zomato Have A New Fight On Their Hands",
+          "summary": "Indian foodtech giants Swiggy and Zomato are facing new competitive challenges to their market dominance in India. Additional details regarding the specific competitors or strategic shifts were not provided in the excerpted text.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/features/swiggy-zomato-have-a-new-fight-on-their-hands/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Outline-Swiggy-Zomato-ftr.jpg",
+          "published": "2026-10-11T05:30:38+00:00"
+        }
+      ]
+    }
+  ]
+}
