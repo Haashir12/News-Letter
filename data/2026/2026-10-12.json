@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-12",
+  "run_timestamp": "2026-10-12T08:29:51.457282+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 7,
+  "countries": [
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Zetwerk Sets IPO Price Band At \u20b9143-\u20b9151 For \u20b95,012 Cr Issue",
+          "summary": "India-based B2B manufacturing platform Zetwerk has established a price band of \u20b9143 to \u20b9151 per share for its upcoming \u20b95,012 crore initial public offering. The pricing sets the stage for one of the largest tech-enabled manufacturing startup public listings in the country.",
+          "country": "India",
+          "importance": 6,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/zetwerk-sets-ipo-price-band-at-%e2%82%b9143-%e2%82%b9151-for-%e2%82%b95012-cr-issue/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Zetwerk-IPO-ftr.jpg",
+          "published": "2026-10-12T05:25:07+00:00"
+        },
+        {
+          "headline": "BYJU\u2019S Parent To Hold 32% Stake In Aakash After Settlement: Report",
+          "summary": "Think & Learn Pvt Ltd (TLPL), the insolvent parent company of Indian edtech giant BYJU\u2019S, will reportedly retain a 32% stake in Aakash Educational Services following a settlement. The development comes as part of ongoing efforts to resolve debt and legal disputes surrounding the troubled edtech firm and its subsidiary assets.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/byjus-parent-to-hold-32-stake-in-aakash-after-settlement-report/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/BYJU-Rise-Fall-Timeline-ftr.jpg",
+          "published": "2026-10-12T07:33:15+00:00"
+        },
+        {
+          "headline": "Tonbo Imaging Sets IPO Price Band At \u20b9665-\u20b9700 For \u20b9852 Cr Issue",
+          "summary": "Defence technology firm Tonbo Imaging India has set its IPO price band between \u20b9665 and \u20b9700 per equity share for an issue worth \u20b9852.1 crore. The company develops electro-optical imaging systems and night-vision equipment for defence and security applications.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/tonbo-imaging-sets-ipo-price-band-at-%e2%82%b9665-%e2%82%b9700-for-%e2%82%b9852-cr-issue/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-FTR.jpg",
+          "published": "2026-10-12T05:23:37+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Raspberry Pi Desktop catches up with Debian 13 after 4-year wait",
+          "summary": "Raspberry Pi has updated its Raspberry Pi Desktop OS for x86 PCs and Intel Macs after a four-year gap, skipping Debian 12 to base the release on Debian 13 \"Trixie.\" The lightweight Linux distribution features a customized LXDE-based desktop designed to run efficiently on older hardware.",
+          "country": "Global",
+          "importance": 4,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/os-platforms/2026/10/12/raspberry-pi-desktop-catches-up-with-debian-13-after-4-year-wait/5301693",
+          "image_url": "https://image.theregister.com/?imageId=234467&width=800",
+          "published": "2026-10-12T08:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "stories": [
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 OPay\u2019s new Standard",
+          "summary": "Standard Bank, Africa's largest lender by assets, is investing approximately $185 million to acquire a stake in OPay. The deal follows months of negotiations and marks a major strategic expansion into Nigeria's booming fintech sector for the traditional banking giant.",
+          "country": "Nigeria",
+          "importance": 6,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/10/12/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-opays-new-standard/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/10/image-8-1.webp",
+          "published": "2026-10-12T07:35:49+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "AI may change the price of your Big Mac and groceries \u2014 what this means for shoppers",
+          "summary": "Retailers and fast-food chains are increasingly deploying AI-powered tools and electronic shelf labels to manage inventory and pricing, prompting concerns about personalized pricing. A federal antitrust lawsuit recently filed against McDonald's alleges the company used an AI pricing engine to overcharge customers across U.S. locations, though McDonald's has denied the claims.",
+          "country": "United States",
+          "importance": 4,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108369883-1790716626733-gettyimages-2297775464-mcdonaldsusesartificialintelligencetorecommendmenuprices008.jpeg?v=1791542053&w=1920&h=1080",
+          "published": "2026-10-12T06:02:18+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "stories": [
+        {
+          "headline": "Vietnam\u2019s shoppers are asking AI first, but Google still gets the last word",
+          "summary": "According to a survey by market research firm Q&Me, 62 percent of shoppers in Vietnam use AI, including generative AI, to research products before making purchases. While AI chatbots are increasingly becoming the initial touchpoint for product discovery, traditional Google search continues to play a key role in finalizing buying decisions.",
+          "country": "Vietnam",
+          "importance": 3,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/vietnams-shoppers-are-asking-ai-first-but-google-still-gets-the-last-word-20261012/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/10/Vietnam_AI_report.jpeg",
+          "published": "2026-10-12T06:25:47+00:00"
+        }
+      ]
+    }
+  ]
+}
