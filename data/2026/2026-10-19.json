@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-19",
+  "run_timestamp": "2026-10-19T07:14:40.777150+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 3,
+  "countries": [
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Zerodha Launches US Stock Investing, Offers Access To 2,000 Stocks",
+          "summary": "Indian discount brokerage Zerodha has launched US stock investing in beta mode on its Kite trading platform. The new feature gives Indian retail investors access to trade approximately 2,000 US-listed stocks and ETFs directly through the app.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/zerodha-launches-us-stock-investing-offers-access-to-2000-stocks/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/ftr_Zerodha.jpg",
+          "published": "2026-10-19T05:44:23+00:00"
+        }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "stories": [
+        {
+          "headline": "Kiwi edtech SupaHuman chalks up $2.6 million Series for Australian plans",
+          "summary": "New Zealand edtech startup SupaHuman raised NZ$2.6 million in funding led by venture capital firm Movac to expand its operations into Australia. The company develops AI software, including its VETos and Nova 5 platforms, to automate the creation, validation, and delivery of vocational education and workplace training materials.",
+          "country": "New Zealand",
+          "importance": 3,
+          "source": "Startup Daily (Australia)",
+          "source_url": "https://www.startupdaily.net/topic/funding/kiwi-edtech-supahuman-chalks-up-2-6-million-series-for-australian-plans/",
+          "image_url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/10/Dave-Howden.jpg?quality=70&w=840",
+          "published": "2026-10-19T05:42:27+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+          "summary": "AI startup Anthropic has announced plans to allocate 5% of its shares to a public benefit fund dedicated to supporting nonprofits and mitigating AI's impact on jobs and society. The commitment comes as the Claude developer prepares for a potential initial public offering (IPO). An additional 2% of shares may be directed to the fund at the discretion of the company's board.",
+          "country": "United States",
+          "importance": 7,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg",
+          "published": "2026-10-19T04:30:59+00:00"
+        }
+      ]
+    }
+  ]
+}
