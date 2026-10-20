@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-20",
+  "run_timestamp": "2026-10-20T07:04:01.534821+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 4,
+  "countries": [
+    {
+      "name": "Japan",
+      "stories": [
+        {
+          "headline": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+          "summary": "Japan has launched its $578 million Martian Moons eXploration (MMX) mission aboard an upgraded H3 rocket from the Tanegashima Space Center. The robotic spacecraft will undergo a 10-month journey to Mars, aiming to attempt up to two landings on the moon Phobos in 2029 to collect and return physical samples to Earth.",
+          "country": "Japan",
+          "importance": 7,
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg",
+          "published": "2026-10-20T05:59:56+00:00"
+        },
+        {
+          "headline": "Sony updates the Walkman as a $5,900 gold-plated MP3 player",
+          "summary": "Sony has updated its Walkman line with three new Android-powered portable music players aimed at audiophiles. The top-tier model features a gold-plated, oxygen-free copper chassis and carries a price tag of $5,900.",
+          "country": "Japan",
+          "importance": 4,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/personal-tech/2026/10/20/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player/5304051",
+          "image_url": "https://image.theregister.com/?imageId=5304056&width=800",
+          "published": "2026-10-20T05:29:33+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Estonia",
+      "stories": [
+        {
+          "headline": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+          "summary": "Estonia-based cybersecurity company Blackwall has raised $100 million in a Series C funding round at a $2.2 billion valuation, led by AVP with participation from Dawn Capital, MMC Ventures, and Tera Ventures. The company develops web traffic security and filtering tools designed to help web hosting providers manage high volumes of bot and AI agent traffic.",
+          "country": "Estonia",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Blackwall-co-founders-l-r-Denis-Prochko-and-Nik-Rozenberg.png?resize=1200,800",
+          "published": "2026-10-20T07:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Ex-DeepMind researcher Thore Graepel launches new startup Metis Reasoning",
+          "summary": "Former Google DeepMind researcher Thore Graepel, who previously contributed to AlphaGo, has launched a new startup named Metis Reasoning. The company will focus on developing advanced artificial intelligence models capable of complex reasoning.",
+          "country": "United Kingdom",
+          "importance": 6,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/thore-graepel-metis-reasoning/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1993,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/06190428/IMG-03338-1-e1788717930315.jpg",
+          "published": "2026-10-20T05:00:30+00:00"
+        }
+      ]
+    }
+  ]
+}
