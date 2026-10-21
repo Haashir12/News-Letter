@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-21",
+  "run_timestamp": "2026-10-21T06:57:36.519872+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 3,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Elon Musk considering Tesla-SpaceX merger",
+          "summary": "Elon Musk announced that special committees within Tesla and SpaceX have been formed to evaluate a potential merger between the two companies. A combination of Tesla and SpaceX, valued at roughly $1.5 trillion and $2 trillion respectively, would represent one of the largest mergers in corporate history. Musk noted that while no agreement on terms has been reached and shareholder approval is required, he believes there is substantial merit to joining the firms. The announcement comes as SpaceX expands its profitable cloud compute business serving major AI and tech clients.",
+          "country": "United States",
+          "importance": 9,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+          "published": "2026-10-21T05:48:46+00:00"
+        },
+        {
+          "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+          "summary": "Elon Musk has indicated that merging Tesla and SpaceX is under consideration, with special committees formed to evaluate a potential deal. While no agreement has been finalized and shareholder approval would be necessary, a combination of Tesla and SpaceX would mark the largest corporate merger in history. Musk highlighted potential synergies between the two companies, pointing to recent cross-company projects like the SpaceX-powered Tesla Roadster.",
+          "country": "United States",
+          "importance": 8,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg",
+          "published": "2026-10-21T06:36:39+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "SBI Flags Exposure Of 3,897 Customer Records On Dark Web",
+          "summary": "State Bank of India has flagged the exposure of 3,897 customer records containing personal information on the dark web. The incident highlights ongoing data security risks faced by major financial institutions in the region.",
+          "country": "India",
+          "importance": 3,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/sbi-flags-exposure-of-3897-customer-records-on-dark-web/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2022/03/dark-web.jpg",
+          "published": "2026-10-21T06:02:52+00:00"
+        }
+      ]
+    }
+  ]
+}
