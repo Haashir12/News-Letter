@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-22",
+  "run_timestamp": "2026-10-22T07:00:37.370295+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 4,
+  "countries": [
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Who referees the AI agents? Enterprises aren\u2019t sure, new report shows",
+          "summary": "A new report from low-code platform OutSystems highlights enterprise uncertainty surrounding the governance and coordination of autonomous AI agents. While executives feel confident overseeing individual agents, many lack clear strategies or protocols for resolving conflicts when multiple AI agents interact and disagree.",
+          "country": "Global",
+          "importance": 3,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/who-referees-the-ai-agents-enterprises-arent-sure-new-report-shows-20261022/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/10/OutSystems_survey_newss.jpeg",
+          "published": "2026-10-22T06:30:33+00:00"
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "stories": [
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 \u2018Crypto averts catastrophe\u2019",
+          "summary": "South Africa has reversed a proposed regulation regarding cryptocurrency rules in the country. Meanwhile, ride-hailing company Bolt is expanding its electric vehicle investment in South Africa.",
+          "country": "South Africa",
+          "importance": 3,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/10/22/techcabal-daily-catastrophe-averted/",
+          "image_url": null,
+          "published": "2026-10-22T06:00:06+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "UK working to identify exposure after global cyber-security warning",
+          "summary": "Critical cyber-security vulnerabilities have been discovered in the PHP programming language, prompting global warnings from cyber agencies in the UK, EU, and Australia. Organizations including Amazon have reported attack attempts prior to the public alert, and the UK National Cyber Security Centre is urging all entities to apply immediate patches or take vulnerable systems offline.",
+          "country": "United Kingdom",
+          "importance": 8,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f340/live/eba975d0-cdcc-11f1-bd0d-75577ccf219c.jpg",
+          "published": "2026-10-22T06:58:38+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
+          "summary": "Anthropic has unveiled Claude Duet, a proactive AI agent designed to monitor connected applications, prioritize tasks, and execute work autonomously. The tool aims to provide continuous background task automation, positioning Anthropic against similar agentic AI developments from competitors like OpenAI and Meta.",
+          "country": "United States",
+          "importance": 8,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/anthropic-ft.png",
+          "published": "2026-10-22T06:06:13+00:00"
+        }
+      ]
+    }
+  ]
+}
