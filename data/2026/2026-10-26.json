@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-26",
+  "run_timestamp": "2026-10-26T07:21:21.859555+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 6,
+  "countries": [
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Tesco replacing VMware with Proxmox in its stores and on the edge",
+          "summary": "Tesco is moving away from VMware to adopt Proxmox VE as its primary virtualization platform across its retail stores and edge infrastructure. The UK supermarket giant is actively recruiting engineers to manage the alternative platform, highlighting a growing enterprise trend of migrating off VMware following Broadcom's licensing changes.",
+          "country": "United Kingdom",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281",
+          "image_url": "https://image.theregister.com/?imageId=260306&width=800",
+          "published": "2026-10-26T05:24:02+00:00"
+        },
+        {
+          "headline": "Exclusive: General Catalyst-backed Strawberry launches first full product, 'the European alternative' to US agents",
+          "summary": "General Catalyst-backed startup Strawberry has launched its first full product, positioning itself as a European alternative to US-built AI agents. Founded by Charles Maddock, the company focuses directly on developing autonomous AI agent technology.",
+          "country": "United Kingdom",
+          "importance": 5,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/strawberry-browser-1-0/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/23164435/strawberry-founders-scaled.jpg",
+          "published": "2026-10-26T05:00:08+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "headline": "HEX launches workplace simulator to tackle the graduate experience gap",
+          "summary": "EdTech company HEX has launched WorkSim, a workplace simulation platform designed to give students practical remote work and AI tool experience. RMIT University has integrated the platform into its Diploma of Business, enrolling over 400 students to help bridge the graduate internship gap.",
+          "country": "Australia",
+          "importance": 3,
+          "source": "Startup Daily (Australia)",
+          "source_url": "https://www.startupdaily.net/advice/workplace/hex-launches-workplace-simulator-to-tackle-the-graduate-experience-gap/",
+          "image_url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/10/Jeanette-Cheah-Hex.jpg?quality=70&w=840",
+          "published": "2026-10-26T05:56:25+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Work to protect DNS from quantum decryption attacks is speeding up",
+          "summary": "ICANN and other internet governance bodies are accelerating efforts to protect the Domain Name System (DNS) and DNSSEC against quantum computing decryption risks. ICANN's chief technology officer warned that quantum-safe standards may be needed in three to five years rather than the previously expected decade.",
+          "country": "Global",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+          "image_url": "https://image.theregister.com/?imageId=238312&width=800",
+          "published": "2026-10-26T04:08:23+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "stories": [
+        {
+          "headline": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+          "summary": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, focusing on artificial intelligence and data centers. The planned investments, announced by Prime Minister Anwar Ibrahim, target locations in Kuching, Sarawak, and peninsular Malaysia. This initiative aligns with Malaysia's ambition to become an 'AI nation' by 2030 and follows similar digital infrastructure investments from tech giants like Google and Amazon Web Services.",
+          "country": "Malaysia",
+          "importance": 8,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108246651-1767105043132-108246651-1767103912282-gettyimages-2248717434-JAPAN_FII.jpeg?v=1767105059&w=1920&h=1080",
+          "published": "2026-10-26T04:56:16+00:00"
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "stories": [
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 OPay wants $336 million",
+          "summary": "South Africa's Presidency temporarily took its website offline following the discovery of two critical PHP vulnerabilities, known as PHP2Shell. The security flaws allow attackers to execute arbitrary code on vulnerable servers, posing a risk to thousands of internet-facing systems in the country.",
+          "country": "South Africa",
+          "importance": 4,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/10/26/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-opay-wants-336-million/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/10/EaseMoni-Loan-App-on-Smartphone.webp",
+          "published": "2026-10-26T06:16:01+00:00"
+        }
+      ]
+    }
+  ]
+}
