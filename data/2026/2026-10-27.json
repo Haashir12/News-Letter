@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-27",
+  "run_timestamp": "2026-10-27T07:13:13.231245+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 6,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel",
+          "summary": "Rights holders controlling the music catalog of Elvis Presley have sued Anthropic in a US federal court for copyright infringement. The lawsuit alleges that the AI company scraped and used copyrighted song lyrics without authorization to train its large language models.",
+          "country": "United States",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625",
+          "image_url": "https://image.theregister.com/?imageId=232704&width=800",
+          "published": "2026-10-27T05:39:18+00:00"
+        },
+        {
+          "headline": "IBM admits mainframes need to be modernized and will use AI to do the job",
+          "summary": "IBM has published a Statement of Direction for IBM Z Atlas, an AI-native tool designed to simplify and modernize complex IBM Z mainframe environments. The upcoming solution will map a customer's entire z/OS stack across infrastructure, middleware, and applications to automate manual tasks like patch management and regulatory compliance.",
+          "country": "United States",
+          "importance": 5,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618",
+          "image_url": "https://image.theregister.com/?imageId=142108&width=800",
+          "published": "2026-10-27T04:07:15+00:00"
+        },
+        {
+          "headline": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+          "summary": "Social media platform X has introduced a new user interface nudge featuring a pointing hand icon directed at the promote button while users compose posts. The intrusive prompt has drawn widespread confusion and criticism from users across the platform.",
+          "country": "United States",
+          "importance": 3,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
+          "published": "2026-10-27T06:34:44+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Ather Cracks Profitability In Q2, But Can It Sustain The Momentum?",
+          "summary": "Indian electric vehicle manufacturer Ather Energy reported turning profitable in Q2. This marks a major financial milestone for the listed EV maker as it continues to expand its position in India's competitive electric two-wheeler market.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/ather-cracks-profitability-in-q2-but-can-it-sustain-the-momentum/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Ather-ftr.jpg",
+          "published": "2026-10-27T02:58:35+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "stories": [
+        {
+          "headline": "Ecosystem Roundup: Bukalapak stays in the black as gaming carries the load",
+          "summary": "Indonesian tech firm Bukalapak reported a positive adjusted EBITDA of US$55,088 for the third quarter of 2026, rebounding from a loss of nearly US$991,000 during the same period a year prior. The platform's gaming division helped drive nine-month adjusted EBITDA to approximately US$606,000.",
+          "country": "Indonesia",
+          "importance": 3,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/ecosystem-roundup-bukalapak-stays-in-the-black-as-gaming-carries-the-load-20261027/",
+          "image_url": "https://e27.co/wp-content/uploads/2021/04/bukalapak.jpg",
+          "published": "2026-10-27T06:00:05+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "stories": [
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 Fined National Bank",
+          "summary": "Nigerian buy-now-pay-later startup Klump has shut down operations five years after its launch. The tech digest also notes that AI developer Anthropic has filed for an initial public offering on the Nasdaq exchange.",
+          "country": "Nigeria",
+          "importance": 5,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/10/27/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-fined-national-bank/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/10/images-36.webp",
+          "published": "2026-10-27T06:10:54+00:00"
+        }
+      ]
+    }
+  ]
+}
