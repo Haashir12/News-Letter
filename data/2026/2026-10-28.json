@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-28",
+  "run_timestamp": "2026-10-28T07:51:30.492501+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 8,
+  "countries": [
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Jio shares surge 21% in market debut after blockbuster India IPO",
+          "summary": "Jio Platforms surged 21% in its stock market debut following India's largest IPO, which raised $3.2 billion and drew over $77 billion in investor bids. Backed by Meta and Google, the telecom and digital services giant is now valued at roughly $131.9 billion, making it India's second-most valuable listed company.",
+          "country": "India",
+          "importance": 8,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800",
+          "published": "2026-10-28T05:20:32+00:00"
+        },
+        {
+          "headline": "[Update] Bombay HC Rejects Meta\u2019s Plea To Move Blink Digital\u2019s \u20b91,000 Cr Suit To US",
+          "summary": "The Bombay High Court has rejected Meta Platforms Inc.'s plea challenging the court's jurisdiction to hear a INR 1,000 crore lawsuit filed by digital agency Blink Digital. Meta had petitioned to move the legal dispute to the United States, but the court ruled that the suit can proceed in India.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/meta-sued-for-%e2%82%b91000-cr-by-blink-digital-over-disabled-ad-accounts/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Meta-Web.jpg",
+          "published": "2026-10-28T05:47:22+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Phishers now want you to type the malware in yourself",
+          "summary": "Recent findings from Check Point Research reveal that phishing attackers are increasingly tricking users into manually typing or executing malware commands themselves. This tactic allows malicious emails to bypass conventional automated security filters and traditional anti-phishing protections.",
+          "country": "Global",
+          "importance": 5,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/10/Checkpoint_research_article.jpeg",
+          "published": "2026-10-28T05:57:42+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Kenya",
+      "stories": [
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 Safaricom cleans house",
+          "summary": "Kenyan telecom operator Safaricom has dismissed several employees following internal fraud investigations. The newsletter edition also highlights South African financial group FirstRand's ongoing efforts to enter Kenya's banking sector.",
+          "country": "Kenya",
+          "importance": 4,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/10/28/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-safaricom-cleans-house/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/SAFARICOM.webp",
+          "published": "2026-10-28T06:24:17+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "Meta\u2019s Muse lands in Singapore with a guest list Amazon never got",
+          "summary": "Meta has launched its personal AI agent, Muse, in Singapore following its initial debut in the United States. The regional rollout comes after an earlier dispute in the US where Amazon blocked the AI bot for navigating its platform unannounced.",
+          "country": "Singapore",
+          "importance": 5,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/metas-muse-lands-in-singapore-with-a-guest-list-amazon-never-got-20261028/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/10/Muse-16x9-SG.png",
+          "published": "2026-10-28T05:30:40+00:00"
+        }
+      ]
+    },
+    {
+      "name": "South Korea",
+      "stories": [
+        {
+          "headline": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
+          "summary": "South Korean memory chipmaker SK Hynix reported record third-quarter financial results, sending its shares up nearly 11%. Driven by surging semiconductor demand, revenue rose 327.9% year-over-year while operating profit climbed 632.1%. Additionally, the company announced plans to return approximately 100 trillion won to shareholders through cash dividends and share buybacks.",
+          "country": "South Korea",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
+          "published": "2026-10-28T06:56:49+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Sweden",
+      "stories": [
+        {
+          "headline": "Exclusive: Lovable offers employees $80m cash-out at $13.3bn valuation",
+          "summary": "Swedish AI coding startup Lovable is allowing its employees to cash out up to $80 million in shares. The secondary transaction values the company at $13.3 billion, maintaining the valuation set during its Series C funding round in August.",
+          "country": "Sweden",
+          "importance": 5,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/lovable-employee-share-sale/",
+          "image_url": "https://content.sifted.eu/wp-content/uploads/2025/09/15155020/Summer-2025-Lovable-Team-Picture.webp",
+          "published": "2026-10-28T05:00:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Should AI Decide Your Court Case? This Judge Says Yes",
+          "summary": "Geoffrey Vos, the outgoing Master of the Rolls and top civil judge in England, is advocating for courts to consider using artificial intelligence to help adjudicate civil disputes. While current UK guidance restricts judicial AI use to administrative tasks, Vos argues that AI could eventually resolve civil cases faster, pointing to similar implementations already in place in Shenzhen, China.",
+          "country": "United Kingdom",
+          "importance": 5,
+          "source": "Wired",
+          "source_url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+          "image_url": "https://media.wired.com/photos/6ae127c278c885541c89a02e/191:100/w_1280,c_limit/Business_Should%20AI%20Decide%20Your%20Court%20Case%20This%20Judge%20Says%20Yes_v1.jpg",
+          "published": "2026-10-28T06:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}
