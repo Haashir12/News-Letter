@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-29",
+  "run_timestamp": "2026-10-29T07:57:01.592696+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 9,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+          "summary": "Microsoft reported quarterly revenue growth of 19% year over year, driven by a 48% increase in its Azure cloud infrastructure business. To keep up with demand for artificial intelligence capabilities, the company recorded $45.2 billion in capital expenditures and finance leases as it continues building out data center infrastructure. Microsoft projected second-quarter fiscal revenue between $96 billion and $97.1 billion, anticipating continued strong cloud growth.",
+          "country": "United States",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108471082-1793218589052-108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793218676&w=1920&h=1080",
+          "published": "2026-10-29T06:03:35+00:00"
+        },
+        {
+          "headline": "Google's Gemini 4 Carbon looks like a diamond in the rough",
+          "summary": "Google has announced Gemini 4 Carbon, an upgraded AI model featuring improved capabilities in cybersecurity and complex long-running tasks. The model is temporarily priced at $2 per million input tokens and $10 per million output tokens before increasing to match Anthropic's Claude Opus 5.5 pricing.",
+          "country": "United States",
+          "importance": 7,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149",
+          "image_url": "https://image.theregister.com/?imageId=5306177&width=800",
+          "published": "2026-10-29T05:29:00+00:00"
+        },
+        {
+          "headline": "Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform",
+          "summary": "Nasdaq-listed SaaS company Freshworks has acquired Israel-based AI startup Robusta Dev for an undisclosed amount. The acquisition is intended to bolster Freshworks' IT service and operations management platform by incorporating Robusta's automated incident response and observability tools for Kubernetes environments.",
+          "country": "United States",
+          "importance": 6,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/freshworks-acquisition-featured.jpg",
+          "published": "2026-10-29T07:06:42+00:00"
+        },
+        {
+          "headline": "Boffin's software found a possible dwarf planet - a result so rare he thought it must be a bug",
+          "summary": "Researchers at the Center for Astrophysics used custom search software to identify a candidate dwarf planet, designated 2026 ED138, located beyond Neptune. The algorithm analyzed billions of detections captured by the Rubin Observatory's 3,200-megapixel camera to track and match the rare moving object.",
+          "country": "United States",
+          "importance": 3,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/science/2026/10/29/boffins-software-found-a-possible-dwarf-planet-a-result-so-rare-he-thought-it-must-be-a-bug/5306204",
+          "image_url": "https://image.theregister.com/?imageId=5306210&width=800",
+          "published": "2026-10-29T05:06:42+00:00"
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "stories": [
+        {
+          "headline": "The French robotics startup promising to deploy industrial humanoids after just 20 minutes of training",
+          "summary": "Paris-based startup Bleu Robotics has raised a \u20ac5 million pre-seed round led by Contrarian Ventures and OVNI Capital. The company is developing software aimed at reducing the setup and training time for industrial humanoid robots in factories from months to less than an hour.",
+          "country": "France",
+          "importance": 4,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/french-robotics-startup-industrial-humanoids-20-minutes-of-training/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1400,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/28174758/Bleu-Robotics-Founders.jpeg",
+          "published": "2026-10-29T05:00:50+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "stories": [
+        {
+          "headline": "Exclusive: Deeptech startup MuRay raises \u20ac7.1m to see inside rocket engines",
+          "summary": "German deeptech startup MuRay has raised \u20ac7.1 million in funding to develop specialized imaging technology for industrial components. The Hamburg-based company's system allows manufacturers to inspect the interior of dense structures, such as 3D-printed rocket engines and turbines, to detect structural defects without damaging the parts.",
+          "country": "Germany",
+          "importance": 3,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/exclusive-deeptech-startup-muray-raises-e7-1m-to-see-inside-rocket-engines/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1143,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/28174442/2026-09-14-The-founders-03-Andi-Hektor-left-and-Kristjan-Po%CC%83der-right-scaled-e1793209506992.jpg",
+          "published": "2026-10-29T05:00:56+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "stories": [
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 Grey launches Paycheck",
+          "summary": "Y Combinator-backed cross-border fintech Grey has launched Paycheck, a new salary management product designed for professionals earning in foreign currencies such as U.S. dollars, British pounds, and euros. The platform enables users to receive and organize salary payments while offering qualifying accounts higher savings rates, increased transaction limits, and priority support.",
+          "country": "Nigeria",
+          "importance": 4,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/10/29/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-grey-launches-paycheck/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/10/IMG-20261028-WA0032.webp",
+          "published": "2026-10-29T06:28:56+00:00"
+        }
+      ]
+    },
+    {
+      "name": "South Korea",
+      "stories": [
+        {
+          "headline": "Samsung Electronics shares slid despite record profit in the third-quarter",
+          "summary": "Samsung Electronics reported record third-quarter financial results, with revenue rising 126.88% year-on-year and operating profit surging 783.11%, driven largely by its semiconductor division. Despite posting record quarterly profits, the company's shares fell 4.13% on Thursday as earnings met but did not exceed analyst expectations. Samsung also announced 30 trillion won in third-quarter cash dividends and outlined plans for further shareholder returns through dividends and share buybacks.",
+          "country": "South Korea",
+          "importance": 6,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&w=1920&h=1080",
+          "published": "2026-10-29T06:53:19+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Ofcom outlines ways social media can verify ages of users",
+          "summary": "UK communications regulator Ofcom has outlined recommended methods for social media platforms to verify that users are aged 16 or over, ahead of a planned under-16 social media ban set for March 2025. Proposed age-verification techniques include photo ID matching, digital IDs, banking checks, and facial age estimation. The measures aim to enforce strict access controls on major platforms like Instagram, TikTok, and Snapchat.",
+          "country": "United Kingdom",
+          "importance": 6,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg",
+          "published": "2026-10-29T05:57:15+00:00"
+        }
+      ]
+    }
+  ]
+}
