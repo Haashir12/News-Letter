@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-30",
+  "run_timestamp": "2026-10-30T07:59:26.130080+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 7,
+  "countries": [
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+          "summary": "Cryptocurrency exchange Binance was hit by a massive cyberattack resulting in an estimated $6.3 billion in compromised digital assets, making it potentially the largest crypto hack in history. Binance stated that roughly half of the affected assets have been frozen and promised to cover all customer losses. Preliminary checks indicate the breach originated from a compromised engineer's laptop that allowed attackers to perform unauthorized withdrawals. Blockchain analytics firms have attributed the attack to TraderTraitor, a hacking unit linked to North Korea.",
+          "country": "Global",
+          "importance": 9,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+          "published": "2026-10-30T07:16:05+00:00"
+        },
+        {
+          "headline": "Binance Hit By Record $6.3 Bn Crypto Breach, Suspends Withdrawals",
+          "summary": "Cryptocurrency exchange Binance has reported a massive security breach resulting in an estimated $6.3 billion in compromised assets. Following the incident, the platform has suspended withdrawals while investigating the breach and securing its infrastructure.",
+          "country": "Global",
+          "importance": 9,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/binance-hit-by-record-6-3-bn-crypto-breach-suspends-withdrawals/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2023/03/bitbns-hack-featured-.png",
+          "published": "2026-10-30T06:18:42+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "stories": [
+        {
+          "headline": "Grey\u2019s next bet is making African trade less dependent on the dollar",
+          "summary": "Cross-border payments startup Grey has introduced direct currency conversion routes to allow African businesses to settle payments with suppliers without converting funds into US dollars first. Announced in Lagos, Nigeria, the new payment infrastructure aims to reduce FX liquidity challenges and lower transaction steps across intra-African trade.",
+          "country": "Nigeria",
+          "importance": 4,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/10/30/grey-african-business-payments-without-dollar/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/10/Tap-to-view-Story-Template-2026-10-30T054359.026.webp",
+          "published": "2026-10-30T06:58:21+00:00"
+        },
+        {
+          "headline": "Breet makes case for simpler crypto payments at Moonshot",
+          "summary": "African crypto platform Breet highlighted its infrastructure enabling businesses in Nigeria and Ghana to accept cryptocurrency payments with automatic local currency settlement. Speaking at TechCabal's Moonshot conference in Lagos, COO Vivian Mbene emphasized the company's API that abstracts payment complexities for merchants.",
+          "country": "Nigeria",
+          "importance": 3,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/10/30/breet-simpler-crypto-payments-moonshot/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/10/Breet.webp",
+          "published": "2026-10-30T07:03:15+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "stories": [
+        {
+          "headline": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+          "summary": "Waymo has partnered with Toyota to supply electric bZ4X vehicles integrated with Waymo's self-driving technology for robotaxi operations in international markets, including Japan and the U.K. Toyota will manufacture the vehicles and install Waymo's autonomous driving system at its Takaoka factory in Japan, with initial testing scheduled to begin in Japan next year.",
+          "country": "Japan",
+          "importance": 7,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675",
+          "published": "2026-10-30T07:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "stories": [
+        {
+          "headline": "Foxconn hopes to own 50% of the global AI server market within a couple years",
+          "summary": "Foxconn aims to capture 50% of the global AI server market within a couple of years, up from its current share of around 40%, according to Chairman Young Liu. The Taiwanese electronics manufacturer expects AI infrastructure to generate 60% to 65% of its total revenue over the next three to five years as it expands manufacturing capacity in the United States.",
+          "country": "Taiwan",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108237155-1764929679332-gettyimages-2209931430-AA_16042025_2178636.jpeg?v=1776753930&w=1920&h=1080",
+          "published": "2026-10-30T07:43:39+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Google's search revenue Ferrari hits an AI-powered speed bump",
+          "summary": "Alphabet reported a slowdown in Google's search revenue growth from 17 percent in Q2 to 12 percent in Q3, partly due to lower monetization rates for its AI Overviews and AI Mode features. The performance shift contributed to investor concerns as Alphabet lost roughly $500 billion in market value. To address the issue, Google announced plans to expand ad distribution within AI Overviews and introduce multiturn ads.",
+          "country": "United States",
+          "importance": 7,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/10/30/googles-search-revenue-ferrari-hits-an-ai-powered-speed-bump/5306520",
+          "image_url": "https://image.theregister.com/?imageId=5306524&width=800",
+          "published": "2026-10-30T07:33:00+00:00"
+        }
+      ]
+    }
+  ]
+}
