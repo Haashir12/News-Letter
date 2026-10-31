@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-31",
+  "run_timestamp": "2026-10-31T07:55:57.754823+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 9,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
+          "summary": "Nvidia is reportedly in talks to guarantee billions of dollars in debt financing for AI cloud provider Nscale's planned data center in West Virginia. The facility is set to support AI model developer Anthropic, which signed a $44.6 billion contract for the project's initial building. Nvidia's potential loan guarantee underscores the unusual financial structures chipmakers and cloud providers are using to maintain momentum in massive AI infrastructure buildouts amid investor caution.",
+          "country": "United States",
+          "importance": 7,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+          "published": "2026-10-31T01:20:05+00:00"
+        },
+        {
+          "headline": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+          "summary": "NASA has issued a Request for Information seeking proposals from commercial space companies to capture, reboost, service, or safely dispose of the Hubble Space Telescope. Left alone, orbital decay will cause the telescope to re-enter Earth's atmosphere in the early-to-mid-2030s. Commercial firms have until November 30 to submit ideas on boosting Hubble to an altitude of at least 600 kilometers.",
+          "country": "United States",
+          "importance": 6,
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
+          "published": "2026-10-31T00:07:22+00:00"
+        },
+        {
+          "headline": "Salesforce\u2019s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+          "summary": "Salesforce has agreed to acquire defense tech startup Rune Technologies for $375 million in cash and stock. Rune develops AI software designed to help the U.S. military predict supply needs and manage field logistics. The acquisition will bolster Salesforce's Missionforce defense platform, which serves national security agencies and recently secured a 10-year contract with the U.S. Army.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
+          "published": "2026-10-30T23:21:23+00:00"
+        },
+        {
+          "headline": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+          "summary": "S&P Global Ratings has revised Meta's credit outlook from stable to negative, keeping its AA- credit rating intact while citing concerns over heavy capital expenditures and free cash flow. The rating agency questioned Meta's ability to effectively monetize its massive AI investments, noting uncertainty over when products like its Muse AI agent will generate material returns. Meta disputed the revision, stating that its AI product roadmap and business opportunities remain strong.",
+          "country": "United States",
+          "importance": 6,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108443816-1792619674334-gettyimages-2296213884-META_CONNECT.jpeg?v=1792619769&w=1920&h=1080",
+          "published": "2026-10-30T22:42:26+00:00"
+        },
+        {
+          "headline": "Ollie, a privacy-focused AI assistant, is shutting down",
+          "summary": "Privacy-focused AI assistant startup Ollie has announced it will officially shut down on November 6. Co-founder and CEO Bill Lennon confirmed the decision, marking an end to the text-based assistant amid an increasingly crowded market for AI tools.",
+          "country": "United States",
+          "importance": 3,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+          "published": "2026-10-30T22:56:13+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "AU SFB Probes Potential Data Leak, Vijay Sales\u2019 Admin Access Allegedly Listed For $25K",
+          "summary": "AU Small Finance Bank is investigating a potential data leak involving information stored on a Salesforce-hosted software platform. Separately, administrative access to Indian electronics retail chain Vijay Sales was allegedly listed for sale for $25,000.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/au-sfb-probes-potential-data-leak-vijay-sales-admin-access-allegedly-listed-for-25k/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/cybersecurity_ftr.jpg",
+          "published": "2026-10-31T06:05:23+00:00"
+        },
+        {
+          "headline": "Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion",
+          "summary": "Indian smart home appliance startup upliance.ai is reportedly in advanced talks to raise $3 million to $4 million in a new funding round. The startup plans to utilize the capital to expand its research and development efforts and drive international expansion.",
+          "country": "India",
+          "importance": 3,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/exclusive-upliance-ai-in-talks-to-raise-up-to-4-mn-for-rd-global-expansion-2/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Upliance-ftr.jpg",
+          "published": "2026-10-31T02:30:48+00:00"
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "stories": [
+        {
+          "headline": "Apple Intelligence is finally coming to China with iOS 27.3",
+          "summary": "Apple has announced it will launch Apple Intelligence in China alongside the release of iOS 27.3. A beta version featuring the AI capability will be available on November 4th, with a full release scheduled for December.",
+          "country": "China",
+          "importance": 7,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+          "published": "2026-10-30T22:32:53+00:00"
+        }
+      ]
+    },
+    {
+      "name": "North Korea",
+      "stories": [
+        {
+          "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "summary": "Blockchain analytics firms TRM Labs and Chainalysis have identified North Korea's state-backed Lazarus Group as the primary suspect behind a $6.3 billion hack of Binance, the world's largest cryptocurrency exchange. Cybersecurity experts state that the North Korean government increasingly relies on state-sponsored cybercrime and crypto heists to fund its operations.",
+          "country": "North Korea",
+          "importance": 8,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
+          "published": "2026-10-31T02:12:19+00:00"
+        }
+      ]
+    }
+  ]
+}
