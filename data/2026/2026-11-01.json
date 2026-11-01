@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-01",
+  "run_timestamp": "2026-11-01T08:37:46.270192+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 10,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+          "summary": "OpenAI has reduced its fundraising target for its latest funding round from $30 billion to up to $20 billion, according to sources familiar with the deal. The ChatGPT developer is reportedly seeking a post-money valuation of $1.25 trillion, with investors from the United Arab Emirates and Coatue leading the round.",
+          "country": "United States",
+          "importance": 8,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108469835-1793120540409-Screenshot_2026-10-27_at_10008_PM.png?v=1793474850&w=1920&h=1080",
+          "published": "2026-10-31T19:56:23+00:00"
+        },
+        {
+          "headline": "These firms you've never heard of are feeding fears the AI bubble could burst",
+          "summary": "Growing debt levels among neocloud data center companies like CoreWeave and Nebius are raising concerns about the financial stability of the AI infrastructure ecosystem. Industry analysts from Gartner and Forrester predict that many of these specialized hosting providers could face acquisitions or operational failures as finances tighten. Despite these market warnings, U.S. Treasury Secretary Scott Bessent downplayed the risks, describing neocloud firms as a small component of the broader economy.",
+          "country": "United States",
+          "importance": 7,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+          "published": "2026-11-01T01:37:26+00:00"
+        },
+        {
+          "headline": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+          "summary": "Apple CEO John Ternus defended the company's current position in the artificial intelligence market, stating that Apple will not ship AI features just for the sake of having them. He emphasized that Apple intends to leverage AI thoughtfully across its upcoming products rather than rushing unrefined tools to market.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+          "published": "2026-10-31T21:41:00+00:00"
+        },
+        {
+          "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+          "summary": "A U.S. federal judge denied xAI's motion to dismiss a lawsuit filed by the NAACP and the Southern Environmental Law Center concerning its Colossus data center near Memphis. The lawsuit accuses the AI company of violating the Clean Air Act by installing and operating at least 35 gas turbines without obtaining the necessary air permits.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+          "published": "2026-10-31T21:17:03+00:00"
+        },
+        {
+          "headline": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+          "summary": "A U.S. federal judge rejected a motion by SpaceX's AI division to dismiss a lawsuit alleging violations of the Clean Air Act near Memphis. The suit, filed on behalf of the NAACP, claims the company installed and operated 27 gas-fired combustion turbines without required air permits to power its Colossus AI data center complex. The decision allows the environmental legal challenge against the company's data center infrastructure to proceed in federal court.",
+          "country": "United States",
+          "importance": 4,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&w=1920&h=1080",
+          "published": "2026-10-31T20:12:37+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+          "summary": "Binance announced it has restored backing for 90% of the $6.3 billion in cryptocurrency stolen during a record hot wallet hack. The exchange stated it will absorb all financial losses using its SAFU fund, futures insurance fund, and corporate treasury without impacting user balances. Additionally, the U.S. FBI attributed the cyberattack to North Korean state-sponsored hackers. Binance plans to resume withdrawals once final security checks are complete.",
+          "country": "Global",
+          "importance": 9,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/106907103-1625597281111-gettyimages-1233700528-porzycki-binancep210628_npNRz.jpeg?v=1680785353&w=1920&h=1080",
+          "published": "2026-10-31T22:27:56+00:00"
+        },
+        {
+          "headline": "Binance CEO says 90 percent of stolen assets have been \u2018replenished\u2019",
+          "summary": "Binance's CEO announced that 90 percent of the $6.3 billion in stolen customer assets from a recent record-breaking crypto heist has been replaced. The company is covering the losses directly and plans to replenish the remaining 10 percent.",
+          "country": "Global",
+          "importance": 7,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published": "2026-10-31T18:40:32+00:00"
+        },
+        {
+          "headline": "Companies promised AI gains\u2014 here's how the payoff showed up in earnings",
+          "summary": "Companies are beginning to report tangible financial returns from artificial intelligence investments as Q3 earnings show measurable productivity gains and cost reductions. Hyperscalers including Microsoft, Amazon, Google, and Meta are expected to spend $700 billion combined on AI infrastructure, while enterprise adopters like Santander have reported generating over 190 million euros in value from AI initiatives.",
+          "country": "Global",
+          "importance": 6,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108253381-1768531442124-gettyimages-2218925569-_dsc8484.jpeg?v=1793360711&w=1920&h=1080",
+          "published": "2026-11-01T06:00:01+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "ED Arrests Armstrong Exchange Founder Over Alleged Online Betting Scam",
+          "summary": "India's Enforcement Directorate has arrested Sagar Dash, the founder of Armstrong Exchange, in connection with an alleged online gaming and betting scam. The investigation focuses on illegal financial transactions and operations conducted through the platform.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/ed-arrests-armstrong-exchange-founder-over-alleged-online-betting-scam/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Bitcoin-Whatsapp-scamai_1360x1020.jpg",
+          "published": "2026-10-31T20:22:27+00:00"
+        },
+        {
+          "headline": "Here\u2019s Why Doctors Are Betting On Docterz\u2019s Hospital Management Software",
+          "summary": "Docterz provides hospital management software designed to assist clinics and doctors with administrative tasks, scheduling, and digital patient record management. The platform aims to simplify clinic operations and improve workflow efficiency for healthcare practitioners in India.",
+          "country": "India",
+          "importance": 3,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/heres-why-doctors-are-betting-on-docterzs-hospital-management-software/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/stakcbox-funding-featured-1-1-1-2.jpg",
+          "published": "2026-10-31T21:16:47+00:00"
+        }
+      ]
+    }
+  ]
+}
