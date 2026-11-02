@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-02",
+  "run_timestamp": "2026-11-02T08:47:35.570722+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 9,
+  "countries": [
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Can Indrajaal Build A \u20b9100 Cr Business Protecting India\u2019s Skies?",
+          "summary": "Indian defense tech company Indrajaal is expanding its autonomous counter-drone platform designed to protect critical infrastructure and airspace from drone swarm attacks. The system integrates artificial intelligence and automated defense capabilities to detect, track, and neutralize rogue unmanned aerial vehicles in real time.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/startups/can-indrajaal-build-a-%e2%82%b9100-cr-business-protecting-indias-skies/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ftr-30.jpg",
+          "published": "2026-11-02T07:15:41+00:00"
+        },
+        {
+          "headline": "MobiKwik Reports \u20b911.8 Cr Profit In Q2, Revenue Rises 9% YoY",
+          "summary": "Indian fintech company MobiKwik reported a consolidated net profit of \u207911.8 crore for the second quarter, representing a 9% year-over-year increase in revenue. The positive financial performance reflects growing profitability across its digital payments and financial services operations.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/mobikwik-reports-%e2%82%b911-8-cr-profit-in-q2-revenue-rises-9-yoy/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Mobikwik-cto-ftr.jpg",
+          "published": "2026-11-02T08:02:20+00:00"
+        },
+        {
+          "headline": "Capillary Q2: Profit Jumps To \u20b921.9 Cr, Revenue Surges 51.3% YoY",
+          "summary": "Enterprise SaaS company Capillary Technologies reported a consolidated net profit of \u20b921.9 crore for the September quarter of FY27, backed by a 51.3% year-over-year surge in revenue. The financial results highlight continued scaling and profitability within India's enterprise software sector.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/capillary-q2-profit-jumps-to-%e2%82%b921-9-cr-revenue-surges-51-3-yoy/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ftr-11-1-2.png",
+          "published": "2026-11-02T07:50:31+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+          "summary": "Binance customers withdrew a net $3.64 billion in assets after the platform reopened following what is reported as the largest cryptocurrency hack in history, impacting $6.3 billion in digital assets. The US Federal Bureau of Investigation and other authorities have linked the cyberattack to a North Korean group. Binance stated it has already covered approximately 95% of the stolen assets and reserved funds to fully cover all losses from the breach.",
+          "country": "Global",
+          "importance": 8,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+          "published": "2026-11-02T07:42:33+00:00"
+        },
+        {
+          "headline": "AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen",
+          "summary": "Evin McMullen, CEO of AmanTrue, emphasized the need for authoritative backing and verifiable identity frameworks for AI agents to operate securely. She argued that autonomous AI agents require an underlying authority\u2014similar to a government issuing a passport\u2014that can vouch for their legitimacy and revoke credentials when misuse occurs.",
+          "country": "Global",
+          "importance": 3,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/11/AmanTrue_feature.jpeg",
+          "published": "2026-11-02T05:18:24+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Bulgaria",
+      "stories": [
+        {
+          "headline": "A satellite unicorn has put Bulgarian tech on the map",
+          "summary": "Sofia-based satellite manufacturer EnduroSat has emerged as a key success story for Bulgaria's expanding technology ecosystem. The company builds nanosatellites and space infrastructure services, helping position the country's tech scene on the international map.",
+          "country": "Bulgaria",
+          "importance": 5,
+          "source": "Sifted (Europe)",
+          "source_url": "https://sifted.eu/articles/bulgaria-startup-ecosystem-2026/",
+          "image_url": "https://images.sifted.eu/cdn-cgi/image/width=1920,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/30153612/Endurosat-New-Space-Center-1920x980-1.jpg",
+          "published": "2026-11-02T05:00:53+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "stories": [
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 OPay\u2019s IPO hits a wall",
+          "summary": "African fintech giant OPay has paused or withdrawn its plans for an initial public offering in the United States. Other regional tech developments featured in the report include Egypt rolling out its first locally assembled electric vehicles and Airtel Africa acquiring additional 5G spectrum.",
+          "country": "Nigeria",
+          "importance": 5,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/11/02/techcabal-daily-opays-ipo-hits-a-wall/",
+          "image_url": null,
+          "published": "2026-11-02T05:46:51+00:00"
+        }
+      ]
+    },
+    {
+      "name": "South Korea",
+      "stories": [
+        {
+          "headline": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+          "summary": "South Korea has unveiled its 2027 budget plan, allocating 21.3 trillion won ($15.8 billion) toward semiconductors, physical AI, and AI data centers\u2014nearly double its 2026 allocation. An additional 4.7 trillion won will be dedicated to developing a high-performance sovereign AI model. The initiative also funds talent development, targeting the training of 2,000 semiconductor design specialists and expanding industry-linked university programs with firms like Samsung Electronics and SK Hynix.",
+          "country": "South Korea",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108366594-1790123780346-gettyimages-2296079881-AA_22092026_2963049.jpeg?v=1790123812&w=1920&h=1080",
+          "published": "2026-11-02T06:02:03+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Chap who coded Google\u2019s Pac-Man clone reveals how the game freaked out Firefox",
+          "summary": "Marcin Wichary, a former Google designer, shared behind-the-scenes technical details regarding the creation of the interactive 2010 Pac-Man Google Doodle. Built using early HTML and CSS to recreate the full arcade game experience on Google's homepage, the implementation triggered unexpected issues for Firefox users at the time.",
+          "country": "United States",
+          "importance": 3,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/personal-tech/2026/11/02/chap-who-coded-googles-pac-man-clone-reveals-how-the-game-freaked-out-firefox/5306879",
+          "image_url": "https://image.theregister.com/?imageId=5306886&width=800",
+          "published": "2026-11-02T06:05:39+00:00"
+        }
+      ]
+    }
+  ]
+}
