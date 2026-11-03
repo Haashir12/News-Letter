@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-03",
+  "run_timestamp": "2026-11-03T08:57:00.129636+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 9,
+  "countries": [
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Ecosystem Roundup: North Korea\u2019s US$6.4B Binance heist took 54 minutes and isn\u2019t over",
+          "summary": "North Korea-linked hacker group TraderTraitor drained approximately US$6.4 billion from cryptocurrency exchange Binance in a 54-minute breach. According to blockchain analysis by Chainalysis, the attackers compromised a Binance engineer's laptop to acquire valid signed authorizations, allowing them to access hot wallets without breaking cryptographic security.",
+          "country": "Global",
+          "importance": 8,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/ecosystem-roundup-north-koreas-us6-4b-binance-heist-took-54-minutes-and-isnt-over-20261103/",
+          "image_url": "https://e27.co/wp-content/uploads/2025/09/Kaspersky_cyberattack_report.png",
+          "published": "2026-11-03T07:38:45+00:00"
+        },
+        {
+          "headline": "Open models can do 90 percent of agentic work at a twentieth of the cost of a frontier LLM: Gartner",
+          "summary": "According to a report by Gartner, open-weight AI models can handle up to 90 percent of routine steps in enterprise agentic workflows at a fraction of the cost of frontier LLMs. The analysts note that tasks such as data classification, tool calling, and validation do not require expensive closed models, which can cost up to twenty times more than open alternatives for these routine steps.",
+          "country": "Global",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+          "image_url": "https://image.theregister.com/?imageId=5307139&width=800",
+          "published": "2026-11-03T06:19:50+00:00"
+        },
+        {
+          "headline": "Circle taps ex-Yellow Card executive Gillian Darko to lead Africa expansion",
+          "summary": "Circle, the issuer of the USDC stablecoin, has appointed former Yellow Card executive Gillian Darko as its Vice President and Head of Africa. In this role, Darko will oversee Circle's regional expansion strategy to drive stablecoin adoption for cross-border payments, remittances, and business transactions.",
+          "country": "Global",
+          "importance": 4,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/11/03/circle-appoints-gillian-darko/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/Screenshot_20261103_091338_LinkedIn.webp",
+          "published": "2026-11-03T08:29:59+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Forget retraining - AI can now tweak another AI's weights",
+          "summary": "Researchers at MIT CSAIL have demonstrated a technique called Weight-Space Programming, where frontier AI models can directly read, write, and alter the neural network weights of another model. Instead of relying on traditional retraining, the editing model treats raw weights like readable code to diagnose and patch failures directly.",
+          "country": "United States",
+          "importance": 7,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
+          "image_url": "https://image.theregister.com/?imageId=5307111&width=800",
+          "published": "2026-11-03T08:15:00+00:00"
+        },
+        {
+          "headline": "Apple unsure when more foldable iPhones will be available after selling out",
+          "summary": "Apple's new $1,999 foldable smartphone, the iPhone Duo, rapidly sold out following its release, creating supply shortages. Company executives stated it is difficult to predict when supply will balance demand, even as Apple addresses reports of screen cracking issues along the fold on a small number of devices.",
+          "country": "United States",
+          "importance": 7,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
+          "published": "2026-11-03T07:03:03+00:00"
+        },
+        {
+          "headline": "Apple Watch\u2019s AI features for rewinding and recapping conversations begin beta testing",
+          "summary": "Apple has begun beta testing its new AI-powered Audio Intelligence features for the Apple Watch, accessible through the iOS 27.3 developer update. The opt-in feature set includes conversation recapping, automated note-taking, song identification, and sound recognition to assist hard-of-hearing users with detecting alarms or sirens.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+          "published": "2026-11-03T07:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Apple Logs Record India Revenue, Mac And Services Hit New Highs",
+          "summary": "Apple achieved an all-time revenue record in India during the September quarter, driven by strong growth in its iPhone, Mac, and Services segments. The performance underlines the company's expanding market share and strategic focus on India as a key growth market and manufacturing hub.",
+          "country": "India",
+          "importance": 6,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/apple-logs-record-india-revenue-mac-and-services-hit-new/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/apple-hike-featured.png",
+          "published": "2026-11-03T06:54:59+00:00"
+        }
+      ]
+    },
+    {
+      "name": "North Korea",
+      "stories": [
+        {
+          "headline": "North Korea denies being behind record $6.3bn Binance hack",
+          "summary": "North Korea has denied claims that it was responsible for a record $6.3bn hack on cryptocurrency exchange Binance, dismissing the accusations as absurd rhetoric. US government agencies, including the FBI, attributed the attack to the state-backed hacking group TraderTraitor as part of ongoing efforts to fund North Korea's sanctioned economy.",
+          "country": "North Korea",
+          "importance": 7,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+          "published": "2026-11-03T08:33:20+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Brookfield targets $27 billion AI data center at power station. Energy firm Drax surges 8%",
+          "summary": "Asset manager Brookfield and its neocloud platform Radiant have partnered with UK energy firm Drax Group to build a massive AI data center at the Drax Power Station in North Yorkshire, England. The project initially targets 100 megawatts of capacity operational by early 2028, with plans to scale beyond 1 gigawatt and an estimated total investment of up to \u00a320 billion ($26.8 billion).",
+          "country": "United Kingdom",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/102896571-AP_421365049484.jpg?v=1529469155&w=1920&h=1080",
+          "published": "2026-11-03T08:28:31+00:00"
+        }
+      ]
+    }
+  ]
+}
