@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-11-04 — Global Signal</title>
+<meta name="description" content="A weekly dispatch of the world's most notable tech developments, organized by country.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..700&family=Archivo:wght@400;500;600;700&family=Space+Mono&display=swap" rel="stylesheet">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<div class="masthead">
+  <div class="ticker">
+    <div class="ticker__track">
+      <span>LAST CHECK: November 4, 2026 · 3 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+      <span>LAST CHECK: November 4, 2026 · 3 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+      <span>LAST CHECK: November 4, 2026 · 3 STORIES · 2 COUNTRIES · NEXT CHECK: TOMORROW</span>
+    </div>
+  </div>
+  <div class="masthead__inner">
+    <p class="masthead__mark">
+      <a href="../index.html" class="masthead__lockup">
+        <img src="../assets/logo-mark.svg" alt="" class="masthead__logo" width="40" height="40">
+        Global Signal
+      </a>
+    </p>
+    <p class="masthead__tagline">Tech developments from around the world, by dateline — checked automatically, every day.</p>
+  </div>
+</div>
+
+<nav class="country-nav" aria-label="Filter by country">
+  <a href="#top" class="country-nav__all is-active" data-filter="all">All</a>
+  
+  <a href="#nigeria" data-filter="nigeria">Nigeria<span class="count">2</span></a>
+  
+  <a href="#united-states" data-filter="united-states">United States<span class="count">1</span></a>
+  
+</nav>
+
+
+<main>
+  <p class="run-note"><strong>Checked November 4, 2026</strong> — 3 stories across 2 countries.</p>
+
+  
+  <section class="dispatch" id="nigeria">
+    <div class="dateline">
+      <span class="lamp "></span>
+      <span class="dateline__place">Nigeria</span>
+      <span class="dateline__date">November 4, 2026</span>
+    </div>
+
+    
+      
+      <article class="story">
+        <h2 class="story__headline">Every fibre cut sets Nigeria’s digital economy back, but who pays?</h2>
+        
+        <p class="story__body">Frequent fiber optic cable cuts by contractors and vandals in Nigeria are causing major disruptions to the country's digital backbone and telecom infrastructure. The recurring damage highlights significant enforcement gaps in statutory protections for critical infrastructure, raising unresolved questions regarding financial accountability and repair costs.</p>
+        <p class="story__source">November 4, 2026 · Source: <a href="https://techcabal.com/2026/11/04/fibre-cuts-and-nigerias-digital-economy/" rel="noopener" target="_blank">TechCabal (Africa)</a></p>
+      </article>
+      
+      <article class="story">
+        <h2 class="story__headline">Airtel Nigeria puts its network map in subscribers’ hands</h2>
+        <img class="story__media" src="https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/08/PCQIX5O2MBJK5DSCC43PCAUVIQ-3.jpg" alt="" loading="lazy">
+        <p class="story__body">Airtel Nigeria has introduced a new feature called Airtel Open Network within the My Airtel Africa app. The feature allows subscribers to view active, upgrading, and planned 4G and 5G network sites within a 500-metre radius, while also enabling them to report network issues directly to the telecom operator.</p>
+        <p class="story__source">November 4, 2026 · Source: <a href="https://techcabal.com/2026/11/04/airtel-nigerias-app-to-show-nearby-sites/" rel="noopener" target="_blank">TechCabal (Africa)</a></p>
+      </article>
+      
+    
+  </section>
+  
+  <section class="dispatch" id="united-states">
+    <div class="dateline">
+      <span class="lamp "></span>
+      <span class="dateline__place">United States</span>
+      <span class="dateline__date">November 4, 2026</span>
+    </div>
+
+    
+      
+      <article class="story">
+        <h2 class="story__headline">Freshworks Swings To $18 Mn Profit In Q3, Revenue Rises 14% YoY To $245 Mn</h2>
+        <img class="story__media" src="https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Freshworks-ftr.jpg" alt="" loading="lazy">
+        <p class="story__body">Nasdaq-listed SaaS firm Freshworks reported a consolidated net profit of $18.3 million for the third quarter, swinging from a loss in the prior-year period. The company's revenue grew 14% year-over-year to $245 million, driven by continued adoption of its IT service management and customer service software.</p>
+        <p class="story__source">November 4, 2026 · Source: <a href="https://inc42.com/buzz/freshworks-swings-to-18-mn-profit-in-q3-revenue-rises-14-yoy-to-245-mn/" rel="noopener" target="_blank">Inc42 (India)</a></p>
+      </article>
+      
+    
+  </section>
+  
+</main>
+
+<footer class="site-footer">
+  <p>Global Signal is generated automatically by a daily script that reads public tech-news feeds and summarizes them. The homepage shows a rolling 30 days of coverage. It can make mistakes — check the linked source before relying on anything here. · <a href="../archive.html">Archive</a> · <a href="../subscribe.html">Subscribe</a> · <a href="../index.html">Latest</a></p>
+</footer>
+<script>
+(function () {
+  var pills = document.querySelectorAll('.country-nav a[data-filter]');
+  var sections = document.querySelectorAll('.dispatch');
+  if (!pills.length || !sections.length) return;
+
+  pills.forEach(function (pill) {
+    pill.addEventListener('click', function (e) {
+      e.preventDefault();
+      var target = pill.getAttribute('data-filter');
+
+      pills.forEach(function (p) { p.classList.remove('is-active'); });
+      pill.classList.add('is-active');
+
+      sections.forEach(function (sec) {
+        sec.style.display = (target === 'all' || sec.id === target) ? '' : 'none';
+      });
+
+      var top = document.getElementById('top');
+      if (top) top.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+})();
+</script>
+</body>
+</html>
