@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-07",
+  "run_timestamp": "2026-11-07T08:14:15.703857+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 7,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "summary": "OpenAI has reportedly raised $11 billion in a new funding round, pushing its valuation to $1.25 trillion. The capital injection highlights the immense financial resources being poured into top-tier artificial intelligence firms as compute and development costs scale.",
+          "country": "United States",
+          "importance": 8,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published": "2026-11-06T23:46:18+00:00"
+        },
+        {
+          "headline": "China reportedly recruited AI exec to spy on Jensen Huang",
+          "summary": "China's Ministry of State Security reportedly recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to a report by The New York Times. The espionage effort aimed to gather intelligence on advanced American AI semiconductor technology and potentially influence Nvidia to push for exporting its top-tier processors to China.",
+          "country": "United States",
+          "importance": 7,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published": "2026-11-06T23:00:44+00:00"
+        },
+        {
+          "headline": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+          "summary": "SpaceX has announced plans to establish Starlink Mobile as a major mobile carrier to compete with US telecom giants like AT&T, Verizon, and T-Mobile. The company is building out a terrestrial 5G network to complement its expanding constellation of direct-to-cell satellites.",
+          "country": "United States",
+          "importance": 7,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+          "published": "2026-11-06T22:45:43+00:00"
+        },
+        {
+          "headline": "The Cybertruck\u2019s Death Is Actually Great News for EVs",
+          "summary": "Tesla plans to end production of the Cybertruck at its Texas Gigafactory next year following subpar sales and multiple recalls. The decision reflects a broader industry shift away from oversized electric trucks, following Ford's cancellation of the F-150 Lightning. Automakers are increasingly pivoting toward smaller electric vehicles and extended-range hybrids, easing demand on the battery supply chain.",
+          "country": "United States",
+          "importance": 7,
+          "source": "Wired",
+          "source_url": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
+          "image_url": "https://media.wired.com/photos/6aee2f4e65a8d4362bf27531/191:100/w_1280,c_limit/GettyImages-2150577028.jpg",
+          "published": "2026-11-06T22:31:15+00:00"
+        },
+        {
+          "headline": "Crusoe sells troubled Wyoming data center project to Google",
+          "summary": "Data center developer Crusoe has sold an unfinished data center project in southeastern Wyoming directly to Google. Google took over the development after reportedly raising concerns over construction timelines and rising costs under Crusoe's management.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+          "published": "2026-11-07T01:40:28+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "OYO Parent PRISM\u2019s Profit Jumps 17% YoY To \u20b9353 Cr In Q1",
+          "summary": "PRISM, the parent entity of tech-driven hospitality platform OYO, reported a 17% year-over-year increase in consolidated profit after tax to \u20b9353 crore for the first quarter. The financial growth comes as the company continues to prepare for its initial public offering.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/oyo-parent-prisms-profit-jumps-17-yoy-to-%e2%82%b9353-cr-in-q1/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ftr-16.jpg",
+          "published": "2026-11-07T01:30:12+00:00"
+        }
+      ]
+    }
+  ]
+}
