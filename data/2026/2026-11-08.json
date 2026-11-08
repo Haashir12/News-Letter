@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-08",
+  "run_timestamp": "2026-11-08T08:29:39.974681+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 5,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "After the midterms, things are looking rocky for Elon Musk and data centers",
+          "summary": "Following recent U.S. midterm elections, local ballot measures and incoming politicians are increasingly moving to restrict data center developments. On TechCrunch's Equity podcast, journalists discussed how political shifts and voter rejections could impact tech infrastructure buildouts, including projects associated with Elon Musk.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+          "published": "2026-11-07T22:07:22+00:00"
+        },
+        {
+          "headline": "Amazon\u2019s new basic Kindle proves you don\u2019t need all the bells and whistles",
+          "summary": "Amazon has refreshed its Kindle lineup with a redesigned basic model featuring a lighter build and an improved display. Despite design updates across the lineup, prices for the new models increased by $40 to $50 due in part to global memory-chip shortages.",
+          "country": "United States",
+          "importance": 5,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3861.jpeg?resize=1200,900",
+          "published": "2026-11-07T17:18:00+00:00"
+        },
+        {
+          "headline": "Parents want safer phones for kids. These companies are answering the call.",
+          "summary": "A growing number of tech companies are developing specialized phones for children as parents seek alternatives to unrestricted smartphones. These products range from feature-limited mobile devices to minimalist home phones aimed at enhancing safety and limiting screen time.",
+          "country": "United States",
+          "importance": 4,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
+          "published": "2026-11-07T19:00:00+00:00"
+        },
+        {
+          "headline": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+          "summary": "The Verge evaluated the Gem, a wearable device designed to track real-time UV exposure and monitor sunlight's impact on health. The hands-on review highlights how the sensor provides actionable data by detecting unexpected UV levels even while sitting under shade.",
+          "country": "United States",
+          "importance": 3,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published": "2026-11-07T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Binance CFO is leaving to \u2018pursue a new venture\u2019 after $6.3 billion hack",
+          "summary": "Binance Chief Financial Officer Kaiser Ng is stepping down from his position to pursue a new venture after more than five years at the cryptocurrency exchange. The executive departure comes shortly after a major security incident in which hackers stole $6.3 billion worth of cryptocurrency from Binance users, triggering billions in net withdrawals after trading resumed.",
+          "country": "Global",
+          "importance": 8,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+          "published": "2026-11-07T17:24:07+00:00"
+        }
+      ]
+    }
+  ]
+}
