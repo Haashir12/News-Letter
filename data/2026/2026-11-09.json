@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-09",
+  "run_timestamp": "2026-11-09T08:59:55.566328+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 6,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+          "summary": "Nvidia's board has launched an independent investigation into CEO Jensen Huang following revelations of an affair with an executive suspected by U.S. officials of being a Chinese spy. Yale management expert Jeffrey Sonnenfeld estimates there is roughly a 50-50 chance Huang remains CEO. The investigation poses potential leadership disruption for Nvidia at a critical moment for the global AI and semiconductor industries.",
+          "country": "United States",
+          "importance": 9,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+          "published": "2026-11-09T05:26:29+00:00"
+        },
+        {
+          "headline": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+          "summary": "Nvidia CEO Jensen Huang is facing national security scrutiny following reports of an affair with a suspected Chinese spy. The scandal raises concerns over potential intelligence risks surrounding the company's leading artificial intelligence hardware and technology strategy.",
+          "country": "United States",
+          "importance": 8,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+          "published": "2026-11-09T06:01:52+00:00"
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "stories": [
+        {
+          "headline": "Chinese AI firms want Silicon Valley\u2019s top minds. Poaching them won\u2019t be easy",
+          "summary": "Chinese AI startups, such as MiniMax and Moonshot AI, are establishing outposts in the U.S. to recruit talent from leading American labs like OpenAI and Anthropic. However, these companies face steep hurdles due to compensation disparities, lower brand prestige, and heightened geopolitical and national security tensions.",
+          "country": "China",
+          "importance": 6,
+          "source": "Rest of World",
+          "source_url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "image_url": "https://fastly.restofworld.org/uploads/2026/10/Chinese-Silicon-Valley.jpg?width=380&dpr=2&crop=16:9",
+          "published": "2026-11-09T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+          "summary": "Linux creator Linus Torvalds indicated that the high volume of AI-generated bug patches may be subsiding as fixes begin to arrive faster than new bug reports. The flood of patches was triggered by AI vulnerability-discovery models such as Anthropic's Mythos, which previously led to record numbers of security fixes across major software platforms.",
+          "country": "Global",
+          "importance": 7,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+          "image_url": "https://image.theregister.com/?imageId=5241522&width=800",
+          "published": "2026-11-09T04:53:08+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "stories": [
+        {
+          "headline": "Nigeria\u2019s telecom operators sue federal lawmakers over service-quality probe",
+          "summary": "Major telecommunications operators in Nigeria, including MTN Nigeria, Airtel, and Globacom, have filed a lawsuit against the House of Representatives. The suit challenges the constitutional authority of lawmakers to investigate network service quality and compel chief executives to appear before legislative probes.",
+          "country": "Nigeria",
+          "importance": 4,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/11/09/nigerian-telecom-operators-sue-reps/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/Copy-of-Tap-to-view-Story-Template-2026-11-09T083830.360.webp",
+          "published": "2026-11-09T07:53:51+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+          "summary": "A coalition of local environmentalists and community groups in the UK delivered a petition signed by nearly 55,000 people to Google's London headquarters, protesting a proposed data center in Thurrock. Opponents argue the facility would destroy habitats for endangered species and increase local pollution. The protest highlights growing local pushback across Europe against the rapid expansion of data center infrastructure driven by AI compute demands.",
+          "country": "United Kingdom",
+          "importance": 4,
+          "source": "Wired",
+          "source_url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+          "image_url": "https://media.wired.com/photos/6aecab4af3a6c68d60864f57/191:100/w_1280,c_limit/Bugs%20and%20bikes%20revise.jpg",
+          "published": "2026-11-09T08:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}
