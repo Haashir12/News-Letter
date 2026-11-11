@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-11",
+  "run_timestamp": "2026-11-11T08:46:51.672325+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 4,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Nvidia\u2019s crisis has corporate governance experts reaching for the popcorn",
+          "summary": "Nvidia's board of directors has hired law firm Wachtell, Lipton, Rosen & Katz to conduct an internal investigation involving CEO Jensen Huang. The probe follows reports that Huang admitted to an extramarital affair with an individual suspected by U.S. intelligence agencies of spying for China. The governance crisis contributed to a nearly 9.5% drop in Nvidia's stock over two trading days.",
+          "country": "United States",
+          "importance": 8,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800",
+          "published": "2026-11-11T07:30:51+00:00"
+        },
+        {
+          "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+          "summary": "Nvidia has launched an independent investigation following reports that CEO Jensen Huang was involved in a relationship with a businesswoman suspected by US intelligence of spying for China. The company stated it does not believe US national security has been compromised and that Huang is committed to continuing his role as CEO.",
+          "country": "United States",
+          "importance": 7,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+          "published": "2026-11-11T07:44:24+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "headline": "Airwallex crypto sceptic Jack Zhang\u2019s new blockchain side hustle just raised a $67 million Series A",
+          "summary": "Alta, a fintech startup co-founded by Airwallex CEO Jack Zhang, has raised a US$47.5 million Series A funding round led by Index Ventures, with participation from GV, Blackbird, and Square Peg. The Melbourne and San Francisco-based company develops a blockchain platform to help banks and payment providers settle transactions 24/7. The funding will be used to recruit engineering and compliance specialists, expand blockchain development, and onboard financial institutions.",
+          "country": "Australia",
+          "importance": 5,
+          "source": "Startup Daily (Australia)",
+          "source_url": "https://www.startupdaily.net/topic/funding/airwallex-crypto-sceptic-jack-zhangs-new-blockchain-side-hustle-just-raised-a-67-million-series-a/",
+          "image_url": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/11/Jack-Zhang-airwallex.jpg?quality=70&w=840",
+          "published": "2026-11-11T06:34:42+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "Copper is choking AI. Staera secures US$4.6M to swap it for light",
+          "summary": "Singapore-based deeptech startup Staera Semiconductor has raised US$4.6 million in seed funding to develop optical interconnect technology for AI chips. The startup aims to replace traditional copper wiring in semiconductor architectures with light-based data transmission to eliminate bandwidth bottlenecks in AI workloads.",
+          "country": "Singapore",
+          "importance": 4,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/copper-is-choking-ai-staera-secures-us4-6m-to-swap-it-for-light-20261111/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/11/Staera_semicon_news.jpeg",
+          "published": "2026-11-11T07:40:52+00:00"
+        }
+      ]
+    }
+  ]
+}
