@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-12",
+  "run_timestamp": "2026-11-12T09:10:45.071429+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 4,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Nvidia board meeting to decide CEO Jensen Huang\u2019s fate stretches into evening",
+          "summary": "Nvidia's board of directors met to decide whether to oust CEO Jensen Huang following reports of two extramarital affairs, including one with an alleged Chinese spy and another with a company vice president. Nvidia shares fell over 9% in post-market trading following news that the board was preparing to force out Huang.",
+          "country": "United States",
+          "importance": 9,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108157882-1794436807252-108157882-17496552882025-06-11t100608z_371100481_rc2a0fa4l6n4_rtrmadp_0_france-tech.jpeg?v=1794436853&w=1920&h=1080",
+          "published": "2026-11-12T06:11:16+00:00"
+        },
+        {
+          "headline": "Jensen Huang's affair with alleged spy revives push to tighten China chip curbs ahead of Trump-Xi summit",
+          "summary": "A scandal involving Nvidia CEO Jensen Huang and an alleged Chinese intelligence operative is fueling efforts by U.S. lawmakers to tighten restrictions on AI chip exports to China. Legislators are using the development to push for several chip-control measures in the upcoming National Defense Authorization Act, including the AI Overwatch Act and the Chip Security Act.",
+          "country": "United States",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108549555-1794440114147-gettyimages-2298602777-AFP_D2NK46B.jpeg?v=1794440206&w=1920&h=1080",
+          "published": "2026-11-12T07:50:34+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Your AI agent is only as good as your endpoint data",
+          "summary": "A partner content article highlights the critical role of real-time endpoint data in enabling AI agents to automate IT operations and cybersecurity patching. Using the recent PHP2Shell vulnerability as an example, the piece emphasizes that complete visibility across enterprise software environments is required for AI-driven tools to effectively identify and remediate security risks.",
+          "country": "Global",
+          "importance": 3,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469",
+          "image_url": "https://image.theregister.com/?imageId=5308471&width=800",
+          "published": "2026-11-12T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "CCPA Fines Ola \u20b910 Lakh For Advance Tipping Prompts",
+          "summary": "India's Central Consumer Protection Authority has fined ANI Technologies, the parent company of ride-hailing platform Ola, INR 10 Lakh. The penalty was imposed over the platform's use of advance tipping prompts, which consumer protection regulators determined to be unfair trade practices.",
+          "country": "India",
+          "importance": 3,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/ccpa-fines-ola-%e2%82%b910-lakh-for-advance-tipping-prompts/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/06/ola-cabs-featured.jpg",
+          "published": "2026-11-12T07:38:40+00:00"
+        }
+      ]
+    }
+  ]
+}
