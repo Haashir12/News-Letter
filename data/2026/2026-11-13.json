@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-13",
+  "run_timestamp": "2026-11-13T09:00:16.624249+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 13,
+  "countries": [
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?",
+          "summary": "Nvidia's leadership shake-up following Jensen Huang's departure is expected to cause minimal near-term disruption for major Asian semiconductor suppliers like TSMC and Samsung Electronics. However, analysts warn that the transition creates medium- to long-term uncertainty regarding Nvidia's AI chip product roadmap and supply chain relationships.",
+          "country": "Global",
+          "importance": 8,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/13/nvidia-without-jensen-huang-what-lies-ahead-for-asian-chipmakers-.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108550803-1794549230813-gettyimages-2279256142-SKOREA_NVIDIA.jpeg?v=1794549296&w=1920&h=1080",
+          "published": "2026-11-13T07:29:15+00:00"
+        },
+        {
+          "headline": "Microsoft's massive M365 outage stretches past 12 hours as its fixes keep failing",
+          "summary": "Microsoft experienced a widespread Microsoft 365 outage lasting over 12 hours, impacting Exchange Online and connected services such as Teams, email, cloud PCs, and Copilot. Initial recovery attempts failed after servers stopped passing automated health checks, leaving millions of users without access. Microsoft has not ruled out a cyberattack as the root cause while investigations continue.",
+          "country": "Global",
+          "importance": 8,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-12-hours-as-its-fixes-keep-failing/5309609",
+          "image_url": "https://image.theregister.com/?imageId=5309614&width=800",
+          "published": "2026-11-13T06:40:06+00:00"
+        },
+        {
+          "headline": "Widespread Microsoft outage takes down Outlook and other 365 services",
+          "summary": "A widespread Microsoft outage disrupted access to key enterprise services including Outlook, Teams, SharePoint, and Copilot for millions of users worldwide. The connectivity issues began on Thursday and persisted into Friday, impacting business operations across Asia and Europe. Microsoft stated it was applying patch fixes to restore stability and noted there was no indication of malicious activity.",
+          "country": "Global",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108550678-1794525756680-gettyimages-2304840767-l1090279_copy_dnqn1zyt.jpeg?v=1794525804&w=1920&h=1080",
+          "published": "2026-11-13T08:05:49+00:00"
+        },
+        {
+          "headline": "What we know about the global Microsoft outage",
+          "summary": "A major global outage has disrupted several Microsoft 365 services, including Outlook, Teams, and the Copilot AI assistant. Microsoft confirmed that the incident was not caused by a cybersecurity attack, though efforts to resolve the connectivity issues have experienced unexpected delays.",
+          "country": "Global",
+          "importance": 7,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e50b/live/4d5bcae0-df38-11f1-86fa-cbe84eade4f1.jpg",
+          "published": "2026-11-13T08:01:25+00:00"
+        },
+        {
+          "headline": "C++26 stumbles at finish line over Contracts dispute",
+          "summary": "The Draft International Standard for C++26 failed its ISO ballot due to a split over the Contracts feature, potentially delaying the release of the programming language. While proponents argue Contracts are critical for enhancing memory security through runtime checks, C++ creator Bjarne Stroustrup and other technical maintainers opposed its current form on the grounds that it was hastily implemented.",
+          "country": "Global",
+          "importance": 7,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526",
+          "image_url": "https://image.theregister.com/?imageId=5309559&width=800",
+          "published": "2026-11-13T07:31:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Jensen Huang resigns from Nvidia as alleged spy affair wipes US$300B",
+          "summary": "Jensen Huang has resigned as president and chief executive officer of Nvidia following his admission of an affair with a former executive at Singapore-registered Megaspeed International who is suspected by US officials of spying for China. The board accepted his resignation on Wednesday, triggering a market decline that wiped out approximately US$300 billion in Nvidia's valuation.",
+          "country": "United States",
+          "importance": 10,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/jensen-huang-resigns-from-nvidia-as-alleged-spy-affair-wipes-us300b-20261113/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/11/nvidia_ER.jpeg",
+          "published": "2026-11-13T06:00:42+00:00"
+        },
+        {
+          "headline": "Nvidia\u2019s turmoil is prompting a rotation across chip stocks. Here's what we know",
+          "summary": "Following Jensen Huang's resignation as CEO of Nvidia amid personal scandals, investors are rotating capital into rival semiconductor companies such as AMD, Broadcom, and TSMC. Market analysts indicate that Nvidia's leadership crisis could create an opening for competitors to narrow its technological lead and potentially shift manufacturing capacity across the AI chip market.",
+          "country": "United States",
+          "importance": 9,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108211784-17604498902025-10-14t121921z_1221478754_rc2lega250jk_rtrmadp_0_amd-oracle-ai.jpeg?v=1760449905&w=1920&h=1080",
+          "published": "2026-11-13T08:27:07+00:00"
+        },
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 \u2018Shelf-made IPO\u2019",
+          "summary": "NVIDIA co-founder Jensen Huang has resigned as chief executive officer following reports of extramarital affairs, including an alleged relationship with a businesswoman suspected by US officials of having ties to Chinese intelligence. Chief Financial Officer Colette Kress has stepped in as interim CEO while the company searches for a permanent replacement.",
+          "country": "United States",
+          "importance": 9,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/11/13/techcabal-daily-shelf-made-ipo/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/images-18.webp",
+          "published": "2026-11-13T06:04:59+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Karnataka HC Rejects Razorpay Cofounders\u2019 Plea To Quash SFIO Case",
+          "summary": "The Karnataka High Court has rejected a plea filed by Razorpay co-founders Harshil Mathur and Shashank Kumar seeking to quash a Serious Fraud Investigation Office (SFIO) case against them. The decision allows the government fraud agency to proceed with its investigation involving the prominent Indian fintech startup.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-featured.jpg",
+          "published": "2026-11-13T06:39:19+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "stories": [
+        {
+          "headline": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+          "summary": "Singapore authorities have barred businesswoman Alice Huang from re-entering the country as investigations continue into server exports containing Nvidia AI chips. The yearlong probe focuses on whether $390 million worth of computer servers exported to Malaysia were illegally rerouted to restricted destinations such as China in violation of trade controls.",
+          "country": "Singapore",
+          "importance": 6,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108547468-1794318020652-gettyimages-2303986898-AFP_D6ZC9G6.jpeg?v=1794530723&w=1920&h=1080",
+          "published": "2026-11-13T07:15:01+00:00"
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "stories": [
+        {
+          "headline": "Four friends want to change how South Africa\u2019s e-hailing drivers make money",
+          "summary": "Four South African entrepreneurs have launched Bro Cabs, an e-hailing platform designed to compete with Uber and Bolt by utilizing a subscription model instead of taking commissions. The app allows registered drivers to keep 100% of their earnings in exchange for a fixed fee, and has already surpassed 30,000 driver registrations.",
+          "country": "South Africa",
+          "importance": 3,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/11/13/four-friends-south-africa-e-hailing/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/Web-Designs-4.webp",
+          "published": "2026-11-13T08:47:31+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Ukraine",
+      "stories": [
+        {
+          "headline": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
+          "summary": "Ukrainian President Volodymyr Zelenskyy reported fresh systematic speed restrictions on SpaceX's Starshield satellite network along the front line and in occupied territories. The limitations automatically disconnect terminals traveling faster than 100 miles per hour, hindering Ukraine's ability to track and intercept Russian jet-powered drones. Ukrainian officials are currently working with U.S. partners to investigate the disruptions.",
+          "country": "Ukraine",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108438882-1792528110848-gettyimages-2300578306-UK_20261020_ukr006JPG.jpeg?v=1792528209&w=1920&h=1080",
+          "published": "2026-11-13T08:17:04+00:00"
+        }
+      ]
+    }
+  ]
+}
