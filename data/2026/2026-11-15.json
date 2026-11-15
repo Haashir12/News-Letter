@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-15",
+  "run_timestamp": "2026-11-15T08:45:23.622182+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 13,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "SpaceX returned its Starship rocket on Saturday\u2014but there's a catch",
+          "summary": "SpaceX successfully caught its Starship rocket using mechanical arms on the launch tower during a flight test at Starbase in Texas. This milestone represents a significant technical step toward developing a fully and rapidly reusable heavy-lift launch system.",
+          "country": "United States",
+          "importance": 9,
+          "source": "Ars Technica",
+          "source_url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+          "published": "2026-11-15T00:40:59+00:00"
+        },
+        {
+          "headline": "Where was Nvidia\u2019s security team?",
+          "summary": "Nvidia's security chief quietly departed the company in August following internal executive turmoil. CEO Jensen Huang has reportedly stepped down over relationships, including one involving an executive at a firm suspected of illicitly funneling semiconductors to China. Security experts highlight that corporate security teams are frequently unprepared to detect informal communications that lead to such compliance leaks.",
+          "country": "United States",
+          "importance": 9,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+          "published": "2026-11-15T00:08:07+00:00"
+        },
+        {
+          "headline": "SpaceX catches upper stage of Starship rocket in historic first",
+          "summary": "SpaceX successfully caught the upper stage of its Starship rocket using mechanical arms on its launch tower in Starbase, Texas during Test Flight 15. The achievement marks the first time the company has recovered the spacecraft portion of Starship from orbit. While the upper stage capture succeeded, SpaceX failed to recover the rocket's first-stage booster earlier in the test, diverting it to a splashdown in the Gulf of Mexico.",
+          "country": "United States",
+          "importance": 8,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108551593-17946919952026-11-14t212916z_181005512_rc2xnoanpi19_rtrmadp_0_space-spacex-starship.jpeg?v=1794692150&w=1920&h=1080",
+          "published": "2026-11-14T23:10:14+00:00"
+        },
+        {
+          "headline": "Watch SpaceX successfully execute the first \u2018chopstick\u2019 catch of Starship",
+          "summary": "SpaceX successfully caught the upper stage of its Starship vehicle using the Mechazilla launch and catch tower for the first time. While the company had previously caught Super Heavy boosters using the chopstick arms, this marks the first time the maneuver was completed with the Starship vehicle itself.",
+          "country": "United States",
+          "importance": 8,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0%2C13.419374014038%2C100%2C73.161251971924&w=1200",
+          "published": "2026-11-14T21:44:44+00:00"
+        },
+        {
+          "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "summary": "A petition calling on Nvidia's board to reinstate ousted CEO Jensen Huang has reportedly gathered over 115,000 signatures, including high-profile tech leaders such as Elon Musk, Tim Sweeney, and Garry Tan. The signers express concern over a lack of due process regarding Huang's removal and demand an independent investigation into the matter.",
+          "country": "United States",
+          "importance": 8,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+          "published": "2026-11-14T21:41:22+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Not Just About Temple: India\u2019s Wearable Impasse",
+          "summary": "Inc42 highlights the structural challenges facing India's wearable technology ecosystem, noting the absence of an established playbook for local hardware manufacturing. The report examines how direct-to-consumer brands face difficulties in scaling local production, navigating supply chain dependencies, and establishing sustainable manufacturing operations.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/features/not-just-about-temple-indias-wearable-impasse/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Outline-Design-wellness-ftr.jpg",
+          "published": "2026-11-15T05:30:21+00:00"
+        },
+        {
+          "headline": "EaseMyTrip Q2: Loss Narrows 98% YoY To \u20b957 Lakh, Revenue Up 34%",
+          "summary": "Online travel aggregator EaseMyTrip reported its Q2 financial results, narrowing its consolidated net loss by 98.4% year-over-year to \u20b956.5 Lakh. The company also registered a 34% increase in revenue from operations during the quarter.",
+          "country": "India",
+          "importance": 3,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ease-my-trip-financials-feature-image-01.jpg",
+          "published": "2026-11-15T07:45:37+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "stories": [
+        {
+          "headline": "Italy fines Meta \u20ac805m over accessing users' photos",
+          "summary": "Italy's Data Protection Authority has fined Meta \u20ac805 million for accessing Android users' photos and videos without explicit consent via a Facebook app feature. The regulator has ordered Meta to disable the feature by default within 60 days and obtain separate authorization, though Meta has stated it plans to appeal.",
+          "country": "Italy",
+          "importance": 7,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+          "published": "2026-11-14T18:28:06+00:00"
+        }
+      ]
+    }
+  ]
+}
