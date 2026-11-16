@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-16",
+  "run_timestamp": "2026-11-16T08:56:43.487243+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 8,
+  "countries": [
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Jio In Talks With ISRO, Skyroot For 1,600-Satellite Constellation: Report",
+          "summary": "Jio Platforms is reportedly in talks with the Indian Space Research Organisation (ISRO), Skyroot Aerospace, and other domestic launch providers to deploy a 1,600-satellite constellation. The project aims to expand satellite broadband connectivity and strengthen telecom infrastructure across India.",
+          "country": "India",
+          "importance": 7,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/jio-in-talks-with-isro-skyroot-for-1600-satellite-constellation-report/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/jio-PC-featured.png",
+          "published": "2026-11-16T07:10:12+00:00"
+        },
+        {
+          "headline": "[Update] SBI Data Breach: FIR Filed Over Alleged Theft Of 3.75 Lakh Bank Records",
+          "summary": "Police in CBD-Belapur have registered a First Information Report regarding the alleged theft of 375,000 State Bank of India customer records. The filing initiates a cybercrime investigation into the breach affecting India's largest public sector bank.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/sbi-flags-exposure-of-3897-customer-records-on-dark-web/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2022/03/dark-web.jpg",
+          "published": "2026-11-16T07:02:52+00:00"
+        },
+        {
+          "headline": "Bharat Semi Raises $24 Mn To Build Smart Sensors For Physical AI",
+          "summary": "Bengaluru-based semiconductor startup Bharat Semi has raised $24 million in a seed funding round. The capital will be used to develop programmable smart sensors designed for physical AI applications.",
+          "country": "India",
+          "importance": 5,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Untitled-Design-41.png",
+          "published": "2026-11-16T05:54:07+00:00"
+        },
+        {
+          "headline": "upGrad Enters Enterprise Advisory With Launch Of upGrad Next",
+          "summary": "Indian edtech unicorn upGrad has launched upGrad Next, a new enterprise advisory practice designed to help companies restructure their organizations and prepare their workforce. The initiative marks upGrad's expansion beyond direct-to-consumer and corporate learning into strategic enterprise advisory services.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/upgrad-enters-enterprise-advisory-with-launch-of-upgrad-next/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/FT-Ronnie-upGrad.png",
+          "published": "2026-11-16T07:28:25+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+          "summary": "Calls for Jensen Huang to return as CEO of Nvidia are growing following his recent resignation over reports of extramarital affairs. An online petition calling for his reinstatement has gathered over 160,000 signatures, drawing support from prominent tech figures including Elon Musk, Tim Sweeney, and Garry Tan. Nvidia has appointed CFO Colette Kress as interim CEO while its board searches for a permanent successor.",
+          "country": "United States",
+          "importance": 8,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&w=1920&h=1080",
+          "published": "2026-11-16T08:05:10+00:00"
+        },
+        {
+          "headline": "Microsoft\u2019s Azure Linux dons Fedora to dress itself up for mainstream workloads",
+          "summary": "Microsoft has released Azure Linux 4.0, re-platforming its cloud operating system on top of Fedora to support mainstream workloads such as Azure Virtual Machines and VM Scale Sets. This update expands the lightweight OS beyond container-centric environments like Azure Kubernetes Service to broader enterprise cloud infrastructure.",
+          "country": "United States",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016",
+          "image_url": "https://image.theregister.com/?imageId=5310021&width=800",
+          "published": "2026-11-16T06:04:02+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 Quickmart, quick slope",
+          "summary": "TechCabal's daily digest highlights several key regulatory and infrastructure developments across Africa. Notable updates include Egypt pausing digital lending licenses, new regulatory rules affecting South African gaming platforms, and Vodacom's ongoing 5G rollout ambitions.",
+          "country": "Global",
+          "importance": 4,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/11/16/techcabal-daily-quickmart-quick-slope/",
+          "image_url": null,
+          "published": "2026-11-16T06:03:47+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "stories": [
+        {
+          "headline": "Cyberattack alert: What Nigerian banks must tell customers",
+          "summary": "Nigerian financial institutions are facing heightened risks from cyberattacks, raising debate over mandatory customer notification policies following security breaches. While banks are currently required to report cyber incidents to regulators, guidelines on directly informing affected customers remain inconsistent.",
+          "country": "Nigeria",
+          "importance": 4,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/11/16/what-banks-must-show-after-a-cyberattack/",
+          "image_url": null,
+          "published": "2026-11-16T08:28:15+00:00"
+        }
+      ]
+    }
+  ]
+}
