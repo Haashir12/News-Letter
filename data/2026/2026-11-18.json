@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-18",
+  "run_timestamp": "2026-11-18T09:40:23.477098+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 6,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Southeast Asia\u2019s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
+          "summary": "New U.S. Commerce Department rules require data centers in Southeast Asian nations, including Singapore and Malaysia, to obtain U.S. government licenses before purchasing advanced AI chips. The policy aims to prevent Chinese technology firms from bypassing export controls by renting overseas computing capacity to train AI models. Data center facilities currently serving major Chinese clients have 90 days to apply for licenses or face future export restrictions.",
+          "country": "United States",
+          "importance": 8,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108553838-1794981607110-gettyimages-2301831834-MALAYSIA_DATA_CENTERS.jpeg?v=1794981788&w=1920&h=1080",
+          "published": "2026-11-18T08:09:43+00:00"
+        },
+        {
+          "headline": "British hacker who stole $11m through text message scheme jailed for six years in US",
+          "summary": "British hacker Tyler Buchanan has been sentenced to six years in a US federal prison for his role in a global SMS phishing campaign that stole over $11.6 million in cryptocurrency. Buchanan, a member of the Scattered Spider cybercrime group, targeted employees at major technology and telecommunications companies to compromise corporate networks.",
+          "country": "United States",
+          "importance": 6,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c1/live/d8eb9360-e2a3-11f1-99b6-a35a62fa4264.png",
+          "published": "2026-11-18T09:28:35+00:00"
+        },
+        {
+          "headline": "Time for frustrated M365 customers to stage a 'distributed denial of satisfaction' action",
+          "summary": "Following a recent major Microsoft 365 outage, affected customers seeking service level agreement reimbursements must manually apply for service credits through the Microsoft 365 Admin Center using specific Outage IDs. The manual claim process has drawn criticism for placing the administrative burden of service failures onto customers rather than automatically issuing credits.",
+          "country": "United States",
+          "importance": 4,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/off-prem/2026/11/18/time-for-frustrated-m365-customers-to-stage-a-distributed-denial-of-satisfaction-action/5310343",
+          "image_url": "https://image.theregister.com/?imageId=5310591&width=800",
+          "published": "2026-11-18T08:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Security flaw found in Java, world's third-largest programming language",
+          "summary": "Cybersecurity startup Calif used artificial intelligence to discover a critical memory-handling vulnerability in Java that has existed for over a decade. The flaw poses a significant security risk due to Java's widespread deployment across major enterprise, healthcare, banking, and government systems worldwide.",
+          "country": "Global",
+          "importance": 8,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg",
+          "published": "2026-11-18T08:47:06+00:00"
+        },
+        {
+          "headline": "Zipline taps Uber executive Anthony le Roux to lead African expansion",
+          "summary": "Zipline has appointed former Uber executive Anthony le Roux to lead its African operations beginning in January 2027. Le Roux will oversee the company's regional expansion plans, which include launching at least 20 new drone delivery hubs over two years.",
+          "country": "Global",
+          "importance": 5,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/11/18/zipline-hires-uber-executive/",
+          "image_url": null,
+          "published": "2026-11-18T07:53:09+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "UK MPs want AI watchdog with power to pull the plug on dangerous models",
+          "summary": "A UK parliamentary committee has recommended an AI Safety and Security Bill to establish an independent watchdog with the authority to halt high-risk model training, testing, or deployment. The proposal aims to move away from voluntary self-regulation by major developers like OpenAI, Google DeepMind, Anthropic, and Meta to ensure standardized safety enforcement.",
+          "country": "United Kingdom",
+          "importance": 7,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
+          "image_url": "https://image.theregister.com/?imageId=2918046&width=800",
+          "published": "2026-11-18T09:30:00+00:00"
+        }
+      ]
+    }
+  ]
+}
