@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-20",
+  "run_timestamp": "2026-11-20T09:35:11.267731+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 6,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
+          "summary": "Anthropic shares fell nearly 6% in premarket trading following its record-breaking Nasdaq initial public offering. The decline coincided with a broader selloff in artificial intelligence stocks, with Nvidia and AMD also experiencing drops. The sector faces pressure from concerns over capital expenditure, the resignation of Nvidia CEO Jensen Huang, and allegations involving AMD firmware found in U.S.-blacklisted companies.",
+          "country": "United States",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108556066-1795129874503-108556066-1795129228984-gettyimages-2305354070-ANTHROPIC_IPO.jpeg?v=1795144010&w=1920&h=1080",
+          "published": "2026-11-20T09:28:57+00:00"
+        },
+        {
+          "headline": "\u2018More than just a game\u2019: How GTA VI\u2019s blockbuster launch fuels a booming content economy",
+          "summary": "Grand Theft Auto VI generated approximately $1.84 billion in sales with 19.1 million copies sold shortly after its launch, according to data from Sensor Tower. The massive launch for Take-Two Interactive is also driving significant engagement across streaming platforms and social media, creating a parallel economy around gaming content creation and livestreams.",
+          "country": "United States",
+          "importance": 7,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108556195-1795148768637-gettyimages-2304972251-AFP_D7NA4PX.jpeg?v=1795157922&w=1920&h=1080",
+          "published": "2026-11-20T07:08:36+00:00"
+        },
+        {
+          "headline": "The U.S. national cyber director is stepping down",
+          "summary": "U.S. National Cyber Director Sean Cairncross is stepping down from his position as the president's principal adviser on national cybersecurity policy and strategy. His departure is reportedly timed to allow the White House to secure a Senate confirmation for a replacement before Democrats take control of Congress in January.",
+          "country": "United States",
+          "importance": 5,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
+          "published": "2026-11-20T09:14:19+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Ubuntu Core Desktop targets 28.04 debut, with default status in its sights",
+          "summary": "Canonical has announced plans to target Ubuntu 28.04 LTS for the official release of its immutable Ubuntu Core Desktop, with a stretch goal of making it the default download by Ubuntu 30.04. The new operating system packages the entire desktop system into Snaps to deliver an immutable, composable, and attestable platform, while continuing to support the traditional distribution alongside it.",
+          "country": "Global",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837",
+          "image_url": "https://image.theregister.com/?imageId=5252431&width=800",
+          "published": "2026-11-20T09:29:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Amazon Prime India Head Abhinav Agarwal Quits After 16 Years At Company",
+          "summary": "Abhinav Agarwal, the head of Amazon Prime India, has left the ecommerce giant after a 16-year tenure. During his time at Amazon, Agarwal served in various leadership roles across supply chain operations and consumer-facing services in the region.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/amazon-prime-india-head-abhinav-agarwal-quits-after-16-years-at-company/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/amazon-exports-featured-2.png",
+          "published": "2026-11-20T07:16:55+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "stories": [
+        {
+          "headline": "With new app, GTCO is giving its iconic 737 brand a second life",
+          "summary": "Guaranty Trust Holding Company (GTCO) is launching a new mobile application to expand its *737# brand beyond USSD banking. The new app aims to modernize the decade-old financial service by providing enhanced digital banking features to mobile users.",
+          "country": "Nigeria",
+          "importance": 3,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/11/20/gtco-revives-737-brand-with-new-ap/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/gtbank_original_photo_enhanced.webp",
+          "published": "2026-11-20T06:40:39+00:00"
+        }
+      ]
+    }
+  ]
+}
