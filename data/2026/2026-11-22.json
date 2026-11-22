@@ -1,0 +1,154 @@
+{
+  "date": "2026-11-22",
+  "run_timestamp": "2026-11-22T09:15:45.574458+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 12,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+          "summary": "Signal has begun restricting screenshot functionality across its Android and iOS applications to protect user privacy from OS-level AI agents. Signal President Meredith Whittaker stated that operating system features that scan on-screen content undermine the app's privacy guarantees by capturing sensitive data into local or remote AI databases outside of Signal's control.",
+          "country": "United States",
+          "importance": 7,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
+          "published": "2026-11-21T21:37:10+00:00"
+        },
+        {
+          "headline": "The FBI and USDA were reportedly hacked",
+          "summary": "Reports indicate that the US Department of Agriculture and the Federal Bureau of Investigation were both recently hacked. The FBI breach targeted the National Crime Information Center, marking the second cyber attack on the agency in recent months.",
+          "country": "United States",
+          "importance": 7,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "published": "2026-11-21T17:42:27+00:00"
+        },
+        {
+          "headline": "A tale of two Nvidias",
+          "summary": "Nvidia reported soaring revenue in its latest earnings report amid public discussions and petitions from tech executives regarding the company's executive leadership. Despite external calls for leadership changes, current executives reassured investors of the company's stability and growth strategy.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+          "published": "2026-11-21T21:07:42+00:00"
+        },
+        {
+          "headline": "Trump says reported FBI database hack is \u2018not good\u2019",
+          "summary": "The FBI is investigating an apparent hack of the National Crime Information Center (NCIC), a critical online database used by federal and local law enforcement to share background checks, warrants, and criminal records. Officials are concerned both about potential sensitive data theft and the risk that hackers could compromise the integrity of law enforcement records.",
+          "country": "United States",
+          "importance": 6,
+          "source": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+          "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
+          "published": "2026-11-21T18:44:53+00:00"
+        },
+        {
+          "headline": "Amazon is complaining about NYC Council on shipping labels, too",
+          "summary": "Amazon has started placing warning labels on package shipments in New York City to protest the proposed Delivery Protection Act. The company claims the local legislation, which would restrict certain third-party courier arrangements used by delivery platforms, could increase the cost of Amazon orders by up to $5.",
+          "country": "United States",
+          "importance": 3,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0%2C27.608909762858%2C100%2C39.421004003696&w=1200",
+          "published": "2026-11-21T21:59:31+00:00"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "stories": [
+        {
+          "headline": "Stalled Withdrawals, Millions Stolen: Inside India\u2019s Crypto Exchange Troubles",
+          "summary": "Indian cryptocurrency exchanges are facing operational disruption driven by banking issues, heightened regulatory scrutiny, and major cybersecurity breaches resulting in millions in stolen funds. These incidents have forced platforms to stall user withdrawals while exposing broader security and compliance vulnerabilities across the country's crypto ecosystem.",
+          "country": "India",
+          "importance": 6,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ftr-21-1.jpg",
+          "published": "2026-11-21T18:23:17+00:00"
+        },
+        {
+          "headline": "The GTA VI-Sized Hole In Indian Gaming",
+          "summary": "An analysis by Inc42 examines the state of the Indian gaming industry in the context of major global title launches such as Grand Theft Auto VI. The piece highlights structural gaps in India's gaming market, focusing on the country's reliance on international titles and the ongoing challenges local developers face in building high-budget AAA games.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/features/the-gta-vi-sized-hole-in-indian-gaming/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/GTA_Outline_Ftr.jpg",
+          "published": "2026-11-22T05:30:37+00:00"
+        },
+        {
+          "headline": "Atomberg & Voltas Execute JV Agreement To Build AC Compressors",
+          "summary": "Consumer appliances startup Atomberg has executed a joint venture agreement with Tata-owned Voltas to manufacture compressors for room air conditioners. The strategic partnership aims to localize the production of critical hardware components for the Indian cooling market.",
+          "country": "India",
+          "importance": 4,
+          "source": "Inc42 (India)",
+          "source_url": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/",
+          "image_url": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/ftr-22-1.jpg",
+          "published": "2026-11-21T20:41:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Quantum computing\u2019s first real-world payoff may come in energy, not drug discovery",
+          "summary": "Quantum software developers are increasingly shifting their focus toward practical applications in the energy sector, including power grid stabilization, solar cell materials, and hydrogen production. UK-founded quantum software startup Phasecraft recently raised $34 million in Series B funding and announced plans for a U.S. headquarters as companies compete to deliver near-term commercial value from quantum algorithms.",
+          "country": "United Kingdom",
+          "importance": 6,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108554063-1795006580677-gettyimages-2271702239-futuristic-microchip-glowing-data-connections.jpeg?v=1795006768&w=1920&h=1080",
+          "published": "2026-11-22T06:00:01+00:00"
+        },
+        {
+          "headline": "Passive 'ghost' radar can detect airborne threats without revealing its own position",
+          "summary": "BAE Systems is developing a covert passive radar system that tracks airborne threats by measuring reflections from existing commercial television, radio, and mobile network signals. The technology can detect targets ranging from small drones to large aircraft, offering a 3D air picture at roughly a tenth of the cost of traditional active radar.",
+          "country": "United Kingdom",
+          "importance": 5,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023",
+          "image_url": "https://image.theregister.com/?imageId=5311030&width=800",
+          "published": "2026-11-22T09:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "stories": [
+        {
+          "headline": "Come for the science, stay for the big iron: Supercomputer admin on why he loves the job",
+          "summary": "Mark O'Shea, supercomputing operations team leader at Australia's Pawsey Supercomputing Research Centre, discussed the operational realities of managing Setonix, an HPE Cray EX supercomputer powered by AMD EPYC CPUs and Instinct MI250X accelerators. The feature outlines career pathways into high-performance computing administration and highlights operational challenges shared between web hosting datacenters and supercomputers, such as cooling and power management.",
+          "country": "Australia",
+          "importance": 3,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247",
+          "image_url": "https://image.theregister.com/?imageId=5311252&width=800",
+          "published": "2026-11-22T08:48:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "The UN fails to agree on rules regulating \u2018killer robots\u2019",
+          "summary": "United Nations diplomats meeting in Geneva have failed to reach an agreement on establishing binding rules to regulate autonomous weapons systems, often referred to as killer robots. Following a week of fruitless negotiations, representatives only agreed to start discussing potential options in future sessions.",
+          "country": "Global",
+          "importance": 6,
+          "source": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
+          "published": "2026-11-21T20:03:37+00:00"
+        }
+      ]
+    }
+  ]
+}
