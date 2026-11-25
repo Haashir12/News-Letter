@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-25",
+  "run_timestamp": "2026-11-25T10:48:39.431672+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 7,
+  "countries": [
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "\u2018Rejection Will Have Consequences\u2019: Inside Trump\u2019s Demands to Another Chips CEO",
+          "summary": "Court documents reveal that the Trump administration pressured Intel into giving the U.S. government a 10% equity stake in the semiconductor company at no cost. A Commerce Department official warned Intel leadership that rejecting the demand would carry unpredictable consequences, leading the board to accept the terms.",
+          "country": "United States",
+          "importance": 8,
+          "source": "Wired",
+          "source_url": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
+          "image_url": "https://media.wired.com/photos/6b04df84424fd4be0d579981/191:100/w_1280,c_limit/How-Trump-Admin-Got-Piece-of-Intel-Business.jpg",
+          "published": "2026-11-25T10:00:00+00:00"
+        },
+        {
+          "headline": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+          "summary": "Nvidia Chief Executive Jensen Huang was briefly removed and swiftly reinstated following a scandal involving personal relationships and allegations related to breaches of US export bans on Nvidia chips to China. Despite national security concerns raised to US officials, Nvidia welcomed Huang back to his role, highlighting his central position at the semiconductor giant.",
+          "country": "United States",
+          "importance": 7,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
+          "published": "2026-11-25T10:03:12+00:00"
+        },
+        {
+          "headline": "The world's fastest computers have a problem: Keeping the work running",
+          "summary": "High-performance supercomputers like Oak Ridge National Laboratory's exascale system, Frontier, face operational challenges from single-node hardware failures. Issues such as uncorrectable double-bit memory errors or maintenance mistakes on one node can halt simulations running across thousands of processors. System operators are working to manage these reliability issues to minimize lost progress during long-running scientific computations.",
+          "country": "United States",
+          "importance": 6,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/systems/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710",
+          "image_url": "https://image.theregister.com/?imageId=5311858&width=800",
+          "published": "2026-11-25T10:15:00+00:00"
+        },
+        {
+          "headline": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
+          "summary": "WIRED reviewed and tested consumer red-light therapy devices, including caps and low-level laser therapy (LLLT) helmets, over a 16-week period to assess their efficacy for hair growth and restoration. The evaluation focused on scalp coverage, comfort, and clinical evidence supporting photobiomodulation for energizing hair follicles and improving blood circulation.",
+          "country": "United States",
+          "importance": 3,
+          "source": "Wired",
+          "source_url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+          "image_url": "https://media.wired.com/photos/6a236c81923e8b4d30970aa7/191:100/w_1280,c_limit/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg",
+          "published": "2026-11-25T10:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Saudi Arabia",
+      "stories": [
+        {
+          "headline": "Saudi AI startup 009 raises $1.4 million pre-seed led by Outliers Venture Capital",
+          "summary": "Riyadh-based artificial intelligence startup 009 has raised $1.4 million in a pre-seed funding round led by Outliers Venture Capital. The company develops AI agents and digital workflow representations, termed agent twins, to automate administrative and operational processes for government and industrial sectors.",
+          "country": "Saudi Arabia",
+          "importance": 3,
+          "source": "Wamda (Middle East)",
+          "source_url": "https://www.wamda.com/2026/11/saudi-ai-startup-009-raises-1-4-million-pre-seed-led-outliers-venture-capital",
+          "image_url": "https://cdn.wamda.com/feature-images/d9d3b389bad88a1.jpg",
+          "published": "2026-11-25T12:35:06+00:00"
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "stories": [
+        {
+          "headline": "Takealot grows revenue 27% as Amazon, Temu heat up e-commerce race",
+          "summary": "South African e-commerce leader Takealot reported a 27% revenue growth to $571 million for the six months ending September 2026. The Prosus-owned company also saw adjusted EBITDA rise 21% to $37 million, leveraging its local logistics and merchant network to defend its market position against expanding global rivals including Amazon, Shein, and Temu.",
+          "country": "South Africa",
+          "importance": 5,
+          "source": "TechCabal (Africa)",
+          "source_url": "https://techcabal.com/2026/11/25/takealot-revenue-growth-amazon-shein-temu/",
+          "image_url": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/11/Bloisi-pic.webp",
+          "published": "2026-11-25T10:29:11+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "EA adds AI-generated John Motson to FC 27 video game",
+          "summary": "Electronic Arts has announced that its video game EA Sports FC 27 will feature an AI-synthesized voice of late BBC football commentator John Motson. Developed with the permission of Motson's family, his voice was digitally recreated using generative AI combined with past recording sessions from his decades-long broadcasting career.",
+          "country": "United Kingdom",
+          "importance": 4,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg",
+          "published": "2026-11-25T10:11:34+00:00"
+        }
+      ]
+    }
+  ]
+}
