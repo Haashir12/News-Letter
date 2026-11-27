@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-27",
+  "run_timestamp": "2026-11-27T10:28:02.716229+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 5,
+  "countries": [
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "British social security system techies yank services offline following 'cyber incident'",
+          "summary": "The UK Department for Work and Pensions has taken several of its online services offline as a precaution following a detected cyber incident. The department is working with the National Cyber Security Centre to investigate the issue and restore systems, while confirming that regular benefit and pension payments remain unaffected.",
+          "country": "United Kingdom",
+          "importance": 5,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522",
+          "image_url": "https://image.theregister.com/?imageId=249560&width=800",
+          "published": "2026-11-27T10:01:00+00:00"
+        },
+        {
+          "headline": "Royal Navy orders \u00a3142M in minehunting drones from US supplier",
+          "summary": "The UK Royal Navy has awarded a \u00a3142 million ($185 million) contract to US defense supplier Huntington Ingalls Industries to purchase REMUS 620 uncrewed underwater vehicles (UUVs). The minehunting drones form part of the Navy's strategy to build a hybrid fleet integrating autonomous platforms alongside crewed vessels.",
+          "country": "United Kingdom",
+          "importance": 5,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/offbeat/2026/11/27/royal-navy-orders-142m-in-minehunting-drones-from-us-supplier/5312291",
+          "image_url": "https://image.theregister.com/?imageId=5312295&width=800",
+          "published": "2026-11-27T09:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "stories": [
+        {
+          "headline": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+          "summary": "Chinese semiconductor stocks experienced their largest single-day gain on record, with the CSI Semiconductor index surging 17.6% and the STAR index rising 14%. The rally followed state media reports that top policymakers pledged to expand market liquidity support and the role of state-backed funds. The market jump highlights ongoing efforts by Beijing to accelerate domestic semiconductor self-sufficiency in response to expanding U.S. restrictions on advanced AI chip exports.",
+          "country": "China",
+          "importance": 6,
+          "source": "CNBC Technology",
+          "source_url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+          "image_url": "https://image.cnbcfm.com/api/v1/image/108316445-1780531868664-gettyimages-2267522618-Stock_Market.jpeg?v=1780531885&w=1920&h=1080",
+          "published": "2026-11-27T10:13:44+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "stories": [
+        {
+          "headline": "Three weeks after a US$15B pledge, Google gets a US$145.8M lawsuit from Malaysia",
+          "summary": "The Malaysian Communications and Multimedia Commission has filed two lawsuits against Google, seeking US$145.8 million over the platform's alleged failure to remove harmful content on YouTube. The regulatory enforcement comes shortly after Google announced a major infrastructure pledge in the country.",
+          "country": "Malaysia",
+          "importance": 5,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/three-weeks-after-a-us15b-pledge-google-gets-a-us145-8m-lawsuit-from-malaysia-20261127/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/11/Google-MY.jpeg",
+          "published": "2026-11-27T09:53:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Washington now decides who rents SEA\u2019s GPUs, and Fitch says lenders have noticed",
+          "summary": "Fitch Ratings reported that U.S. export controls and regulations on GPU access are increasingly dictating data center investment across Southeast Asia. Lenders in the region are now scrutinizing U.S. policy compliance regarding who can rent high-performance AI chips rather than relying solely on traditional metrics like facility capacity and location.",
+          "country": "United States",
+          "importance": 6,
+          "source": "e27 (Southeast Asia)",
+          "source_url": "https://e27.co/washington-now-decides-who-rents-seas-gpus-and-fitch-says-lenders-have-noticed-20261127/",
+          "image_url": "https://e27.co/wp-content/uploads/2026/11/Fitch_report.jpeg",
+          "published": "2026-11-27T10:05:05+00:00"
+        }
+      ]
+    }
+  ]
+}
