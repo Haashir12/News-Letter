@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-28",
+  "run_timestamp": "2026-11-28T09:43:48.198672+00:00",
+  "status": "updated",
+  "message": null,
+  "total_stories": 3,
+  "countries": [
+    {
+      "name": "Global",
+      "stories": [
+        {
+          "headline": "Unkernel and Trynix just transported computing to 2035",
+          "summary": "The Register highlights recent open-source software experiments, including Unkernel and Trynix, that reimagine traditional operating system and hypervisor architectures. Inspired by long-standing conceptual discussions on computing design, these projects explore radical alternatives to standard virtualization and software isolation layers.",
+          "country": "Global",
+          "importance": 5,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/software/2026/11/28/unkernel-and-trynix-just-transported-computing-to-2035/5313200",
+          "image_url": "https://image.theregister.com/?imageId=5313212&width=800",
+          "published": "2026-11-28T08:34:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "headline": "Pensions and benefits services still down after 'cyber incident'",
+          "summary": "Online benefits and pensions services in the UK were taken offline following a cyber incident detected by the Department for Work and Pensions (DWP). Cyber security experts suspect the systems were targeted by hackers, prompting a preemptive shutdown to protect data, though the government has not yet confirmed the exact cause.",
+          "country": "United Kingdom",
+          "importance": 6,
+          "source": "BBC Technology",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg",
+          "published": "2026-11-28T09:10:32+00:00"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "stories": [
+        {
+          "headline": "Quantum: 'Five years, that's all we got\u2026'",
+          "summary": "At the SC supercomputing conference in Chicago, industry discussions highlighted ongoing progress in integrating quantum processors with classical high-performance computing (HPC) workflows and error-correction tools. However, experts noted that hardware error rates remain a fundamental bottleneck, estimating it will take at least five years before fault-tolerant systems can meaningfully outperform classical supercomputers.",
+          "country": "United States",
+          "importance": 4,
+          "source": "The Register",
+          "source_url": "https://www.theregister.com/hpc/2026/11/28/quantum-five-years-thats-all-we-got/5312034",
+          "image_url": "https://image.theregister.com/?imageId=5312040&width=800",
+          "published": "2026-11-28T09:24:00+00:00"
+        }
+      ]
+    }
+  ]
+}
